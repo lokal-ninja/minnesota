@@ -1,0 +1,4 @@
+---
+title: "Parkway Collision"
+url: /farmington/parkway-collision/
+---
