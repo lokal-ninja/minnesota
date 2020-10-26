@@ -1,11 +1,11 @@
-id: 4551510010
-type: node
+id: 155773222
+type: way
 shop: mobile phone
-latitude: 44.0691678
-longitude: -92.5035441
+latitude: 44.069266400000004
+longitude: -92.5033045
 postcode: "55901"
 city: Rochester
-street: "West Frontage Rd"
+street: "West Frontage Rd NW;West Frontage Rd"
 housenumber: 4400
 phone: ""
 opening_hours: ""
