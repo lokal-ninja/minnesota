@@ -1,6 +1,6 @@
 ---
 title: Big Lake
 url: /big-lake/
-latitude: 45.3324647
-longitude: -93.74608040000001
+latitude: 46.7218615
+longitude: -92.61634520000001
 ---
