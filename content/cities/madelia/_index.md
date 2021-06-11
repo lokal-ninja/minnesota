@@ -1,6 +1,6 @@
 ---
 title: Madelia
 url: /madelia/
-latitude: 44.0507937
-longitude: -94.4182981
+latitude: 44.050733900000004
+longitude: -94.4183249
 ---
