@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /cotton/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

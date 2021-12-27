@@ -1,6 +1,6 @@
 ---
 title: Lino Lakes
 url: /lino-lakes/
-latitude: 45.1602442
-longitude: -93.0888324
+latitude: 45.183
+longitude: -93.112
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CLOSED"
 url: /farmington/closed/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Baudette
 url: /baudette/
-latitude: 48.7124408
-longitude: -94.600171
+latitude: 48.713
+longitude: -94.599
 ---

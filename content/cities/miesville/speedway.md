@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /miesville/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

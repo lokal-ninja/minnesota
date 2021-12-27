@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /shakopee/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

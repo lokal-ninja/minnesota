@@ -1,6 +1,6 @@
 ---
 title: Tofte
 url: /tofte/
-latitude: 47.5738732
-longitude: -90.8364038
+latitude: 47.577
+longitude: -90.831
 ---

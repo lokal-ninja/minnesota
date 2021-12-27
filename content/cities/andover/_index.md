@@ -1,6 +1,6 @@
 ---
 title: Andover
 url: /andover/
-latitude: 45.233298500000004
-longitude: -93.2913405
+latitude: 45.226
+longitude: -93.356
 ---

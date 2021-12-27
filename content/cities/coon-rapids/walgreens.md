@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /coon-rapids/walgreens/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Totem Pole"
 url: /nisswa/totem-pole/
-shop: gift
+shop: Andenken
 ---

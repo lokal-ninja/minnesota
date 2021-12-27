@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /bloomington/ikea/
-shop: furniture
+shop: Möbel
 ---

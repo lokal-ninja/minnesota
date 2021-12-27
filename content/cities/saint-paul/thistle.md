@@ -1,5 +1,5 @@
 ---
 title: "Thistle"
 url: /saint-paul/thistle/
-shop: gift
+shop: Andenken
 ---

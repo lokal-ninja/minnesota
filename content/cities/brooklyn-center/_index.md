@@ -1,6 +1,6 @@
 ---
 title: Brooklyn Center
 url: /brooklyn-center/
-latitude: 45.074854300000005
-longitude: -93.3296296
+latitude: 45.064
+longitude: -93.307
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super One Foods"
 url: /hibbing/super-one-foods/
-shop: supermarket
+shop: Supermarkt
 ---

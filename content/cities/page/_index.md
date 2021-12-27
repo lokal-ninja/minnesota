@@ -1,6 +1,6 @@
 ---
 title: Page
 url: /page/
-latitude: 45.887463000000004
-longitude: -93.66357670000001
+latitude: 45.825
+longitude: -93.656
 ---

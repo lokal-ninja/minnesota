@@ -1,6 +1,6 @@
 ---
 title: Crystal
 url: /crystal/
-latitude: 45.031823
-longitude: -93.3606072
+latitude: 45.054
+longitude: -93.364
 ---

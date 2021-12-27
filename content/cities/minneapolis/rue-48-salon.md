@@ -1,5 +1,5 @@
 ---
 title: "Rue 48 Salon"
 url: /minneapolis/rue-48-salon/
-shop: beauty
+shop: Kosmetik
 ---

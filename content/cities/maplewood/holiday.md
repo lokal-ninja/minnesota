@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /maplewood/holiday/
-shop: convenience
+shop: Lebensmittel
 ---

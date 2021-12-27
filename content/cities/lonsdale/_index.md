@@ -1,6 +1,6 @@
 ---
 title: Lonsdale
 url: /lonsdale/
-latitude: 44.4802412
-longitude: -93.42855870000001
+latitude: 44.481
+longitude: -93.419
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /eden-prairie/menards/
-shop: doityourself
+shop: Baumarkt
 ---

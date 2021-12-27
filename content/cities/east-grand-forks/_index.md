@@ -1,6 +1,6 @@
 ---
 title: East Grand Forks
 url: /east-grand-forks/
-latitude: 47.9317013
-longitude: -97.0175792
+latitude: 47.928
+longitude: -97.026
 ---

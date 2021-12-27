@@ -1,6 +1,6 @@
 ---
 title: Blaie
 url: /blaie/
-latitude: 
-longitude: 
+latitude: 45.133
+longitude: -93.264
 ---

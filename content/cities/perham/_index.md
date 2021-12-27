@@ -1,6 +1,6 @@
 ---
 title: Perham
 url: /perham/
-latitude: 46.5944042
-longitude: -95.5725415
+latitude: 46.583
+longitude: -95.57
 ---

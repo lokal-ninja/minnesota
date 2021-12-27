@@ -1,6 +1,6 @@
 ---
 title: Woobury
 url: /woobury/
-latitude: 
-longitude: 
+latitude: 44.944
+longitude: -92.94
 ---

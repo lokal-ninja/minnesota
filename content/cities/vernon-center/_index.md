@@ -1,6 +1,6 @@
 ---
 title: Vernon Center
 url: /vernon-center/
-latitude: 43.961906000000006
-longitude: -94.1691248
+latitude: 43.963
+longitude: -94.169
 ---

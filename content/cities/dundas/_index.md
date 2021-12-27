@@ -1,6 +1,6 @@
 ---
 title: Dundas
 url: /dundas/
-latitude: 44.4294359
-longitude: -93.2020856
+latitude: 44.43
+longitude: -93.192
 ---

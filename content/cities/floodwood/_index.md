@@ -1,6 +1,6 @@
 ---
 title: Floodwood
 url: /floodwood/
-latitude: 46.9291095
-longitude: -92.9196483
+latitude: 46.929
+longitude: -92.921
 ---

@@ -1,6 +1,6 @@
 ---
 title: Goodland
 url: /goodland/
-latitude: 47.161884
-longitude: -93.13576
+latitude: 47.161
+longitude: -93.137
 ---

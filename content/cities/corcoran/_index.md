@@ -1,6 +1,6 @@
 ---
 title: Corcoran
 url: /corcoran/
-latitude: 44.942097100000005
-longitude: -93.2413564
+latitude: 45.094
+longitude: -93.546
 ---

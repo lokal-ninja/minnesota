@@ -1,5 +1,5 @@
 ---
 title: "New Art Salon"
 url: /saint-paul/new-art-salon/
-shop: hairdresser
+shop: Friseur
 ---

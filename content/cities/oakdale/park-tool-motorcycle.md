@@ -1,5 +1,5 @@
 ---
 title: "Park Tool Motorcycle"
 url: /oakdale/park-tool-motorcycle/
-shop: shop
+shop: Allgemein
 ---

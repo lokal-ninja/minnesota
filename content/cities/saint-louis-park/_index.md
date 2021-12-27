@@ -1,6 +1,6 @@
 ---
 title: Saint Louis Park
 url: /saint-louis-park/
-latitude: 
-longitude: 
+latitude: 44.936
+longitude: -93.352
 ---

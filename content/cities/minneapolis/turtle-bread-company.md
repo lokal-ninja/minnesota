@@ -1,5 +1,5 @@
 ---
 title: "Turtle Bread Company"
 url: /minneapolis/turtle-bread-company/
-shop: bakery
+shop: Bäckerei
 ---

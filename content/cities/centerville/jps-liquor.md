@@ -1,5 +1,5 @@
 ---
 title: "JP's Liquor"
 url: /centerville/jps-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

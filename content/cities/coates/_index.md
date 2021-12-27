@@ -1,6 +1,6 @@
 ---
 title: Coates
 url: /coates/
-latitude: 44.717188900000004
-longitude: -93.0346576
+latitude: 44.718
+longitude: -93.036
 ---

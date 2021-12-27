@@ -1,6 +1,6 @@
 ---
 title: Vadnais Heights
 url: /vadnais-heights/
-latitude: 45.057465900000004
-longitude: -93.07383060000001
+latitude: 45.05
+longitude: -93.064
 ---

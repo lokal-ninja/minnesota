@@ -1,5 +1,5 @@
 ---
 title: "Lakeland"
 url: /gilbert/lakeland/
-shop: convenience
+shop: Lebensmittel
 ---

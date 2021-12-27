@@ -1,5 +1,5 @@
 ---
 title: "Darque Tan"
 url: /coon-rapids/darque-tan/
-shop: beauty
+shop: Kosmetik
 ---

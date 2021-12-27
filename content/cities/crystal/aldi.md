@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /crystal/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

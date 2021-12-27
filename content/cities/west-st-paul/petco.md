@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /west-st-paul/petco/
-shop: pet
+shop: Tiere
 ---

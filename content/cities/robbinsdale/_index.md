@@ -1,6 +1,6 @@
 ---
 title: Robbinsdale
 url: /robbinsdale/
-latitude: 45.031315600000006
-longitude: -93.33958430000001
+latitude: 45.019
+longitude: -93.328
 ---

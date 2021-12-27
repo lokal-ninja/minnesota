@@ -1,5 +1,5 @@
 ---
 title: "Northern Sun Tanning"
 url: /bemidji/northern-sun-tanning/
-shop: beauty
+shop: Kosmetik
 ---

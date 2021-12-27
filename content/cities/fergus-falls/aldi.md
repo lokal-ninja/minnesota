@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /fergus-falls/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

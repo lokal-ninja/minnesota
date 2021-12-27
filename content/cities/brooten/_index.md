@@ -1,6 +1,6 @@
 ---
 title: Brooten
 url: /brooten/
-latitude: 45.5010752
-longitude: -95.1244669
+latitude: 45.582
+longitude: -95.074
 ---

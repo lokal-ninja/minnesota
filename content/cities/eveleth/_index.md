@@ -1,6 +1,6 @@
 ---
 title: Eveleth
 url: /eveleth/
-latitude: 47.462761
-longitude: -92.538824
+latitude: 47.479
+longitude: -92.533
 ---

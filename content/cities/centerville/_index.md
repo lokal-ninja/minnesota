@@ -1,6 +1,6 @@
 ---
 title: Centerville
 url: /centerville/
-latitude: 43.9430192
-longitude: -91.6357021
+latitude: 45.163
+longitude: -93.042
 ---

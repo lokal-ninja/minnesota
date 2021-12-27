@@ -1,6 +1,6 @@
 ---
 title: Mineapolis
 url: /mineapolis/
-latitude: 
-longitude: 
+latitude: 44.851
+longitude: -93.436
 ---

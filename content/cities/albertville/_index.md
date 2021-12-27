@@ -1,6 +1,6 @@
 ---
 title: Albertville
 url: /albertville/
-latitude: 45.234708600000005
-longitude: -93.6642199
+latitude: 45.246
+longitude: -93.675
 ---

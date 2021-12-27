@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /maple-grove/michaels/
-shop: craft
+shop: Basteln
 ---

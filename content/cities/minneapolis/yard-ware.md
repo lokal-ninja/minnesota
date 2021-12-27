@@ -1,5 +1,5 @@
 ---
 title: "Yard Ware"
 url: /minneapolis/yard-ware/
-shop: garden centre
+shop: Garten-Center
 ---

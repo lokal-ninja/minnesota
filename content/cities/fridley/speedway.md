@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /fridley/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

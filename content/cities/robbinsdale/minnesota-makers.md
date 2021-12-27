@@ -1,5 +1,5 @@
 ---
 title: "Minnesota Makers"
 url: /robbinsdale/minnesota-makers/
-shop: gift
+shop: Andenken
 ---

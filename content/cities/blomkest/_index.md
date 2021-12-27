@@ -1,6 +1,6 @@
 ---
 title: Blomkest
 url: /blomkest/
-latitude: 44.9427369
-longitude: -95.02327700000001
+latitude: 44.936
+longitude: -95.045
 ---

@@ -1,6 +1,6 @@
 ---
 title: Eyota
 url: /eyota/
-latitude: 43.988750700000004
-longitude: -92.2292396
+latitude: 43.988
+longitude: -92.23
 ---

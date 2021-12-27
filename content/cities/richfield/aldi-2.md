@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /richfield/aldi-2/
-shop: supermarket
+shop: Supermarkt
 ---

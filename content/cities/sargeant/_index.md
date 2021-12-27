@@ -1,6 +1,6 @@
 ---
 title: Sargeant
 url: /sargeant/
-latitude: 43.8052377
-longitude: -92.8014629
+latitude: 43.805
+longitude: -92.802
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mantorville
 url: /mantorville/
-latitude: 44.0678403
-longitude: -92.7551315
+latitude: 44.066
+longitude: -92.755
 ---

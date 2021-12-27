@@ -1,6 +1,6 @@
 ---
 title: Ramsey
 url: /ramsey/
-latitude: 45.016572800000006
-longitude: -93.0949501
+latitude: 45.219
+longitude: -93.422
 ---

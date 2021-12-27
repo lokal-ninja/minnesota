@@ -1,6 +1,6 @@
 ---
 title: North Branch
 url: /north-branch/
-latitude: 45.5113515
-longitude: -92.9802176
+latitude: 45.524
+longitude: -92.996
 ---

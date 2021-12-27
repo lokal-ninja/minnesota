@@ -1,6 +1,6 @@
 ---
 title: Alberta
 url: /alberta/
-latitude: 45.5732488
-longitude: -96.0476086
+latitude: 45.573
+longitude: -96.047
 ---

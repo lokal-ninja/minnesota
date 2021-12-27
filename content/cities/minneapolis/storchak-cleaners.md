@@ -1,5 +1,5 @@
 ---
 title: "Storchak Cleaners"
 url: /minneapolis/storchak-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

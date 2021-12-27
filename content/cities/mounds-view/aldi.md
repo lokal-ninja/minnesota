@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /mounds-view/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

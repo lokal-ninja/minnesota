@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /cloquet/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

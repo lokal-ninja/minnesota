@@ -1,6 +1,6 @@
 ---
 title: Fosston
 url: /fosston/
-latitude: 47.576348100000004
-longitude: -95.75141500000001
+latitude: 47.58
+longitude: -95.759
 ---

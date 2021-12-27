@@ -1,6 +1,6 @@
 ---
 title: Biwabik
 url: /biwabik/
-latitude: 47.532981
-longitude: -92.340179
+latitude: 47.533
+longitude: -92.344
 ---

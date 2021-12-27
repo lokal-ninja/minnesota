@@ -1,6 +1,6 @@
 ---
 title: Edina
 url: /edina/
-latitude: 
-longitude: 
+latitude: 44.88
+longitude: -93.32
 ---

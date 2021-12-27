@@ -1,6 +1,6 @@
 ---
 title: Ghent
 url: /ghent/
-latitude: 44.512738000000006
-longitude: -95.891137
+latitude: 44.513
+longitude: -95.893
 ---

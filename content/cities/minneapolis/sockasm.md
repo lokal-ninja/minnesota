@@ -1,5 +1,5 @@
 ---
 title: "Sockasm"
 url: /minneapolis/sockasm/
-shop: clothes
+shop: Kleidung
 ---

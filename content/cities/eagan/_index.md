@@ -1,6 +1,6 @@
 ---
 title: Eagan
 url: /eagan/
-latitude: 44.818173
-longitude: -93.16591790000001
+latitude: 44.836
+longitude: -93.158
 ---

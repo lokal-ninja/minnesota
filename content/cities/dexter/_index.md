@@ -1,6 +1,6 @@
 ---
 title: Dexter
 url: /dexter/
-latitude: 43.7197096
-longitude: -92.70455480000001
+latitude: 43.711
+longitude: -92.698
 ---

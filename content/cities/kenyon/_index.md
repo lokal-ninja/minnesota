@@ -1,6 +1,6 @@
 ---
 title: Kenyon
 url: /kenyon/
-latitude: 44.2721868
-longitude: -92.98548410000001
+latitude: 44.279
+longitude: -92.975
 ---

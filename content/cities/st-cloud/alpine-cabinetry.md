@@ -1,5 +1,5 @@
 ---
 title: "Alpine Cabinetry"
 url: /st-cloud/alpine-cabinetry/
-shop: kitchen
+shop: Küchen
 ---

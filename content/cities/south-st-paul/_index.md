@@ -1,6 +1,6 @@
 ---
 title: South St Paul
 url: /south-st-paul/
-latitude: 
-longitude: 
+latitude: 44.888
+longitude: -93.049
 ---

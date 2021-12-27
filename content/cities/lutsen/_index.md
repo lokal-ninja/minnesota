@@ -1,6 +1,6 @@
 ---
 title: Lutsen
 url: /lutsen/
-latitude: 47.6470829
-longitude: -90.67486600000001
+latitude: 47.646
+longitude: -90.678
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fairview Home Medical Equipment"
 url: /saint-paul/fairview-home-medical-equipment/
-shop: medical supply
+shop: Sanitätshaus
 ---

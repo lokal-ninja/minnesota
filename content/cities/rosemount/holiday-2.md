@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /rosemount/holiday-2/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /mendota-heights/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

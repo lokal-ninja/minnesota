@@ -1,5 +1,5 @@
 ---
 title: "TownsEdge Salon"
 url: /farmington/townsedge-salon/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Larue's"
 url: /minneapolis/larues/
-shop: clothes
+shop: Kleidung
 ---

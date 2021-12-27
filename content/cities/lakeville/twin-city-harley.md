@@ -1,5 +1,5 @@
 ---
 title: "Twin City Harley"
 url: /lakeville/twin-city-harley/
-shop: motorcycle
+shop: Motorrad
 ---

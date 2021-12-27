@@ -1,5 +1,5 @@
 ---
 title: "TechTrends"
 url: /new-ulm/techtrends/
-shop: shop
+shop: Allgemein
 ---

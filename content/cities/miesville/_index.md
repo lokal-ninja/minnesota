@@ -1,6 +1,6 @@
 ---
 title: Miesville
 url: /miesville/
-latitude: 44.6007079
-longitude: -92.81269950000001
+latitude: 44.6
+longitude: -92.811
 ---

@@ -1,6 +1,6 @@
 ---
 title: Deer River
 url: /deer-river/
-latitude: 47.3328087
-longitude: -93.7928136
+latitude: 47.338
+longitude: -93.805
 ---

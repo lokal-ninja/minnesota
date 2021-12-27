@@ -1,5 +1,5 @@
 ---
 title: "Lux Salon"
 url: /rogers/lux-salon/
-shop: hairdresser
+shop: Friseur
 ---

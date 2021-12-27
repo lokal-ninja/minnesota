@@ -1,5 +1,5 @@
 ---
 title: "Sonju"
 url: /two-harbors/sonju/
-shop: car
+shop: Autohaus
 ---

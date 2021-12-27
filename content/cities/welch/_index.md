@@ -1,6 +1,6 @@
 ---
 title: Welch
 url: /welch/
-latitude: 44.568300300000004
-longitude: -92.7385321
+latitude: 44.631
+longitude: -92.671
 ---

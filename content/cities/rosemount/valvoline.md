@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /rosemount/valvoline/
-shop: car repair
+shop: Autowerkstatt
 ---

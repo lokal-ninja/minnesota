@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /maple-grove/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

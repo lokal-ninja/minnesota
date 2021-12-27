@@ -1,5 +1,5 @@
 ---
 title: "Tesla"
 url: /maplewood/tesla/
-shop: car
+shop: Autohaus
 ---

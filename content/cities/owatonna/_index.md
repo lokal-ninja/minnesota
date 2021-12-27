@@ -1,6 +1,6 @@
 ---
 title: Owatonna
 url: /owatonna/
-latitude: 44.0839937
-longitude: -93.2261076
+latitude: 44.085
+longitude: -93.226
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /prior-lake/holiday/
-shop: convenience
+shop: Lebensmittel
 ---

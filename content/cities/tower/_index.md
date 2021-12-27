@@ -1,6 +1,6 @@
 ---
 title: Tower
 url: /tower/
-latitude: 47.804984000000005
-longitude: -92.276651
+latitude: 47.806
+longitude: -92.272
 ---

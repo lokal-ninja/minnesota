@@ -1,6 +1,6 @@
 ---
 title: Clearbrook
 url: /clearbrook/
-latitude: 47.691901
-longitude: -95.431123
+latitude: 47.675
+longitude: -95.433
 ---

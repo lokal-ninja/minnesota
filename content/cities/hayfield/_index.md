@@ -1,6 +1,6 @@
 ---
 title: Hayfield
 url: /hayfield/
-latitude: 43.8906201
-longitude: -92.8479006
+latitude: 43.893
+longitude: -92.86
 ---

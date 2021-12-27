@@ -1,6 +1,6 @@
 ---
 title: North Mankato
 url: /north-mankato/
-latitude: 44.173291600000006
-longitude: -94.0338055
+latitude: 44.179
+longitude: -94.036
 ---
