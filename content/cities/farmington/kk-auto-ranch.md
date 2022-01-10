@@ -1,5 +1,5 @@
 ---
 title: "KK Auto Ranch"
 url: /farmington/kk-auto-ranch/
-shop: Autohaus
+shop: car
 ---

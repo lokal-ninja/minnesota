@@ -1,5 +1,5 @@
 ---
 title: "Willwerscheid Funeral Homes"
 url: /saint-paul/willwerscheid-funeral-homes/
-shop: Bestattungen
+shop: funeral directors
 ---

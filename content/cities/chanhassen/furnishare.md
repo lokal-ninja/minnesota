@@ -1,5 +1,5 @@
 ---
 title: "Furnishare"
 url: /chanhassen/furnishare/
-shop: Möbel
+shop: furniture
 ---

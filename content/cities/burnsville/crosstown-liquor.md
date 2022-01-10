@@ -1,5 +1,5 @@
 ---
 title: "Crosstown Liquor"
 url: /burnsville/crosstown-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

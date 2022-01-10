@@ -1,5 +1,5 @@
 ---
 title: "Thurston Jewelers"
 url: /minneapolis/thurston-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

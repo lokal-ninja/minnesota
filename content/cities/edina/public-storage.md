@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /edina/public-storage/
-shop: Mieten
+shop: storage rental
 ---

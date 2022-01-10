@@ -1,5 +1,5 @@
 ---
 title: "Parts City"
 url: /cokato/parts-city/
-shop: Autoteile
+shop: car parts
 ---

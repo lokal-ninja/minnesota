@@ -1,5 +1,5 @@
 ---
 title: "Low Vision Store"
 url: /saint-paul/low-vision-store/
-shop: Sanitätshaus
+shop: medical supply
 ---

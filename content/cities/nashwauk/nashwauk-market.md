@@ -1,5 +1,5 @@
 ---
 title: "Nashwauk Market"
 url: /nashwauk/nashwauk-market/
-shop: Supermarkt
+shop: supermarket
 ---

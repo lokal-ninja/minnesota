@@ -1,5 +1,5 @@
 ---
 title: "Body Connection Massage"
 url: /cloquet/body-connection-massage/
-shop: Massage
+shop: massage
 ---

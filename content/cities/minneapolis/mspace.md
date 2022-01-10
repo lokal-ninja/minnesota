@@ -1,5 +1,5 @@
 ---
 title: "MSpace"
 url: /minneapolis/mspace/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /blaine/michaels/
-shop: Basteln
+shop: craft
 ---

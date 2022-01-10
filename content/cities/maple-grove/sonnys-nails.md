@@ -1,5 +1,5 @@
 ---
 title: "Sonny's Nails"
 url: /maple-grove/sonnys-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Knowmad Adventures"
 url: /minneapolis/knowmad-adventures/
-shop: Reisebüro
+shop: travel agency
 ---

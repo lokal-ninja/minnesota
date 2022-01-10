@@ -1,5 +1,5 @@
 ---
 title: "Fashion Accessories"
 url: /minneapolis/fashion-accessories/
-shop: Kleidung
+shop: clothes
 ---

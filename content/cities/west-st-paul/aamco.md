@@ -1,5 +1,5 @@
 ---
 title: "AAMCO"
 url: /west-st-paul/aamco/
-shop: Autowerkstatt
+shop: car repair
 ---

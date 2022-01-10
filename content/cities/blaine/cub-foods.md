@@ -1,5 +1,5 @@
 ---
 title: "Cub Foods"
 url: /blaine/cub-foods/
-shop: Supermarkt
+shop: supermarket
 ---

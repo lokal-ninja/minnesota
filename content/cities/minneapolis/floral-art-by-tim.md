@@ -1,5 +1,5 @@
 ---
 title: "Floral Art by Tim"
 url: /minneapolis/floral-art-by-tim/
-shop: Blumen
+shop: florist
 ---

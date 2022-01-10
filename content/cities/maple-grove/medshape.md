@@ -1,5 +1,5 @@
 ---
 title: "Medshape"
 url: /maple-grove/medshape/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

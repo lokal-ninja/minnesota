@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /apple-valley/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

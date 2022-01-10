@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /minneapolis/holiday/
-shop: Lebensmittel
+shop: convenience
 ---

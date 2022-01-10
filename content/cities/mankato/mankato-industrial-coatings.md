@@ -1,5 +1,5 @@
 ---
 title: "Mankato Industrial Coatings"
 url: /mankato/mankato-industrial-coatings/
-shop: Autoteile
+shop: car parts
 ---

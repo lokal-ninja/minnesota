@@ -1,5 +1,5 @@
 ---
 title: "ExpressWay"
 url: /sleepy-eye/expressway/
-shop: Lebensmittel
+shop: convenience
 ---

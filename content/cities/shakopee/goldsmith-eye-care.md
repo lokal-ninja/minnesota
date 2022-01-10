@@ -1,5 +1,5 @@
 ---
 title: "Goldsmith Eye Care"
 url: /shakopee/goldsmith-eye-care/
-shop: Optiker
+shop: optician
 ---

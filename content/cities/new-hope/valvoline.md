@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /new-hope/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

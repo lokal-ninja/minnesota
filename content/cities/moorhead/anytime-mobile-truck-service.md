@@ -1,5 +1,5 @@
 ---
 title: "Anytime Mobile Truck Service"
 url: /moorhead/anytime-mobile-truck-service/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MIckman Brothers"
 url: /ham-lake/mickman-brothers/
-shop: Garten-Center
+shop: garden centre
 ---

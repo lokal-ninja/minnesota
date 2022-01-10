@@ -1,5 +1,5 @@
 ---
 title: "Broadway Rental"
 url: /brooklyn-park/broadway-rental/
-shop: Mieten
+shop: storage rental
 ---

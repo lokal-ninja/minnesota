@@ -1,5 +1,5 @@
 ---
 title: "Mathiowetz Body Shop"
 url: /sleepy-eye/mathiowetz-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

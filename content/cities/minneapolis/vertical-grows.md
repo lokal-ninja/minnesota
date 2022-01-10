@@ -1,5 +1,5 @@
 ---
 title: "Vertical Grows"
 url: /minneapolis/vertical-grows/
-shop: Hofladen
+shop: farm
 ---

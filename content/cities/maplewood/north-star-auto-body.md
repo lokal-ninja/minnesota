@@ -1,5 +1,5 @@
 ---
 title: "North Star Auto Body"
 url: /maplewood/north-star-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /roseville/sherwin-williams/
-shop: Farben
+shop: paint
 ---

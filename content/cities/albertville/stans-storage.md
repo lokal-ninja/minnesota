@@ -1,5 +1,5 @@
 ---
 title: "Stan's Storage"
 url: /albertville/stans-storage/
-shop: Mieten
+shop: storage rental
 ---

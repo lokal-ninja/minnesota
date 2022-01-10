@@ -1,5 +1,5 @@
 ---
 title: "Jenkins Auto Body"
 url: /mapleton/jenkins-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

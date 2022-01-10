@@ -1,5 +1,5 @@
 ---
 title: "The Antique Alley"
 url: /osseo/the-antique-alley/
-shop: Antiquitäten
+shop: antiques
 ---

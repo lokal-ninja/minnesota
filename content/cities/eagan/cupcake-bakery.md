@@ -1,5 +1,5 @@
 ---
 title: "Cupcake Bakery"
 url: /eagan/cupcake-bakery/
-shop: Konditorei
+shop: pastry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Indy Lube"
 url: /rochester/indy-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Virgil's"
 url: /rochester/virgils/
-shop: Autowerkstatt
+shop: car repair
 ---

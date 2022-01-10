@@ -1,5 +1,5 @@
 ---
 title: "Chuck's Implement Repair"
 url: /hendricks/chucks-implement-repair/
-shop: Allgemein
+shop: shop
 ---

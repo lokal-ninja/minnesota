@@ -1,5 +1,5 @@
 ---
 title: "Holiday Stationstore"
 url: /champlin/holiday-stationstore/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /inver-grove-heights/holiday-3/
-shop: Lebensmittel
+shop: convenience
 ---

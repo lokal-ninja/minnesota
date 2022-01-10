@@ -1,5 +1,5 @@
 ---
 title: "Lewis Family Drug"
 url: /graceville/lewis-family-drug/
-shop: Drogerie
+shop: chemist
 ---

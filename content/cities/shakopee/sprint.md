@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /shakopee/sprint/
-shop: Handy
+shop: mobile phone
 ---

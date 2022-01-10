@@ -1,5 +1,5 @@
 ---
 title: "Menard Garden Center"
 url: /willmar/menard-garden-center/
-shop: Garten-Center
+shop: garden centre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fancy Paws"
 url: /lakeville/fancy-paws/
-shop: Tiere
+shop: pet
 ---

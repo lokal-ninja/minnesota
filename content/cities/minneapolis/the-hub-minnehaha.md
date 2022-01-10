@@ -1,5 +1,5 @@
 ---
 title: "The Hub Minnehaha"
 url: /minneapolis/the-hub-minnehaha/
-shop: Fahrrad
+shop: bicycle
 ---

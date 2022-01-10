@@ -1,5 +1,5 @@
 ---
 title: "Rich's Southside Service"
 url: /rochester/richs-southside-service/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /faribault/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Collision Bonilla"
 url: /minneapolis/collision-bonilla/
-shop: Autowerkstatt
+shop: car repair
 ---

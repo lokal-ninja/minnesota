@@ -1,5 +1,5 @@
 ---
 title: "Solo Vino"
 url: /saint-paul/solo-vino/
-shop: Spirituosen
+shop: alcohol
 ---

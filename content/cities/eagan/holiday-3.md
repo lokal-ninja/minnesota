@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /eagan/holiday-3/
-shop: Lebensmittel
+shop: convenience
 ---

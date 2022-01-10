@@ -1,5 +1,5 @@
 ---
 title: "Sport Salvage"
 url: /alexandria/sport-salvage/
-shop: Baumarkt
+shop: doityourself
 ---

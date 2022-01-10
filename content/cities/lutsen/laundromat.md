@@ -1,5 +1,5 @@
 ---
 title: "Laundromat"
 url: /lutsen/laundromat/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sargent's"
 url: /rochester/sargents/
-shop: Garten-Center
+shop: garden centre
 ---

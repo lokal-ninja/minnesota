@@ -1,5 +1,5 @@
 ---
 title: "Lee's Liquors"
 url: /oakdale/lees-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /mankato/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

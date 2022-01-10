@@ -1,5 +1,5 @@
 ---
 title: "Welna II Hardware"
 url: /minneapolis/welna-ii-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

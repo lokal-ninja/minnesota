@@ -1,5 +1,5 @@
 ---
 title: "Powell Equipment Sales"
 url: /coon-rapids/powell-equipment-sales/
-shop: Allgemein
+shop: shop
 ---

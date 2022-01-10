@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /minneapolis/autozone-2/
-shop: Autoteile
+shop: car parts
 ---

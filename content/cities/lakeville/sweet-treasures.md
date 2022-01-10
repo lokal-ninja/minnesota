@@ -1,5 +1,5 @@
 ---
 title: "Sweet Treasures"
 url: /lakeville/sweet-treasures/
-shop: Konditorei
+shop: pastry
 ---

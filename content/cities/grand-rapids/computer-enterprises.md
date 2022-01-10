@@ -1,5 +1,5 @@
 ---
 title: "Computer Enterprises"
 url: /grand-rapids/computer-enterprises/
-shop: Computer
+shop: computer
 ---

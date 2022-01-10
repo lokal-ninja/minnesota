@@ -1,5 +1,5 @@
 ---
 title: "Automotive Repair Center"
 url: /shakopee/automotive-repair-center/
-shop: Autowerkstatt
+shop: car repair
 ---

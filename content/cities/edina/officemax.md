@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /edina/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

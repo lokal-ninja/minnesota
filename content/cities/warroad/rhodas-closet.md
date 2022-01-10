@@ -1,5 +1,5 @@
 ---
 title: "Rhoda's Closet"
 url: /warroad/rhodas-closet/
-shop: Kleidung
+shop: clothes
 ---

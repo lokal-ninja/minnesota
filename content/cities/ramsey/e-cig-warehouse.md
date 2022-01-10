@@ -1,5 +1,5 @@
 ---
 title: "E-Cig Warehouse"
 url: /ramsey/e-cig-warehouse/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

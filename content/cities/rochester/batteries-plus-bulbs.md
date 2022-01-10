@@ -1,5 +1,5 @@
 ---
 title: "Batteries Plus Bulbs"
 url: /rochester/batteries-plus-bulbs/
-shop: Elektronik
+shop: electronics
 ---

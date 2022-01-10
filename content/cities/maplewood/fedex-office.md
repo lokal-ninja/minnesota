@@ -1,5 +1,5 @@
 ---
 title: "FedEx Office"
 url: /maplewood/fedex-office/
-shop: Kopieren
+shop: copyshop
 ---

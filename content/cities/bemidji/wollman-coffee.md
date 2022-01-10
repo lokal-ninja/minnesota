@@ -1,5 +1,5 @@
 ---
 title: "Wollman Coffee"
 url: /bemidji/wollman-coffee/
-shop: Kaffee
+shop: coffee
 ---

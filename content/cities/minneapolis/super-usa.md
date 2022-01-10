@@ -1,5 +1,5 @@
 ---
 title: "Super USA"
 url: /minneapolis/super-usa/
-shop: Lebensmittel
+shop: convenience
 ---

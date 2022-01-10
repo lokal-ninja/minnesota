@@ -1,5 +1,5 @@
 ---
 title: "Uptown Tatto"
 url: /minneapolis/uptown-tatto/
-shop: Tattoo
+shop: tattoo
 ---

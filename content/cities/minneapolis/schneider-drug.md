@@ -1,5 +1,5 @@
 ---
 title: "Schneider Drug"
 url: /minneapolis/schneider-drug/
-shop: Drogerie
+shop: chemist
 ---

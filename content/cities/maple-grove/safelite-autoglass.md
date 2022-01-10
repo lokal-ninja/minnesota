@@ -1,5 +1,5 @@
 ---
 title: "Safelite AutoGlass"
 url: /maple-grove/safelite-autoglass/
-shop: Autowerkstatt
+shop: car repair
 ---

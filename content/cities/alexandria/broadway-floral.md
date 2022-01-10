@@ -1,5 +1,5 @@
 ---
 title: "Broadway Floral"
 url: /alexandria/broadway-floral/
-shop: Blumen
+shop: florist
 ---

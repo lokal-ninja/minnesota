@@ -1,5 +1,5 @@
 ---
 title: "Waseca Chrysler Center"
 url: /waseca/waseca-chrysler-center/
-shop: Autohaus
+shop: car
 ---

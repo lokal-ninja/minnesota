@@ -1,5 +1,5 @@
 ---
 title: "Aero Drapery"
 url: /maple-grove/aero-drapery/
-shop: Jalousien
+shop: window blind
 ---

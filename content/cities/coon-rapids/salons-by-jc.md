@@ -1,5 +1,5 @@
 ---
 title: "Salons by JC"
 url: /coon-rapids/salons-by-jc/
-shop: Kosmetik
+shop: beauty
 ---

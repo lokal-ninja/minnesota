@@ -1,5 +1,5 @@
 ---
 title: "Methven Funeral Home"
 url: /sandstone/methven-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

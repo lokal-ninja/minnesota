@@ -1,5 +1,5 @@
 ---
 title: "SMART CAR CARE"
 url: /detroit-lakes/smart-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /redwood-falls/walmart/
-shop: Warenhaus
+shop: department store
 ---

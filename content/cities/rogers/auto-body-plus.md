@@ -1,5 +1,5 @@
 ---
 title: "Auto Body Plus"
 url: /rogers/auto-body-plus/
-shop: Autowerkstatt
+shop: car repair
 ---

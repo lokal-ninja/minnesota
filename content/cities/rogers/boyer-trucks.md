@@ -1,5 +1,5 @@
 ---
 title: "Boyer Trucks"
 url: /rogers/boyer-trucks/
-shop: Autohaus
+shop: car
 ---

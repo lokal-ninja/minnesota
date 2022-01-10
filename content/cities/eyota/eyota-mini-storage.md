@@ -1,5 +1,5 @@
 ---
 title: "Eyota Mini Storage"
 url: /eyota/eyota-mini-storage/
-shop: Baumarkt
+shop: doityourself
 ---

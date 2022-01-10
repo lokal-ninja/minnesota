@@ -1,5 +1,5 @@
 ---
 title: "North Country Skateshop"
 url: /bemidji/north-country-skateshop/
-shop: Sport
+shop: sports
 ---

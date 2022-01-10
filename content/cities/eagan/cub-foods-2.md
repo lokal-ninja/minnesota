@@ -1,5 +1,5 @@
 ---
 title: "Cub Foods"
 url: /eagan/cub-foods-2/
-shop: Supermarkt
+shop: supermarket
 ---

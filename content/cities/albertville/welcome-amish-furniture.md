@@ -1,5 +1,5 @@
 ---
 title: "Welcome Amish Furniture"
 url: /albertville/welcome-amish-furniture/
-shop: Möbel
+shop: furniture
 ---

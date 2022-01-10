@@ -1,5 +1,5 @@
 ---
 title: "Southeast Auto SErvice"
 url: /minneapolis/southeast-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

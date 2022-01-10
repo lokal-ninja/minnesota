@@ -1,5 +1,5 @@
 ---
 title: "Palacios Market"
 url: /minneapolis/palacios-market/
-shop: Lebensmittel
+shop: convenience
 ---

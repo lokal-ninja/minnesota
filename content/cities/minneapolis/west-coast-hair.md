@@ -1,5 +1,5 @@
 ---
 title: "West Coast Hair"
 url: /minneapolis/west-coast-hair/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /coon-rapids/sprint/
-shop: Handy
+shop: mobile phone
 ---

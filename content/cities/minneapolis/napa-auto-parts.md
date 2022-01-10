@@ -1,5 +1,5 @@
 ---
 title: "NAPA Auto Parts"
 url: /minneapolis/napa-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

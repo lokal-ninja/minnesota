@@ -1,5 +1,5 @@
 ---
 title: "Addington Co."
 url: /saint-paul/addington-co/
-shop: Leder
+shop: leather
 ---

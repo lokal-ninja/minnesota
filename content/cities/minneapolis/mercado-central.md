@@ -1,5 +1,5 @@
 ---
 title: "Mercado Central"
 url: /minneapolis/mercado-central/
-shop: Einkaufszentrum
+shop: mall
 ---

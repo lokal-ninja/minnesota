@@ -1,5 +1,5 @@
 ---
 title: "StevenBe"
 url: /minneapolis/stevenbe/
-shop: Allgemein
+shop: shop
 ---

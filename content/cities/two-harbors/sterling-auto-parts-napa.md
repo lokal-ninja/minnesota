@@ -1,5 +1,5 @@
 ---
 title: "Sterling Auto Parts - NAPA"
 url: /two-harbors/sterling-auto-parts-napa/
-shop: Autoteile
+shop: car parts
 ---

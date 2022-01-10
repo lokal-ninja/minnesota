@@ -1,5 +1,5 @@
 ---
 title: "Longfellow Family Foods"
 url: /minneapolis/longfellow-family-foods/
-shop: Lebensmittel
+shop: convenience
 ---

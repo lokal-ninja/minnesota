@@ -1,5 +1,5 @@
 ---
 title: "Hmong Funeral Home Services"
 url: /west-st-paul/hmong-funeral-home-services/
-shop: Bestattungen
+shop: funeral directors
 ---

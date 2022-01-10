@@ -1,5 +1,5 @@
 ---
 title: "LKQ"
 url: /albert-lea/lkq/
-shop: Autowerkstatt
+shop: car repair
 ---

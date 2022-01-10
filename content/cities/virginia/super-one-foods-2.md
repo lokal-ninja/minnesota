@@ -1,5 +1,5 @@
 ---
 title: "Super One Foods"
 url: /virginia/super-one-foods-2/
-shop: Supermarkt
+shop: supermarket
 ---

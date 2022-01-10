@@ -1,5 +1,5 @@
 ---
 title: "Northstar Truck Sales"
 url: /st-cloud/northstar-truck-sales/
-shop: Autohaus
+shop: car
 ---

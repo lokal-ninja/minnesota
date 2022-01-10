@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /woodbury/holiday-2/
-shop: Lebensmittel
+shop: convenience
 ---

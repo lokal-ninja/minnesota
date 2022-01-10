@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /rosemount/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

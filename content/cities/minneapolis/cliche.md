@@ -1,5 +1,5 @@
 ---
 title: "Cliché"
 url: /minneapolis/cliche/
-shop: Kleidung
+shop: clothes
 ---

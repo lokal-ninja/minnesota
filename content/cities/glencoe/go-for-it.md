@@ -1,5 +1,5 @@
 ---
 title: "Go For It"
 url: /glencoe/go-for-it/
-shop: Lebensmittel
+shop: convenience
 ---

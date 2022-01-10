@@ -1,5 +1,5 @@
 ---
 title: "Gorshe Auto Service"
 url: /minneapolis/gorshe-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

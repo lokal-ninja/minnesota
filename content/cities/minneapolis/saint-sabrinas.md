@@ -1,5 +1,5 @@
 ---
 title: "Saint Sabrina's"
 url: /minneapolis/saint-sabrinas/
-shop: Tattoo
+shop: tattoo
 ---

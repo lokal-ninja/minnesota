@@ -1,5 +1,5 @@
 ---
 title: "Tee Shirt Shop"
 url: /minneapolis/tee-shirt-shop/
-shop: Kleidung
+shop: clothes
 ---

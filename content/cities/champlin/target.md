@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /champlin/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gilly Auto Sales"
 url: /rochester/gilly-auto-sales/
-shop: Autohaus
+shop: car
 ---

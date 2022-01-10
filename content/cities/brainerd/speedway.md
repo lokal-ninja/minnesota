@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /brainerd/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

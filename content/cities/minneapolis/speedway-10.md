@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /minneapolis/speedway-10/
-shop: Lebensmittel
+shop: convenience
 ---

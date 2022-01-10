@@ -1,5 +1,5 @@
 ---
 title: "Lakeville Off-Road"
 url: /lakeville/lakeville-off-road/
-shop: Autowerkstatt
+shop: car repair
 ---

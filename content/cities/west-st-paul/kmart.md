@@ -1,5 +1,5 @@
 ---
 title: "Kmart"
 url: /west-st-paul/kmart/
-shop: Warenhaus
+shop: department store
 ---

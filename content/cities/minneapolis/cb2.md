@@ -1,5 +1,5 @@
 ---
 title: "CB2"
 url: /minneapolis/cb2/
-shop: Möbel
+shop: furniture
 ---

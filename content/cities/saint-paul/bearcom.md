@@ -1,5 +1,5 @@
 ---
 title: "BearCom"
 url: /saint-paul/bearcom/
-shop: Handy
+shop: mobile phone
 ---

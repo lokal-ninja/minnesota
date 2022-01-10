@@ -1,5 +1,5 @@
 ---
 title: "Shopko"
 url: /kasson/shopko/
-shop: Warenhaus
+shop: department store
 ---

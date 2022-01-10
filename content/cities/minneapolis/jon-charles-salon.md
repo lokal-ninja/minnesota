@@ -1,5 +1,5 @@
 ---
 title: "Jon Charles Salon"
 url: /minneapolis/jon-charles-salon/
-shop: Friseur
+shop: hairdresser
 ---

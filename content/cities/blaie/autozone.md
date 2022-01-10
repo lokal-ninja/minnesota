@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /blaie/autozone/
-shop: Autoteile
+shop: car parts
 ---

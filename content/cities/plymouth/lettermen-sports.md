@@ -1,5 +1,5 @@
 ---
 title: "Lettermen Sports"
 url: /plymouth/lettermen-sports/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MAACO"
 url: /richfield/maaco/
-shop: Autowerkstatt
+shop: car repair
 ---

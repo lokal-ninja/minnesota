@@ -1,5 +1,5 @@
 ---
 title: "Chanhassen Groomers"
 url: /chanhassen/chanhassen-groomers/
-shop: Tiere
+shop: pet
 ---

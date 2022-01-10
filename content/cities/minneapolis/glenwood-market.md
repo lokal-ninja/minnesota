@@ -1,5 +1,5 @@
 ---
 title: "Glenwood Market"
 url: /minneapolis/glenwood-market/
-shop: Lebensmittel
+shop: convenience
 ---

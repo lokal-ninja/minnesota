@@ -1,5 +1,5 @@
 ---
 title: "Vanguard Travel Unlimited"
 url: /lakeland-shores/vanguard-travel-unlimited/
-shop: Reisebüro
+shop: travel agency
 ---

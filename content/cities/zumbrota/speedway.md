@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /zumbrota/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

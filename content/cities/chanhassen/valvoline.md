@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /chanhassen/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

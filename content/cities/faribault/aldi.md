@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /faribault/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

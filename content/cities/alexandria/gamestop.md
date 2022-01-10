@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /alexandria/gamestop/
-shop: Videospiele
+shop: video games
 ---

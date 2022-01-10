@@ -1,5 +1,5 @@
 ---
 title: "Kuik-E-Mart"
 url: /minneapolis/kuik-e-mart/
-shop: Lebensmittel
+shop: convenience
 ---

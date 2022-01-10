@@ -1,5 +1,5 @@
 ---
 title: "Amigo Service Center"
 url: /minneapolis/amigo-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

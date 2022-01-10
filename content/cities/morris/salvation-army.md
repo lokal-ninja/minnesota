@@ -1,5 +1,5 @@
 ---
 title: "Salvation Army"
 url: /morris/salvation-army/
-shop: Gebrauchtwaren
+shop: charity
 ---

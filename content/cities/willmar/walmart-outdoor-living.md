@@ -1,5 +1,5 @@
 ---
 title: "Walmart Outdoor Living"
 url: /willmar/walmart-outdoor-living/
-shop: Garten-Center
+shop: garden centre
 ---

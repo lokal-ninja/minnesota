@@ -1,5 +1,5 @@
 ---
 title: "Flowerama"
 url: /saint-paul/flowerama/
-shop: Blumen
+shop: florist
 ---

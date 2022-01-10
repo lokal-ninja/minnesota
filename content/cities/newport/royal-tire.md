@@ -1,5 +1,5 @@
 ---
 title: "Royal Tire"
 url: /newport/royal-tire/
-shop: Reifen
+shop: tyres
 ---

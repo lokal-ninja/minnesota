@@ -1,5 +1,5 @@
 ---
 title: "Tom Heffernan Ford"
 url: /lake-city/tom-heffernan-ford/
-shop: Autohaus
+shop: car
 ---

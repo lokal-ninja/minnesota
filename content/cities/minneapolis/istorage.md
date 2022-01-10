@@ -1,5 +1,5 @@
 ---
 title: "iStorage"
 url: /minneapolis/istorage/
-shop: Mieten
+shop: storage rental
 ---

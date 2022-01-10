@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /mahtomedi/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

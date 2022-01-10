@@ -1,5 +1,5 @@
 ---
 title: "Hyvee"
 url: /saint-peter/hyvee/
-shop: Warenhaus
+shop: department store
 ---

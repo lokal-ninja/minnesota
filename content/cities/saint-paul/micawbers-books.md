@@ -1,5 +1,5 @@
 ---
 title: "Micawber's Books"
 url: /saint-paul/micawbers-books/
-shop: Bücher
+shop: books
 ---

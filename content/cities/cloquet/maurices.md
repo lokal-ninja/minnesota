@@ -1,5 +1,5 @@
 ---
 title: "Maurices"
 url: /cloquet/maurices/
-shop: Kleidung
+shop: clothes
 ---

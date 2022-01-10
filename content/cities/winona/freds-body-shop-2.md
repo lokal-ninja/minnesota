@@ -1,5 +1,5 @@
 ---
 title: "Fred’s Body Shop"
 url: /winona/freds-body-shop-2/
-shop: Autowerkstatt
+shop: car repair
 ---

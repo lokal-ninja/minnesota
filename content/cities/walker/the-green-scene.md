@@ -1,5 +1,5 @@
 ---
 title: "The Green Scene"
 url: /walker/the-green-scene/
-shop: Supermarkt
+shop: supermarket
 ---

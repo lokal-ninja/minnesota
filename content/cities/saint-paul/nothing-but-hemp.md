@@ -1,5 +1,5 @@
 ---
 title: "Nothing but Hemp"
 url: /saint-paul/nothing-but-hemp/
-shop: Hanf
+shop: cannabis
 ---

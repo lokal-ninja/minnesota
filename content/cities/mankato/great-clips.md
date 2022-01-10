@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /mankato/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

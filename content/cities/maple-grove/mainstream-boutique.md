@@ -1,5 +1,5 @@
 ---
 title: "Mainstream Boutique"
 url: /maple-grove/mainstream-boutique/
-shop: Kleidung
+shop: clothes
 ---

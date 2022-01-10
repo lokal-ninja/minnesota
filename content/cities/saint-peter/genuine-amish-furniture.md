@@ -1,5 +1,5 @@
 ---
 title: "Genuine Amish Furniture"
 url: /saint-peter/genuine-amish-furniture/
-shop: Möbel
+shop: furniture
 ---

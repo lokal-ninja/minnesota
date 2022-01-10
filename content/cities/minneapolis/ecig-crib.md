@@ -1,5 +1,5 @@
 ---
 title: "ECig Crib"
 url: /minneapolis/ecig-crib/
-shop: Allgemein
+shop: shop
 ---

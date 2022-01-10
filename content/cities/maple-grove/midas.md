@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /maple-grove/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

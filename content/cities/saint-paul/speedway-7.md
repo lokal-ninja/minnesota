@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /saint-paul/speedway-7/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Heart Life Massage"
 url: /saint-paul/heart-life-massage/
-shop: Massage
+shop: massage
 ---

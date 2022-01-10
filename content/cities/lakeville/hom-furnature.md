@@ -1,5 +1,5 @@
 ---
 title: "Hom Furnature"
 url: /lakeville/hom-furnature/
-shop: Möbel
+shop: furniture
 ---

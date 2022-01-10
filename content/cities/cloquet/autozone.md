@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /cloquet/autozone/
-shop: Autoteile
+shop: car parts
 ---

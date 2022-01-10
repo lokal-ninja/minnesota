@@ -1,5 +1,5 @@
 ---
 title: "Vick's Grocery"
 url: /hendricks/vicks-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

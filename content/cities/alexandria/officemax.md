@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /alexandria/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

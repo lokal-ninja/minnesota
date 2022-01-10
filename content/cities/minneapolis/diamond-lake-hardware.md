@@ -1,5 +1,5 @@
 ---
 title: "Diamond Lake Hardware"
 url: /minneapolis/diamond-lake-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

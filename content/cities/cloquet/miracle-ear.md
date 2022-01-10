@@ -1,5 +1,5 @@
 ---
 title: "Miracle-Ear"
 url: /cloquet/miracle-ear/
-shop: Hörgeräte
+shop: hearing aids
 ---

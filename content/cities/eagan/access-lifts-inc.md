@@ -1,5 +1,5 @@
 ---
 title: "Access Lifts Inc."
 url: /eagan/access-lifts-inc/
-shop: Allgemein
+shop: shop
 ---

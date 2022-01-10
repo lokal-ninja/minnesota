@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /winona/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

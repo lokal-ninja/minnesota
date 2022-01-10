@@ -1,5 +1,5 @@
 ---
 title: "Golf Headquarters"
 url: /rochester/golf-headquarters/
-shop: Kleidung
+shop: clothes
 ---

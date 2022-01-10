@@ -1,5 +1,5 @@
 ---
 title: "Le's Nails"
 url: /maple-grove/les-nails/
-shop: Kosmetik
+shop: beauty
 ---

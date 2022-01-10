@@ -1,5 +1,5 @@
 ---
 title: "Kingston Auto"
 url: /cokato/kingston-auto/
-shop: Autowerkstatt
+shop: car repair
 ---
