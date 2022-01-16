@@ -1,5 +1,0 @@
----
-title: "Kettle River Graphix"
-url: /sandstone/kettle-river-graphix/
-shop: copyshop
----
