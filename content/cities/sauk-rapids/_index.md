@@ -1,6 +1,6 @@
 ---
 title: Sauk Rapids
 url: /sauk-rapids/
-latitude: 45.582
-longitude: -94.094
+latitude: 45.581
+longitude: -94.107
 ---
