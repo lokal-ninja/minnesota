@@ -1,6 +1,6 @@
 ---
 title: Hugo
 url: /hugo/
-latitude: 45.22
-longitude: -93.035
+latitude: 45.171
+longitude: -92.987
 ---

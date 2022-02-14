@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /minneapolis/target-4/
+url: /saint-louis-park/target/
 shop: department store
 ---
