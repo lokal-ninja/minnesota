@@ -1,5 +1,5 @@
 ---
 title: "Jim's Small Engine Repair"
-url: /high-forest/jims-small-engine-repair/
+url: /stewartville/jims-small-engine-repair/
 shop: car repair
 ---
