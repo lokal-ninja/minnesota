@@ -1,6 +1,6 @@
 ---
 title: Golden Valley
 url: /golden-valley/
-latitude: 44.985
-longitude: -93.383
+latitude: 45.003
+longitude: -93.365
 ---
