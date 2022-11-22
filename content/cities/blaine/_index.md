@@ -1,6 +1,6 @@
 ---
 title: Blaine
 url: /blaine/
-latitude: 45.165
-longitude: -93.232
+latitude: 45.159
+longitude: -93.234
 ---
