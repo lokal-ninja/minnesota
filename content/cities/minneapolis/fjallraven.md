@@ -1,5 +1,5 @@
 ---
 title: "Fjällräven"
 url: /minneapolis/fjallraven/
-shop: sports
+shop: outdoor
 ---

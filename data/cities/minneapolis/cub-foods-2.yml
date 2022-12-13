@@ -1,11 +1,11 @@
-id: 6468046270
-type: node
-latitude: 44.91894
-longitude: -93.21591
-postcode: "55406"
+id: 52136798
+type: way
+latitude: 44.95
+longitude: -93.29434
+postcode: "55408"
 city: Minneapolis
-street: "Snelling Avenue South"
-housenumber: 4601
+street: "Lagoon Avenue"
+housenumber: 1104
 phone: ""
-opening_hours: "05:00-24:00"
+opening_hours: "Mo-Su 05:00-01:00"
 website: ""
