@@ -1,6 +1,6 @@
 ---
 title: Waseca
 url: /waseca/
-latitude: 44.098
-longitude: -93.511
+latitude: 44.092
+longitude: -93.505
 ---
