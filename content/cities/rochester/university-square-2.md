@@ -1,5 +1,5 @@
 ---
 title: "University Square"
-url: /rochester/university-square-2/
+url: /rochester/university-square/
 shop: mall
 ---
