@@ -1,6 +1,6 @@
 ---
 title: Saint Peter
 url: /saint-peter/
-latitude: 44.333
-longitude: -93.95
+latitude: 44.336
+longitude: -93.952
 ---
