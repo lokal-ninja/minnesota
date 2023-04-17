@@ -1,6 +1,6 @@
 ---
 title: Eden Prairie
 url: /eden-prairie/
-latitude: 44.835
-longitude: -93.401
+latitude: 44.864
+longitude: -93.485
 ---
