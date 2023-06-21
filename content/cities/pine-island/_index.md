@@ -1,6 +1,6 @@
 ---
 title: Pine Island
 url: /pine-island/
-latitude: 44.197
-longitude: -92.606
+latitude: 44.201
+longitude: -92.646
 ---
