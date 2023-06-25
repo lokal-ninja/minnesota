@@ -7,5 +7,5 @@ city: Duluth
 street: "Sutphin Street"
 housenumber: 10
 phone: "+12187330850"
-opening_hours: "Mo-Th 9:00-21:00; Fr-Sa 9:00-22:00; Su 12:00-18:00"
+opening_hours: "Mo-Th 09:00-22:00; Fr,Sa 09:00-22:00; Su 12:00-18:00"
 website: ""
