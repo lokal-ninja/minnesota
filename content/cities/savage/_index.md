@@ -1,6 +1,6 @@
 ---
 title: Savage
 url: /savage/
-latitude: 44.75
-longitude: -93.379
+latitude: 44.749
+longitude: -93.378
 ---
