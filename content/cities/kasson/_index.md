@@ -1,6 +1,6 @@
 ---
 title: Kasson
 url: /kasson/
-latitude: 44.02
-longitude: -92.746
+latitude: 44.03
+longitude: -92.749
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Precision Tune Auto CAre"
+title: "Precision Tune Auto Care"
 url: /minneapolis/precision-tune-auto-care/
 shop: car repair
 ---
