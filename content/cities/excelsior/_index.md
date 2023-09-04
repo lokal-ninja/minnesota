@@ -1,6 +1,6 @@
 ---
 title: Excelsior
 url: /excelsior/
-latitude: 44.903
-longitude: -93.567
+latitude: 44.901
+longitude: -93.57
 ---
