@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /saint-paul/speedway/
+url: /saint-paul/speedway-maryland-avenue-east/
 shop: convenience
 ---

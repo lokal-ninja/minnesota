@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /saint-paul/speedway/
+url: /saint-paul/speedway-county-road-e-east/
 shop: convenience
 ---

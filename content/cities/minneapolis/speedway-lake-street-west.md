@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /minneapolis/speedway/
+url: /minneapolis/speedway-lake-street-west/
 shop: convenience
 ---

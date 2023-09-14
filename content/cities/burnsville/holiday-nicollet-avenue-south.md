@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
-url: /burnsville/holiday/
+url: /burnsville/holiday-nicollet-avenue-south/
 shop: convenience
 ---

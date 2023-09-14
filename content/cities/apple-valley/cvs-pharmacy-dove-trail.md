@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
-url: /apple-valley/cvs-pharmacy/
+url: /apple-valley/cvs-pharmacy-dove-trail/
 shop: chemist
 ---

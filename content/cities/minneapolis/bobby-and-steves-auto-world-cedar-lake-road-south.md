@@ -1,5 +1,5 @@
 ---
 title: "Bobby & Steve's Auto World"
-url: /minneapolis/bobby-and-steves-auto-world/
+url: /minneapolis/bobby-and-steves-auto-world-cedar-lake-road-south/
 shop: car repair
 ---

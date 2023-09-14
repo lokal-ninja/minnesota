@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /blaine/aldi/
+url: /blaine/aldi-lexington-avenue-northeast/
 shop: supermarket
 ---

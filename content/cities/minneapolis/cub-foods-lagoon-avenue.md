@@ -1,5 +1,5 @@
 ---
 title: "Cub Foods"
-url: /minneapolis/cub-foods/
+url: /minneapolis/cub-foods-lagoon-avenue/
 shop: supermarket
 ---

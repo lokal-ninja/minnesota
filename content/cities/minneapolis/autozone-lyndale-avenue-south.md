@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /minneapolis/autozone/
+url: /minneapolis/autozone-lyndale-avenue-south/
 shop: car parts
 ---

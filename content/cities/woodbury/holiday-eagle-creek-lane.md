@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
-url: /woodbury/holiday/
+url: /woodbury/holiday-eagle-creek-lane/
 shop: convenience
 ---

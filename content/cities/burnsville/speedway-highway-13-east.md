@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /burnsville/speedway/
+url: /burnsville/speedway-highway-13-east/
 shop: convenience
 ---

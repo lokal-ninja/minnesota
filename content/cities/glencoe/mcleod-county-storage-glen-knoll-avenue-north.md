@@ -1,5 +1,5 @@
 ---
 title: "McLeod County Storage"
-url: /glencoe/mcleod-county-storage/
+url: /glencoe/mcleod-county-storage-glen-knoll-avenue-north/
 shop: storage rental
 ---

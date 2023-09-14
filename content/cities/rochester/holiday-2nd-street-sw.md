@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
-url: /rochester/holiday/
+url: /rochester/holiday-2nd-street-sw/
 shop: convenience
 ---

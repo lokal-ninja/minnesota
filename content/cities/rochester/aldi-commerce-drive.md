@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /rochester/aldi/
+url: /rochester/aldi-commerce-drive/
 shop: supermarket
 ---

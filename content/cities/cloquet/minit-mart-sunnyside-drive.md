@@ -1,5 +1,5 @@
 ---
 title: "Minit Mart"
-url: /cloquet/minit-mart/
+url: /cloquet/minit-mart-sunnyside-drive/
 shop: convenience
 ---

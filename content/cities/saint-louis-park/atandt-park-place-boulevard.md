@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /saint-louis-park/atandt/
+url: /saint-louis-park/atandt-park-place-boulevard/
 shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
-url: /minneapolis/cvs-pharmacy/
+url: /minneapolis/cvs-pharmacy-northeast-central-avenue/
 shop: chemist
 ---

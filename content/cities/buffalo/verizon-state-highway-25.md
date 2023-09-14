@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /buffalo/verizon/
+url: /buffalo/verizon-state-highway-25/
 shop: mobile phone
 ---

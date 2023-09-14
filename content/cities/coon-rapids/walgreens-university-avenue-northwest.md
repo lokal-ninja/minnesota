@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
-url: /coon-rapids/walgreens/
+url: /coon-rapids/walgreens-university-avenue-northwest/
 shop: chemist
 ---

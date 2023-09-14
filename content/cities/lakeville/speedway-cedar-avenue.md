@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /lakeville/speedway/
+url: /lakeville/speedway-cedar-avenue/
 shop: convenience
 ---

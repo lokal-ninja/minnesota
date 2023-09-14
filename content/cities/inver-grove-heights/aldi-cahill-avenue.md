@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /inver-grove-heights/aldi/
+url: /inver-grove-heights/aldi-cahill-avenue/
 shop: supermarket
 ---

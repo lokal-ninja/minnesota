@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
-url: /eagan/holiday/
+url: /eagan/holiday-cliff-road/
 shop: convenience
 ---

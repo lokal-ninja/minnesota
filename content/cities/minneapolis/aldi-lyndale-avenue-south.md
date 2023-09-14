@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /minneapolis/aldi/
+url: /minneapolis/aldi-lyndale-avenue-south/
 shop: supermarket
 ---

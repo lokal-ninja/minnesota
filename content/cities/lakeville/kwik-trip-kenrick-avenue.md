@@ -1,5 +1,5 @@
 ---
 title: "Kwik Trip"
-url: /lakeville/kwik-trip/
+url: /lakeville/kwik-trip-kenrick-avenue/
 shop: convenience
 ---

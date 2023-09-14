@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /anoka/speedway/
+url: /anoka/speedway-saint-francis-boulevard/
 shop: convenience
 ---
