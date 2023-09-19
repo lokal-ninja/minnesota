@@ -1,6 +1,6 @@
 ---
 title: New Ulm
 url: /new-ulm/
-latitude: 44.333
-longitude: -94.493
+latitude: 44.327
+longitude: -94.495
 ---
