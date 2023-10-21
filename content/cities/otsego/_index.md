@@ -1,6 +1,6 @@
 ---
 title: Otsego
 url: /otsego/
-latitude: 45.279
-longitude: -93.565
+latitude: 45.253
+longitude: -93.552
 ---
