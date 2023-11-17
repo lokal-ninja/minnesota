@@ -1,6 +1,6 @@
 ---
 title: Bemidji
 url: /bemidji/
-latitude: 47.471
-longitude: -94.883
+latitude: 47.599
+longitude: -94.886
 ---
