@@ -1,6 +1,6 @@
 ---
 title: Longville
 url: /longville/
-latitude: 46.986
-longitude: -94.211
+latitude: 46.988
+longitude: -94.21
 ---
