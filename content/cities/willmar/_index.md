@@ -1,6 +1,6 @@
 ---
 title: Willmar
 url: /willmar/
-latitude: 45.095
-longitude: -95.038
+latitude: 45.096
+longitude: -95.044
 ---
