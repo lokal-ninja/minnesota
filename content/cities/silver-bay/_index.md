@@ -1,6 +1,6 @@
 ---
 title: Silver Bay
 url: /silver-bay/
-latitude: 47.293
-longitude: -91.27
+latitude: 47.388
+longitude: -91.145
 ---
