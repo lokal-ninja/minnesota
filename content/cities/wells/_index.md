@@ -1,6 +1,6 @@
 ---
 title: Wells
 url: /wells/
-latitude: 43.748
-longitude: -93.723
+latitude: 43.745
+longitude: -93.726
 ---
