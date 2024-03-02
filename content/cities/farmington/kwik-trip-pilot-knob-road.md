@@ -1,5 +1,5 @@
 ---
 title: "Kwik Trip"
-url: /farmington/kwik-trip-elm-street/
+url: /farmington/kwik-trip-pilot-knob-road/
 shop: convenience
 ---
