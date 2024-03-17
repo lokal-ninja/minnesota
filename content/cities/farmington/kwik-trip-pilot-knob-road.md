@@ -1,5 +1,5 @@
 ---
 title: "Kwik Trip"
-url: /lakeville/kwik-trip-glacier-way/
+url: /farmington/kwik-trip-pilot-knob-road/
 shop: convenience
 ---
