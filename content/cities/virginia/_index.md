@@ -1,6 +1,6 @@
 ---
 title: Virginia
 url: /virginia/
-latitude: 47.511
-longitude: -92.557
+latitude: 47.512
+longitude: -92.555
 ---
