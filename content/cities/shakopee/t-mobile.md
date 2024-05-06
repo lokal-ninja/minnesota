@@ -1,5 +1,5 @@
 ---
-title: "T-Mobile"
+title: "T-mobile"
 url: /shakopee/t-mobile/
-shop: mobile phone
+shop: vacant
 ---
