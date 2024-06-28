@@ -1,6 +1,6 @@
 ---
 title: Waconia
 url: /waconia/
-latitude: 44.84
-longitude: -93.772
+latitude: 44.841
+longitude: -93.771
 ---
