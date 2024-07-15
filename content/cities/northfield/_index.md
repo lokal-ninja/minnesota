@@ -1,6 +1,6 @@
 ---
 title: Northfield
 url: /northfield/
-latitude: 44.434
-longitude: -93.185
+latitude: 44.453
+longitude: -93.162
 ---

@@ -1,6 +1,6 @@
 ---
 title: Brainerd
 url: /brainerd/
-latitude: 46.357
-longitude: -94.218
+latitude: 46.359
+longitude: -94.214
 ---

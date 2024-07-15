@@ -7,5 +7,5 @@ city: Glencoe
 street: "Fir Avenue North"
 housenumber: 1603
 phone: "+1 320 864 5294"
-opening_hours: "PH,Mo-Su 00:00-24:00"
+opening_hours: "Mo-Su,PH 00:00-24:00"
 website: ""
