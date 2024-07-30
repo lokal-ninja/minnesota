@@ -1,6 +1,6 @@
 ---
 title: Pine River
 url: /pine-river/
-latitude: 46.649
-longitude: -94.336
+latitude: 46.719
+longitude: -94.405
 ---
