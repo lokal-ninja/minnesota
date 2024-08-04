@@ -1,6 +1,6 @@
 ---
 title: Baxter
 url: /baxter/
-latitude: 46.357
-longitude: -94.226
+latitude: 46.358
+longitude: -94.223
 ---
