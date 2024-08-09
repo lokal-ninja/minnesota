@@ -1,6 +1,6 @@
 ---
 title: Alexandria
 url: /alexandria/
-latitude: 45.86
-longitude: -95.384
+latitude: 45.865
+longitude: -95.379
 ---

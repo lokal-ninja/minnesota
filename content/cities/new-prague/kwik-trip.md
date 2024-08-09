@@ -1,5 +1,5 @@
 ---
 title: "Kwik Trip"
-url: /cloquet/kwik-trip-washington-avenue/
+url: /new-prague/kwik-trip/
 shop: convenience
 ---
