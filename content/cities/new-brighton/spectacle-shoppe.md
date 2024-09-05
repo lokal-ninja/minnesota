@@ -1,5 +1,5 @@
 ---
 title: "Spectacle Shoppe"
 url: /new-brighton/spectacle-shoppe/
-shop: optician
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salon Rustic"
 url: /glencoe/salon-rustic/
-shop: hairdresser
+shop: Friseur
 ---

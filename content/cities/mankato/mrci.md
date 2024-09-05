@@ -1,5 +1,5 @@
 ---
 title: "MRCI"
 url: /mankato/mrci/
-shop: charity
+shop: Gebrauchtwaren
 ---

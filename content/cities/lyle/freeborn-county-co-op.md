@@ -1,5 +1,5 @@
 ---
 title: "Freeborn County Co-Op"
 url: /lyle/freeborn-county-co-op/
-shop: convenience
+shop: Lebensmittel
 ---

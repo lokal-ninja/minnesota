@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /monticello/petsmart/
-shop: pet
+shop: Tiere
 ---

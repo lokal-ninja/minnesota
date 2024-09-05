@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /scanlon/holiday/
-shop: convenience
+shop: Lebensmittel
 ---

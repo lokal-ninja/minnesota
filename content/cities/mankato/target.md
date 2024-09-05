@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /mankato/target/
-shop: department store
+shop: Warenhaus
 ---

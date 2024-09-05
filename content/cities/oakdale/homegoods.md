@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /oakdale/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TeeDealers"
 url: /sandstone/teedealers/
-shop: clothes
+shop: Kleidung
 ---

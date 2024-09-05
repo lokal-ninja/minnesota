@@ -1,5 +1,5 @@
 ---
 title: "Grainger"
 url: /richfield/grainger/
-shop: trade
+shop: Baustoffe
 ---

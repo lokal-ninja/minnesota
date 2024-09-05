@@ -1,5 +1,5 @@
 ---
 title: "Bruss-Heitner Funeral Homes"
 url: /wells/bruss-heitner-funeral-homes/
-shop: funeral directors
+shop: Bestattungen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /farmington/holiday/
-shop: convenience
+shop: Lebensmittel
 ---

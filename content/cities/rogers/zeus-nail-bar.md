@@ -1,5 +1,5 @@
 ---
 title: "Zeus Nail Bar"
 url: /rogers/zeus-nail-bar/
-shop: beauty
+shop: Kosmetik
 ---

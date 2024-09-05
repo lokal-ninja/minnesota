@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /stillwater/officemax/
-shop: office supplies
+shop: Schreibwaren
 ---

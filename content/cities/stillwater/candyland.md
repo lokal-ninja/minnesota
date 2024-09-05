@@ -1,5 +1,5 @@
 ---
 title: "Candyland"
 url: /stillwater/candyland/
-shop: confectionery
+shop: Süßwaren
 ---

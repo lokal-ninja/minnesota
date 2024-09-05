@@ -1,5 +1,5 @@
 ---
 title: "Runnings"
 url: /hutchinson/runnings/
-shop: agrarian
+shop: Landwirtschaftlich
 ---

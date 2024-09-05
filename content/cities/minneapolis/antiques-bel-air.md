@@ -1,5 +1,5 @@
 ---
 title: "Antiques Bel Air"
 url: /minneapolis/antiques-bel-air/
-shop: antiques
+shop: Antiquitäten
 ---

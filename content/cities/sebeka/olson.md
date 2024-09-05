@@ -1,5 +1,5 @@
 ---
 title: "Olson"
 url: /sebeka/olson/
-shop: trade
+shop: Baustoffe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /blaine/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Elijah's Cup"
 url: /saint-louis-park/elijahs-cup/
-shop: religion
+shop: Religion
 ---

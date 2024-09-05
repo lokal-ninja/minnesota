@@ -1,5 +1,5 @@
 ---
 title: "Zup's"
 url: /ely/zups/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /cottage-grove/great-clips/
-shop: hairdresser
+shop: Friseur
 ---

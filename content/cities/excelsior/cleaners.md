@@ -1,5 +1,5 @@
 ---
 title: "Cleaners"
 url: /excelsior/cleaners/
-shop: laundry
+shop: Wäscherei
 ---

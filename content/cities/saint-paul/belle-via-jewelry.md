@@ -1,5 +1,5 @@
 ---
 title: "Belle Via Jewelry"
 url: /saint-paul/belle-via-jewelry/
-shop: jewelry
+shop: Schmuck
 ---

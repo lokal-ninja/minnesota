@@ -1,5 +1,5 @@
 ---
 title: "Regina's Fine Candies"
 url: /west-st-paul/reginas-fine-candies/
-shop: confectionery
+shop: Süßwaren
 ---

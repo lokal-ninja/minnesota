@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /baxter/costco/
-shop: wholesale
+shop: Großhandel
 ---

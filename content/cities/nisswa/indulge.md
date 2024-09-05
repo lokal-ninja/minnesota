@@ -1,5 +1,5 @@
 ---
 title: "Indulge"
 url: /nisswa/indulge/
-shop: clothes
+shop: Kleidung
 ---

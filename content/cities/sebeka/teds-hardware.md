@@ -1,5 +1,5 @@
 ---
 title: "Ted's Hardware"
 url: /sebeka/teds-hardware/
-shop: doityourself
+shop: Baumarkt
 ---

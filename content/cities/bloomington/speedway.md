@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /bloomington/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

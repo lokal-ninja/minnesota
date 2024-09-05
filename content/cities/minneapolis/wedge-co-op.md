@@ -1,5 +1,5 @@
 ---
 title: "Wedge Co-Op"
 url: /minneapolis/wedge-co-op/
-shop: supermarket
+shop: Supermarkt
 ---

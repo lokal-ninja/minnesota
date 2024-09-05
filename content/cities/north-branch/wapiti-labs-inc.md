@@ -1,5 +1,5 @@
 ---
 title: "Wapiti Labs Inc."
 url: /north-branch/wapiti-labs-inc/
-shop: pet
+shop: Tiere
 ---

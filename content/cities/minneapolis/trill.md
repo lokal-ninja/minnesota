@@ -1,5 +1,5 @@
 ---
 title: "Trill"
 url: /minneapolis/trill/
-shop: garden centre
+shop: Garten-Center
 ---

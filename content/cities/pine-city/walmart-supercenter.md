@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /pine-city/walmart-supercenter/
-shop: supermarket
+shop: Supermarkt
 ---

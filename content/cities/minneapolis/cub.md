@@ -1,5 +1,5 @@
 ---
 title: "Cub"
 url: /minneapolis/cub/
-shop: supermarket
+shop: Supermarkt
 ---

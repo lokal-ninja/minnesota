@@ -1,5 +1,5 @@
 ---
 title: "Nails Spa"
 url: /hutchinson/nails-spa/
-shop: beauty
+shop: Kosmetik
 ---

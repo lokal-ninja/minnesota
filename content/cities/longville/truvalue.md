@@ -1,5 +1,5 @@
 ---
 title: "TruValue"
 url: /longville/truvalue/
-shop: hardware
+shop: Eisenwaren
 ---

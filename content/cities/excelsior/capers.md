@@ -1,5 +1,5 @@
 ---
 title: "Capers"
 url: /excelsior/capers/
-shop: gift
+shop: Andenken
 ---

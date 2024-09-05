@@ -1,5 +1,5 @@
 ---
 title: "J. Longs"
 url: /mankato/j-longs/
-shop: clothes
+shop: Kleidung
 ---

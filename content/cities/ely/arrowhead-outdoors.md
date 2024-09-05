@@ -1,5 +1,5 @@
 ---
 title: "Arrowhead Outdoors"
 url: /ely/arrowhead-outdoors/
-shop: outdoor
+shop: Outdoor
 ---

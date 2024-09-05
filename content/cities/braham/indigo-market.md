@@ -1,5 +1,5 @@
 ---
 title: "Indigo Market"
 url: /braham/indigo-market/
-shop: gift
+shop: Andenken
 ---

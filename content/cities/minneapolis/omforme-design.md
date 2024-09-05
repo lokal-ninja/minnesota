@@ -1,5 +1,5 @@
 ---
 title: "Omforme Design"
 url: /minneapolis/omforme-design/
-shop: interior decoration
+shop: Raumausstattung
 ---

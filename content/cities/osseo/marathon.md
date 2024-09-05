@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /osseo/marathon/
-shop: convenience
+shop: Lebensmittel
 ---

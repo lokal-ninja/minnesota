@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /forest-lake/menards/
-shop: doityourself
+shop: Baumarkt
 ---

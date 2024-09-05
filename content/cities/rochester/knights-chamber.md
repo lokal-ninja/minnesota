@@ -1,5 +1,5 @@
 ---
 title: "Knight's Chamber"
 url: /rochester/knights-chamber/
-shop: clothes
+shop: Kleidung
 ---

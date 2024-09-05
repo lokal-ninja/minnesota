@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /minneapolis/shell/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "#FACE"
 url: /minneapolis/face/
-shop: beauty
+shop: Kosmetik
 ---

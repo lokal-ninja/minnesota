@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /shakopee/walgreens/
-shop: chemist
+shop: Drogerie
 ---

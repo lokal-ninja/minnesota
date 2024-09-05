@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /blaine/target/
-shop: department store
+shop: Warenhaus
 ---

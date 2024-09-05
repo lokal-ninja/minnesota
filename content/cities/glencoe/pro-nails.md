@@ -1,5 +1,5 @@
 ---
 title: "Pro Nails"
 url: /glencoe/pro-nails/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /waconia/target/
-shop: convenience
+shop: Lebensmittel
 ---

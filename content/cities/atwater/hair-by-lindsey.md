@@ -1,5 +1,5 @@
 ---
 title: "Hair by Lindsey"
 url: /atwater/hair-by-lindsey/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lilliams"
 url: /buffalo/lilliams/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /mankato/gamestop/
-shop: video games
+shop: Videospiele
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jubilee"
 url: /mound/jubilee/
-shop: supermarket
+shop: Supermarkt
 ---

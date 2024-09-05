@@ -1,5 +1,5 @@
 ---
 title: "Peterson Chapel Funeral Directors"
 url: /buffalo/peterson-chapel-funeral-directors/
-shop: funeral directors
+shop: Bestattungen
 ---

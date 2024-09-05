@@ -1,5 +1,5 @@
 ---
 title: "Affordable Marktag Appliance"
 url: /burnsville/affordable-marktag-appliance/
-shop: electronics
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pure Pleasure"
 url: /stewartville/pure-pleasure/
-shop: erotic
+shop: Erotik
 ---

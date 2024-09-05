@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /st-cloud/michaels/
-shop: craft
+shop: Basteln
 ---

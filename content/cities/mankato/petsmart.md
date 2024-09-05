@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /mankato/petsmart/
-shop: pet
+shop: Tiere
 ---

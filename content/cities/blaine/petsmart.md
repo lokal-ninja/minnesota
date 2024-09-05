@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /blaine/petsmart/
-shop: pet
+shop: Tiere
 ---

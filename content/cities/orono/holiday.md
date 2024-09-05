@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /orono/holiday/
-shop: convenience
+shop: Lebensmittel
 ---

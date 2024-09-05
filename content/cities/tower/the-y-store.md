@@ -1,5 +1,5 @@
 ---
 title: "The Y Store"
 url: /tower/the-y-store/
-shop: convenience
+shop: Lebensmittel
 ---

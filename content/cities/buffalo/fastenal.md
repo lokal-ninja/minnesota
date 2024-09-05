@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /buffalo/fastenal/
-shop: trade
+shop: Baustoffe
 ---

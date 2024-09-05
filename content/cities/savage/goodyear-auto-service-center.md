@@ -1,5 +1,5 @@
 ---
 title: "Goodyear Auto Service Center"
 url: /savage/goodyear-auto-service-center/
-shop: car repair
+shop: Autowerkstatt
 ---

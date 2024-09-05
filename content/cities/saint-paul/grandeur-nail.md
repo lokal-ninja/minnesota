@@ -1,5 +1,5 @@
 ---
 title: "Grandeur Nail"
 url: /saint-paul/grandeur-nail/
-shop: beauty
+shop: Kosmetik
 ---

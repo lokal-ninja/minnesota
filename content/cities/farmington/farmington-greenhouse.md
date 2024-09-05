@@ -1,5 +1,5 @@
 ---
 title: "Farmington Greenhouse"
 url: /farmington/farmington-greenhouse/
-shop: garden centre
+shop: Garten-Center
 ---

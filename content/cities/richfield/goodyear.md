@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /richfield/goodyear/
-shop: car repair
+shop: Autowerkstatt
 ---

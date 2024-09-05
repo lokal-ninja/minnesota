@@ -1,5 +1,5 @@
 ---
 title: "Natreum"
 url: /minneapolis/natreum/
-shop: cannabis
+shop: Hanf
 ---

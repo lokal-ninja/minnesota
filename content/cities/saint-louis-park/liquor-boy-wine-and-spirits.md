@@ -1,5 +1,5 @@
 ---
 title: "Liquor Boy Wine and Spirits"
 url: /saint-louis-park/liquor-boy-wine-and-spirits/
-shop: alcohol
+shop: Spirituosen
 ---

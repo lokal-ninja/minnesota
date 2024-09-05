@@ -1,5 +1,5 @@
 ---
 title: "Northwest Graphic Supply"
 url: /minneapolis/northwest-graphic-supply/
-shop: shop
+shop: Allgemein
 ---

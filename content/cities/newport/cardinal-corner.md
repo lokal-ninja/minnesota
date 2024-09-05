@@ -1,5 +1,5 @@
 ---
 title: "Cardinal Corner"
 url: /newport/cardinal-corner/
-shop: garden centre
+shop: Garten-Center
 ---

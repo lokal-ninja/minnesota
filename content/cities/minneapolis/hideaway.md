@@ -1,5 +1,5 @@
 ---
 title: "Hideaway"
 url: /minneapolis/hideaway/
-shop: tobacco
+shop: Tabak
 ---

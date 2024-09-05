@@ -1,5 +1,5 @@
 ---
 title: "Foley Laundromat"
 url: /foley/foley-laundromat/
-shop: laundry
+shop: Wäscherei
 ---

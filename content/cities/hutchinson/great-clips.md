@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /hutchinson/great-clips/
-shop: hairdresser
+shop: Friseur
 ---

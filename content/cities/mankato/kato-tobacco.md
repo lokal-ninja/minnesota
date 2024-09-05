@@ -1,5 +1,5 @@
 ---
 title: "Kato Tobacco"
 url: /mankato/kato-tobacco/
-shop: tobacco
+shop: Tabak
 ---

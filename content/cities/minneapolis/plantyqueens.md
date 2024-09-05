@@ -1,5 +1,5 @@
 ---
 title: "Plantyqueens"
 url: /minneapolis/plantyqueens/
-shop: shop
+shop: Allgemein
 ---

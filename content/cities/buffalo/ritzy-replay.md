@@ -1,5 +1,5 @@
 ---
 title: "Ritzy Replay"
 url: /buffalo/ritzy-replay/
-shop: clothes
+shop: Kleidung
 ---

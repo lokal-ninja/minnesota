@@ -1,5 +1,5 @@
 ---
 title: "Reeds"
 url: /crosslake/reeds/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /buffalo/hallmark/
-shop: gift
+shop: Andenken
 ---

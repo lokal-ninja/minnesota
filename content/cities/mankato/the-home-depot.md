@@ -1,5 +1,5 @@
 ---
 title: "The Home Depot"
 url: /mankato/the-home-depot/
-shop: doityourself
+shop: Baumarkt
 ---

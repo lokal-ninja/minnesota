@@ -1,5 +1,5 @@
 ---
 title: "Sentyrz"
 url: /minneapolis/sentyrz/
-shop: supermarket
+shop: Supermarkt
 ---

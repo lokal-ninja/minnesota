@@ -1,5 +1,5 @@
 ---
 title: "Pasteleria Gama"
 url: /minneapolis/pasteleria-gama/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "A+ Nails"
 url: /eden-prairie/a-nails/
-shop: beauty
+shop: Kosmetik
 ---

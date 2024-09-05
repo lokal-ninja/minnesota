@@ -1,5 +1,5 @@
 ---
 title: "Wally's Foods"
 url: /minneapolis/wallys-foods/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Anna's Tailoring"
 url: /minneapolis/annas-tailoring/
-shop: tailor
+shop: Schneiderei
 ---

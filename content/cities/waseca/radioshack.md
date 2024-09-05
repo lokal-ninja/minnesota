@@ -1,5 +1,5 @@
 ---
 title: "RadioShack"
 url: /waseca/radioshack/
-shop: electronics
+shop: Elektronik
 ---

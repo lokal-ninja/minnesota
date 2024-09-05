@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /otsego/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

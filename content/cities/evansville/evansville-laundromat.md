@@ -1,5 +1,5 @@
 ---
 title: "Evansville Laundromat"
 url: /evansville/evansville-laundromat/
-shop: laundry
+shop: Wäscherei
 ---

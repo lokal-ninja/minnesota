@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /golden-valley/holiday/
-shop: convenience
+shop: Lebensmittel
 ---

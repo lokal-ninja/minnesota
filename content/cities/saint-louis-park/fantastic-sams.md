@@ -1,5 +1,5 @@
 ---
 title: "Fantastic Sams"
 url: /saint-louis-park/fantastic-sams/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wickedly Charming Boutique"
 url: /robbinsdale/wickedly-charming-boutique/
-shop: clothes
+shop: Kleidung
 ---

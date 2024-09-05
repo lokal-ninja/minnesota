@@ -1,5 +1,5 @@
 ---
 title: "Clothes Mentor"
 url: /eden-prairie/clothes-mentor/
-shop: clothes
+shop: Kleidung
 ---

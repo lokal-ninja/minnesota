@@ -1,5 +1,5 @@
 ---
 title: "SHE"
 url: /buffalo/she/
-shop: chemist
+shop: Drogerie
 ---

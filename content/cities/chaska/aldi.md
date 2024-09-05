@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /chaska/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

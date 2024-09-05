@@ -1,5 +1,5 @@
 ---
 title: "Alexandria Recreational Vehicles"
 url: /alexandria/alexandria-recreational-vehicles/
-shop: car
+shop: Autohaus
 ---

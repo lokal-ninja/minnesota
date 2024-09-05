@@ -1,5 +1,5 @@
 ---
 title: "Holiday Gas Station"
 url: /mora/holiday-gas-station/
-shop: convenience
+shop: Lebensmittel
 ---

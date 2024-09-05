@@ -1,5 +1,5 @@
 ---
 title: "Tangles"
 url: /mankato/tangles/
-shop: hairdresser
+shop: Friseur
 ---

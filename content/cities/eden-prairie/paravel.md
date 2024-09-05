@@ -1,5 +1,5 @@
 ---
 title: "Paravel"
 url: /eden-prairie/paravel/
-shop: bag
+shop: Taschen & Koffer
 ---

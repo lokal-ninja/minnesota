@@ -1,5 +1,5 @@
 ---
 title: "Ragstock"
 url: /minneapolis/ragstock/
-shop: charity
+shop: Gebrauchtwaren
 ---

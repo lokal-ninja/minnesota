@@ -1,5 +1,5 @@
 ---
 title: "Edina Liquor"
 url: /edina/edina-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

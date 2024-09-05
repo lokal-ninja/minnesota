@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /jenkins/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /maplewood/party-city/
-shop: party
+shop: Partyzubehör
 ---

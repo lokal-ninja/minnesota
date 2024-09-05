@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /hopkins/fastenal/
-shop: trade
+shop: Baustoffe
 ---

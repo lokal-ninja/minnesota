@@ -1,5 +1,5 @@
 ---
 title: "Nibbana"
 url: /minneapolis/nibbana/
-shop: cannabis
+shop: Hanf
 ---

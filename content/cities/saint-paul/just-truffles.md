@@ -1,5 +1,5 @@
 ---
 title: "Just Truffles"
 url: /saint-paul/just-truffles/
-shop: chocolate
+shop: Schokolade
 ---

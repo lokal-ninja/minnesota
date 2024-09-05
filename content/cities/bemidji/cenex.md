@@ -1,5 +1,5 @@
 ---
 title: "Cenex"
 url: /bemidji/cenex/
-shop: convenience
+shop: Lebensmittel
 ---

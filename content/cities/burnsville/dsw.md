@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /burnsville/dsw/
-shop: shoes
+shop: Schuhe
 ---

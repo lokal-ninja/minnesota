@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /eagan/costco/
-shop: wholesale
+shop: Großhandel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Seven Points"
 url: /minneapolis/seven-points/
-shop: mall
+shop: Einkaufszentrum
 ---

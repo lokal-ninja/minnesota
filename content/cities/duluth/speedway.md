@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /duluth/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /new-prague/great-clips/
-shop: hairdresser
+shop: Friseur
 ---

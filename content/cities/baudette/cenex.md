@@ -1,5 +1,5 @@
 ---
 title: "Cenex"
 url: /baudette/cenex/
-shop: convenience
+shop: Lebensmittel
 ---

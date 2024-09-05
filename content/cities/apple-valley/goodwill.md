@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /apple-valley/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pilgrim Dry Cleaners"
 url: /apple-valley/pilgrim-dry-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

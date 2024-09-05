@@ -1,5 +1,5 @@
 ---
 title: "Compliments!"
 url: /nisswa/compliments/
-shop: clothes
+shop: Kleidung
 ---

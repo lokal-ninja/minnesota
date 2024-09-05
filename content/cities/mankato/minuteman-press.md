@@ -1,5 +1,5 @@
 ---
 title: "Minuteman Press"
 url: /mankato/minuteman-press/
-shop: copyshop
+shop: Kopieren
 ---

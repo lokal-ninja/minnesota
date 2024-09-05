@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /apple-valley/midas/
-shop: car repair
+shop: Autowerkstatt
 ---

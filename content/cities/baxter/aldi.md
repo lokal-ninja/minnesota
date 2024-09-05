@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /baxter/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Luggage World"
 url: /saint-louis-park/luggage-world/
-shop: bag
+shop: Taschen & Koffer
 ---

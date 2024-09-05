@@ -1,5 +1,5 @@
 ---
 title: "Black Walnut Bakery"
 url: /minneapolis/black-walnut-bakery/
-shop: bakery
+shop: Bäckerei
 ---

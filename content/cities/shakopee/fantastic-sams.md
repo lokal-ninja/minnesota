@@ -1,5 +1,5 @@
 ---
 title: "Fantastic Sams"
 url: /shakopee/fantastic-sams/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Madelia Liquor Store"
 url: /madelia/madelia-liquor-store/
-shop: alcohol
+shop: Spirituosen
 ---
