@@ -1,5 +1,5 @@
 ---
 title: "Lowertown Bike Shop"
 url: /saint-paul/lowertown-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

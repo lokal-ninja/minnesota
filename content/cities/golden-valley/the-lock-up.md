@@ -1,5 +1,5 @@
 ---
 title: "The Lock Up"
 url: /golden-valley/the-lock-up/
-shop: Mieten
+shop: storage rental
 ---

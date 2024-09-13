@@ -1,5 +1,5 @@
 ---
 title: "Royal Tire"
 url: /alexandria/royal-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kwik Trip"
 url: /monticello/kwik-trip/
-shop: Lebensmittel
+shop: convenience
 ---

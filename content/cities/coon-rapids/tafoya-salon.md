@@ -1,5 +1,5 @@
 ---
 title: "Tafoya Salon"
 url: /coon-rapids/tafoya-salon/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /cloquet/verizon/
-shop: Handy
+shop: mobile phone
 ---

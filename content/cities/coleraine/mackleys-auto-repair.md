@@ -1,5 +1,5 @@
 ---
 title: "Mackley's Auto Repair"
 url: /coleraine/mackleys-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

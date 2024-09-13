@@ -1,5 +1,5 @@
 ---
 title: "Cranes Meat Market"
 url: /gonvick/cranes-meat-market/
-shop: Metzgerei
+shop: butcher
 ---

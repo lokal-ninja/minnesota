@@ -1,5 +1,5 @@
 ---
 title: "Spruce"
 url: /minneapolis/spruce/
-shop: Friseur
+shop: hairdresser
 ---

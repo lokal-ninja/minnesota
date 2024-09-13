@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /worthington/holiday/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Star Nails"
 url: /eagan/star-nails/
-shop: Kosmetik
+shop: beauty
 ---

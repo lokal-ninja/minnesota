@@ -1,5 +1,5 @@
 ---
 title: "Mitrebox Framing and Gifts"
 url: /minneapolis/mitrebox-framing-and-gifts/
-shop: Rahmen
+shop: frame
 ---

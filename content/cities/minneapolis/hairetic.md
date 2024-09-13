@@ -1,5 +1,5 @@
 ---
 title: "Hairetic"
 url: /minneapolis/hairetic/
-shop: Friseur
+shop: hairdresser
 ---

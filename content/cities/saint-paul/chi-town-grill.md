@@ -1,5 +1,5 @@
 ---
 title: "Chi-Town Grill"
 url: /saint-paul/chi-town-grill/
-shop: Supermarkt
+shop: supermarket
 ---

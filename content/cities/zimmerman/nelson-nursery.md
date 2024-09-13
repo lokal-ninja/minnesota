@@ -1,5 +1,5 @@
 ---
 title: "nelson nursery"
 url: /zimmerman/nelson-nursery/
-shop: Garten-Center
+shop: garden centre
 ---

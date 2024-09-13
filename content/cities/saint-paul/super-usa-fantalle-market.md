@@ -1,5 +1,5 @@
 ---
 title: "Super USA Fantalle Market"
 url: /saint-paul/super-usa-fantalle-market/
-shop: Lebensmittel
+shop: convenience
 ---

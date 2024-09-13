@@ -1,5 +1,5 @@
 ---
 title: "Bella Gina"
 url: /eden-prairie/bella-gina/
-shop: Kleidung
+shop: clothes
 ---

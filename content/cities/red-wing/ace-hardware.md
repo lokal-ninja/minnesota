@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /red-wing/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

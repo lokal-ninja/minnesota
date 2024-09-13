@@ -1,5 +1,5 @@
 ---
 title: "Johnson Motors"
 url: /hendricks/johnson-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /mankato/cosmoprof/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

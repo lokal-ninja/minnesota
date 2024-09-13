@@ -1,5 +1,5 @@
 ---
 title: "The Bearded Mechanic"
 url: /st-bonifacius/the-bearded-mechanic/
-shop: Autowerkstatt
+shop: car repair
 ---

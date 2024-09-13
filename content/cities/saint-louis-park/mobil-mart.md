@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /saint-louis-park/mobil-mart/
-shop: Lebensmittel
+shop: convenience
 ---

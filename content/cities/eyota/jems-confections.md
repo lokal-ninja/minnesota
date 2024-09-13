@@ -1,5 +1,5 @@
 ---
 title: "Jem's Confections"
 url: /eyota/jems-confections/
-shop: Bäckerei
+shop: bakery
 ---

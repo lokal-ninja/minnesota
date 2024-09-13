@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /rogers/holiday/
-shop: Lebensmittel
+shop: convenience
 ---

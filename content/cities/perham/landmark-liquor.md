@@ -1,5 +1,5 @@
 ---
 title: "Landmark Liquor"
 url: /perham/landmark-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

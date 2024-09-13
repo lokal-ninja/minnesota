@@ -1,5 +1,5 @@
 ---
 title: "Tiger Sugar"
 url: /minneapolis/tiger-sugar/
-shop: Tee
+shop: tea
 ---

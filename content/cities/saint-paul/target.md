@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /saint-paul/target/
-shop: Supermarkt
+shop: supermarket
 ---

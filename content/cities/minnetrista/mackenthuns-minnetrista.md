@@ -1,5 +1,5 @@
 ---
 title: "Mackenthun's Minnetrista"
 url: /minnetrista/mackenthuns-minnetrista/
-shop: Supermarkt
+shop: supermarket
 ---

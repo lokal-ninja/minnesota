@@ -1,5 +1,5 @@
 ---
 title: "Northwest Mini Storage"
 url: /rochester/northwest-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

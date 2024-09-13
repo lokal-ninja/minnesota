@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /bemidji/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

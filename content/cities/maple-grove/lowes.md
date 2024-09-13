@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /maple-grove/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /maplewood/michaels/
-shop: Basteln
+shop: craft
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tobacco"
 url: /champlin/tobacco/
-shop: Tabak
+shop: tobacco
 ---

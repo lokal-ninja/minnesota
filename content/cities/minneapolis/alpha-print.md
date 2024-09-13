@@ -1,5 +1,5 @@
 ---
 title: "Alpha Print"
 url: /minneapolis/alpha-print/
-shop: Kopieren
+shop: copyshop
 ---

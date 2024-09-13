@@ -1,5 +1,5 @@
 ---
 title: "Ordella"
 url: /sebeka/ordella/
-shop: Kleidung
+shop: clothes
 ---

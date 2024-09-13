@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /saint-louis-park/target/
-shop: Warenhaus
+shop: department store
 ---

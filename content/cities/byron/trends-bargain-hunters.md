@@ -1,5 +1,5 @@
 ---
 title: "Trends Bargain Hunters"
 url: /byron/trends-bargain-hunters/
-shop: Kleidung
+shop: clothes
 ---

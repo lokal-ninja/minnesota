@@ -1,5 +1,5 @@
 ---
 title: "Techmate"
 url: /buffalo/techmate/
-shop: Handy
+shop: mobile phone
 ---

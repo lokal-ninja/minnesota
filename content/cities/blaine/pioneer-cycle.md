@@ -1,5 +1,5 @@
 ---
 title: "Pioneer Cycle"
 url: /blaine/pioneer-cycle/
-shop: Fahrrad
+shop: bicycle
 ---

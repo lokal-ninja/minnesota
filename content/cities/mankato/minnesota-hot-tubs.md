@@ -1,5 +1,5 @@
 ---
 title: "Minnesota Hot Tubs"
 url: /mankato/minnesota-hot-tubs/
-shop: Pool
+shop: swimming pool
 ---

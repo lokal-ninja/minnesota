@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /edina/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

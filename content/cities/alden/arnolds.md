@@ -1,5 +1,5 @@
 ---
 title: "Arnold's"
 url: /alden/arnolds/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

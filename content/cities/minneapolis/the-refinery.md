@@ -1,5 +1,5 @@
 ---
 title: "The Refinery"
 url: /minneapolis/the-refinery/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mel's 7-71"
 url: /blomkest/mels-7-71-1st-street-south/
-shop: Autowerkstatt
+shop: car repair
 ---

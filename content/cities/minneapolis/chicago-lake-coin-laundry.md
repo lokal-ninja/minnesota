@@ -1,5 +1,5 @@
 ---
 title: "Chicago-Lake Coin Laundry"
 url: /minneapolis/chicago-lake-coin-laundry/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bumper Warehouse"
 url: /saint-paul/bumper-warehouse/
-shop: Autoteile
+shop: car parts
 ---

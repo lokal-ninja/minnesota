@@ -1,5 +1,5 @@
 ---
 title: "Mill City Sound"
 url: /hopkins/mill-city-sound/
-shop: Musik
+shop: music
 ---

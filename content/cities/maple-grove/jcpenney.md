@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /maple-grove/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

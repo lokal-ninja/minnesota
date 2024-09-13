@@ -1,5 +1,5 @@
 ---
 title: "DGPilot"
 url: /saint-paul/dgpilot/
-shop: Andenken
+shop: gift
 ---

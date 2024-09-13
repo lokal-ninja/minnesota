@@ -1,5 +1,5 @@
 ---
 title: "Wade's Auto Body"
 url: /saint-paul-park/wades-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

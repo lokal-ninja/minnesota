@@ -1,5 +1,5 @@
 ---
 title: "Bondesque"
 url: /minneapolis/bondesque/
-shop: Erotik
+shop: erotic
 ---

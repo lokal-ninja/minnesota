@@ -1,5 +1,5 @@
 ---
 title: "Atwater Funeral Home"
 url: /atwater/atwater-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

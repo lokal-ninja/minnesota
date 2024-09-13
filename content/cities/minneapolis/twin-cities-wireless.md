@@ -1,5 +1,5 @@
 ---
 title: "Twin Cities Wireless"
 url: /minneapolis/twin-cities-wireless/
-shop: Handy
+shop: mobile phone
 ---

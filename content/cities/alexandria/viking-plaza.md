@@ -1,5 +1,5 @@
 ---
 title: "Viking Plaza"
 url: /alexandria/viking-plaza/
-shop: Einkaufszentrum
+shop: mall
 ---

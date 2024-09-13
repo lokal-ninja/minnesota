@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /savage/target/
-shop: Supermarkt
+shop: supermarket
 ---

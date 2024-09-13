@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /brooklyn-park/target/
-shop: Warenhaus
+shop: department store
 ---

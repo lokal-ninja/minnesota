@@ -1,5 +1,5 @@
 ---
 title: "Crossroads Center"
 url: /waite-park/crossroads-center/
-shop: Einkaufszentrum
+shop: mall
 ---

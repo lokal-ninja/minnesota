@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /coon-rapids/target/
-shop: Warenhaus
+shop: department store
 ---

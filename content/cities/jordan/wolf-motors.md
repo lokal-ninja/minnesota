@@ -1,5 +1,5 @@
 ---
 title: "Wolf Motors"
 url: /jordan/wolf-motors/
-shop: Autohaus
+shop: car
 ---

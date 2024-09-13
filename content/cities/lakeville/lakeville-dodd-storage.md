@@ -1,5 +1,5 @@
 ---
 title: "Lakeville Dodd Storage"
 url: /lakeville/lakeville-dodd-storage/
-shop: Mieten
+shop: storage rental
 ---

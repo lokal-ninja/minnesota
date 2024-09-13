@@ -1,5 +1,5 @@
 ---
 title: "Arco"
 url: /minneapolis/arco/
-shop: Lebensmittel
+shop: convenience
 ---

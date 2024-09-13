@@ -1,5 +1,5 @@
 ---
 title: "HearingLife"
 url: /mankato/hearinglife/
-shop: Hörgeräte
+shop: hearing aids
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /owatonna/target/
-shop: Warenhaus
+shop: department store
 ---

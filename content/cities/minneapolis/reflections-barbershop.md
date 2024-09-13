@@ -1,5 +1,5 @@
 ---
 title: "Reflections Barbershop"
 url: /minneapolis/reflections-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

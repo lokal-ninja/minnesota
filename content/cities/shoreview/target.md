@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /shoreview/target/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /cottage-grove/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Petal"
 url: /minneapolis/the-petal/
-shop: Blumen
+shop: florist
 ---

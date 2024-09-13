@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /forest-lake/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

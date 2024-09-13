@@ -1,5 +1,5 @@
 ---
 title: "DBC"
 url: /byron/dbc/
-shop: Baumarkt
+shop: doityourself
 ---

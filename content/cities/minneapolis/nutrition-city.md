@@ -1,5 +1,5 @@
 ---
 title: "Nutrition City"
 url: /minneapolis/nutrition-city/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

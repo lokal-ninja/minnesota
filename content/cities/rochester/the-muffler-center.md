@@ -1,5 +1,5 @@
 ---
 title: "The Muffler Center"
 url: /rochester/the-muffler-center/
-shop: Autowerkstatt
+shop: car repair
 ---

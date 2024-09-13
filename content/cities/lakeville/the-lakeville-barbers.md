@@ -1,5 +1,5 @@
 ---
 title: "The Lakeville Barbers"
 url: /lakeville/the-lakeville-barbers/
-shop: Friseur
+shop: hairdresser
 ---

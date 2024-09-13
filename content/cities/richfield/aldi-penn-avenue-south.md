@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /richfield/aldi-penn-avenue-south/
-shop: Supermarkt
+shop: supermarket
 ---

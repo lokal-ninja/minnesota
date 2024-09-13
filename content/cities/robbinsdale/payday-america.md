@@ -1,5 +1,5 @@
 ---
 title: "Payday America"
 url: /robbinsdale/payday-america/
-shop: Leiher
+shop: pawnbroker
 ---

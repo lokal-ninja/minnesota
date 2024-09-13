@@ -1,5 +1,5 @@
 ---
 title: "Sassy Kat Boutique"
 url: /jordan/sassy-kat-boutique/
-shop: Kleidung
+shop: clothes
 ---

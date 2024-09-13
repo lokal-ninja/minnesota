@@ -1,5 +1,5 @@
 ---
 title: "Cannon Auto Repair"
 url: /cannon-falls/cannon-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

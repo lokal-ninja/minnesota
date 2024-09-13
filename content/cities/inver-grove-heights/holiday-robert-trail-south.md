@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /inver-grove-heights/holiday-robert-trail-south/
-shop: Lebensmittel
+shop: convenience
 ---

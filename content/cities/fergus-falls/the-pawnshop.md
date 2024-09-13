@@ -1,5 +1,5 @@
 ---
 title: "The Pawnshop"
 url: /fergus-falls/the-pawnshop/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AJ-Mini Storage"
 url: /st-bonifacius/aj-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

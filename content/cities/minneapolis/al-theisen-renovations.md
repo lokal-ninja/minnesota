@@ -1,5 +1,5 @@
 ---
 title: "Al Theisen Renovations"
 url: /minneapolis/al-theisen-renovations/
-shop: Immobilien
+shop: estate agent
 ---

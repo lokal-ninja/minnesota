@@ -1,5 +1,5 @@
 ---
 title: "Border Bait"
 url: /baudette/border-bait/
-shop: Angeln
+shop: fishing
 ---

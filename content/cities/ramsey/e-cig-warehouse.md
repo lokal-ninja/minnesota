@@ -1,5 +1,5 @@
 ---
 title: "E-Cig Warehouse"
 url: /ramsey/e-cig-warehouse/
-shop: Hanf
+shop: cannabis
 ---

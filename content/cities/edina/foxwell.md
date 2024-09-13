@@ -1,5 +1,5 @@
 ---
 title: "Foxwell"
 url: /edina/foxwell/
-shop: Raumausstattung
+shop: interior decoration
 ---

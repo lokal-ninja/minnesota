@@ -1,5 +1,5 @@
 ---
 title: "Cub Foods"
 url: /saint-paul/cub-foods/
-shop: Supermarkt
+shop: supermarket
 ---

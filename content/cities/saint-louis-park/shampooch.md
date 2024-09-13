@@ -1,5 +1,5 @@
 ---
 title: "Shampooch"
 url: /saint-louis-park/shampooch/
-shop: Tiersalon
+shop: pet grooming
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /bemidji/verizon/
-shop: Handy
+shop: mobile phone
 ---

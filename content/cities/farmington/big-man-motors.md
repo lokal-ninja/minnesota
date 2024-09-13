@@ -1,5 +1,5 @@
 ---
 title: "Big Man Motors"
 url: /farmington/big-man-motors/
-shop: Autohaus
+shop: car
 ---

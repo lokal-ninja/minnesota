@@ -1,5 +1,5 @@
 ---
 title: "Tailor N' You"
 url: /crystal/tailor-n-you/
-shop: Schneiderei
+shop: tailor
 ---

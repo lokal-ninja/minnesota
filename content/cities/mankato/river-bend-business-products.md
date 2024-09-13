@@ -1,5 +1,5 @@
 ---
 title: "River Bend Business Products"
 url: /mankato/river-bend-business-products/
-shop: Schreibwaren
+shop: office supplies
 ---

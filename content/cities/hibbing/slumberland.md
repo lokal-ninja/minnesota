@@ -1,5 +1,5 @@
 ---
 title: "Slumberland"
 url: /hibbing/slumberland/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /alexandria/holiday/
-shop: Lebensmittel
+shop: convenience
 ---

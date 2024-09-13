@@ -1,5 +1,5 @@
 ---
 title: "Dabbler Depot"
 url: /st-paul/dabbler-depot/
-shop: Spirituosen
+shop: alcohol
 ---

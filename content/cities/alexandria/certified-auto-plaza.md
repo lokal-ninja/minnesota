@@ -1,5 +1,5 @@
 ---
 title: "Certified Auto Plaza"
 url: /alexandria/certified-auto-plaza/
-shop: Autohaus
+shop: car
 ---

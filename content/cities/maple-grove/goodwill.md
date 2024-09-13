@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /maple-grove/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

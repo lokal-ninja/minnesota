@@ -1,5 +1,5 @@
 ---
 title: "A-Plus Auto Repair"
 url: /minneapolis/a-plus-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Treasure Trove"
 url: /sebeka/treasure-trove/
-shop: Gebrauchtwaren
+shop: charity
 ---

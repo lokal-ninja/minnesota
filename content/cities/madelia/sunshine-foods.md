@@ -1,5 +1,5 @@
 ---
 title: "Sunshine Foods"
 url: /madelia/sunshine-foods/
-shop: Supermarkt
+shop: supermarket
 ---

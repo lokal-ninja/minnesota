@@ -1,5 +1,5 @@
 ---
 title: "Settergren Ace Hardware"
 url: /minneapolis/settergren-ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

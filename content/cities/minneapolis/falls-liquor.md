@@ -1,5 +1,5 @@
 ---
 title: "Falls Liquor"
 url: /minneapolis/falls-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

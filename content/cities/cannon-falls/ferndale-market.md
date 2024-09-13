@@ -1,5 +1,5 @@
 ---
 title: "Ferndale Market"
 url: /cannon-falls/ferndale-market/
-shop: Supermarkt
+shop: supermarket
 ---

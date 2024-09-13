@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /maplewood/dsw/
-shop: Schuhe
+shop: shoes
 ---

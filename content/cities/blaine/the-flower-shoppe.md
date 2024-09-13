@@ -1,5 +1,5 @@
 ---
 title: "The Flower Shoppe"
 url: /blaine/the-flower-shoppe/
-shop: Blumen
+shop: florist
 ---

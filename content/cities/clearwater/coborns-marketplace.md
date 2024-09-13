@@ -1,5 +1,5 @@
 ---
 title: "Coborn's Marketplace"
 url: /clearwater/coborns-marketplace/
-shop: Supermarkt
+shop: supermarket
 ---

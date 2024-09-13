@@ -1,5 +1,5 @@
 ---
 title: "PURIS"
 url: /minneapolis/puris/
-shop: Supermarkt
+shop: supermarket
 ---

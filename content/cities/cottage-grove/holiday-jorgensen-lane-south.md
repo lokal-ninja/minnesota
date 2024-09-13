@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /cottage-grove/holiday-jorgensen-lane-south/
-shop: Lebensmittel
+shop: convenience
 ---

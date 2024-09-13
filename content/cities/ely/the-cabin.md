@@ -1,5 +1,5 @@
 ---
 title: "The Cabin"
 url: /ely/the-cabin/
-shop: Andenken
+shop: gift
 ---

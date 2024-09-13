@@ -1,5 +1,5 @@
 ---
 title: "Pet Clips"
 url: /chanhassen/pet-clips/
-shop: Tiersalon
+shop: pet grooming
 ---

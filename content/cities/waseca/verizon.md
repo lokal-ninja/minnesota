@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /waseca/verizon/
-shop: Handy
+shop: mobile phone
 ---

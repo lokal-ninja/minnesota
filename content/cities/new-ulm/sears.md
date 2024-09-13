@@ -1,5 +1,5 @@
 ---
 title: "Sears"
 url: /new-ulm/sears/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /waconia/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

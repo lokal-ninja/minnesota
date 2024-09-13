@@ -1,5 +1,5 @@
 ---
 title: "Sunshine Foods"
 url: /spring-valley/sunshine-foods/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lake Sarah Storage"
 url: /garvin/lake-sarah-storage/
-shop: Mieten
+shop: storage rental
 ---

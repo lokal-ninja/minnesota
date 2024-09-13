@@ -1,5 +1,5 @@
 ---
 title: "Vow'd"
 url: /minneapolis/vowd/
-shop: Kleidung
+shop: clothes
 ---

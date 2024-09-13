@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /minnetonka/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

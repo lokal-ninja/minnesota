@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /moorhead/verizon/
-shop: Handy
+shop: mobile phone
 ---

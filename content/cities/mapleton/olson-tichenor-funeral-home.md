@@ -1,5 +1,5 @@
 ---
 title: "Olson-Tichenor Funeral Home"
 url: /mapleton/olson-tichenor-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

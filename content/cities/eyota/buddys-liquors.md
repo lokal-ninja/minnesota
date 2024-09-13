@@ -1,5 +1,5 @@
 ---
 title: "Buddy's Liquors"
 url: /eyota/buddys-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

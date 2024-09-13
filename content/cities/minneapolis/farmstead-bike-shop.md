@@ -1,5 +1,5 @@
 ---
 title: "Farmstead Bike Shop"
 url: /minneapolis/farmstead-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

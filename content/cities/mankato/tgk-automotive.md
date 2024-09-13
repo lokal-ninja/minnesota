@@ -1,5 +1,5 @@
 ---
 title: "TGK Automotive"
 url: /mankato/tgk-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

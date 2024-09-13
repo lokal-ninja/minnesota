@@ -1,5 +1,5 @@
 ---
 title: "First City Liquor"
 url: /bemidji/first-city-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TDS"
 url: /monticello/tds/
-shop: Handy
+shop: mobile phone
 ---

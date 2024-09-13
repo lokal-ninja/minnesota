@@ -1,5 +1,5 @@
 ---
 title: "Nani Nalu"
 url: /edina/nani-nalu/
-shop: Kleidung
+shop: clothes
 ---

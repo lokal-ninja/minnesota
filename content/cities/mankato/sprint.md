@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /mankato/sprint/
-shop: Handy
+shop: mobile phone
 ---

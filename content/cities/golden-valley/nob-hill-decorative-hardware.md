@@ -1,5 +1,5 @@
 ---
 title: "Nob Hill Decorative Hardware"
 url: /golden-valley/nob-hill-decorative-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

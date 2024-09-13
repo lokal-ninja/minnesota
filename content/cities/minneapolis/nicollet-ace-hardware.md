@@ -1,5 +1,5 @@
 ---
 title: "Nicollet Ace Hardware"
 url: /minneapolis/nicollet-ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

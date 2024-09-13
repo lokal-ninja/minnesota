@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /duluth/walgreens/
-shop: Drogerie
+shop: chemist
 ---

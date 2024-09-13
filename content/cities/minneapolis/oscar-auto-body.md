@@ -1,5 +1,5 @@
 ---
 title: "Oscar Auto Body"
 url: /minneapolis/oscar-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

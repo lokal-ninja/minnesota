@@ -1,5 +1,5 @@
 ---
 title: "Abra"
 url: /mankato/abra/
-shop: Autowerkstatt
+shop: car repair
 ---

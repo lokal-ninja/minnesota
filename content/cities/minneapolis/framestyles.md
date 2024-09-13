@@ -1,5 +1,5 @@
 ---
 title: "FrameStyles"
 url: /minneapolis/framestyles/
-shop: Rahmen
+shop: frame
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /vadnais-heights/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

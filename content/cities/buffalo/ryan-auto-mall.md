@@ -1,5 +1,5 @@
 ---
 title: "Ryan Auto Mall"
 url: /buffalo/ryan-auto-mall/
-shop: Autohaus
+shop: car
 ---

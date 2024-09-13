@@ -1,5 +1,5 @@
 ---
 title: "All Wood Furniture"
 url: /saint-paul/all-wood-furniture/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /shakopee/verizon/
-shop: Handy
+shop: mobile phone
 ---

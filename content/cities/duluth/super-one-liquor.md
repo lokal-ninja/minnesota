@@ -1,5 +1,5 @@
 ---
 title: "Super One Liquor"
 url: /duluth/super-one-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

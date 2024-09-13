@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /saint-cloud/target/
-shop: Warenhaus
+shop: department store
 ---

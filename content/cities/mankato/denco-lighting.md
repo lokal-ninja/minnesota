@@ -1,5 +1,5 @@
 ---
 title: "Denco Lighting"
 url: /mankato/denco-lighting/
-shop: Lampen
+shop: lamps
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /coon-rapids/aldi-northdale-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

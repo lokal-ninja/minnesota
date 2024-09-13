@@ -1,5 +1,5 @@
 ---
 title: "Mainstreet Automotive"
 url: /lakeville/mainstreet-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

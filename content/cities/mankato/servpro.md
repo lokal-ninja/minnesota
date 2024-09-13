@@ -1,5 +1,5 @@
 ---
 title: "Servpro"
 url: /mankato/servpro/
-shop: Allgemein
+shop: shop
 ---

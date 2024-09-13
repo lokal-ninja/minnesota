@@ -1,5 +1,5 @@
 ---
 title: "Victory Automotive"
 url: /minneapolis/victory-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

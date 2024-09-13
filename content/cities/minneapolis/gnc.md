@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /minneapolis/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ernhart's Auto Center"
 url: /buffalo/ernharts-auto-center/
-shop: Autowerkstatt
+shop: car repair
 ---

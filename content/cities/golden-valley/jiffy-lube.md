@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /golden-valley/jiffy-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

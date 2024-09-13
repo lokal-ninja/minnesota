@@ -1,5 +1,5 @@
 ---
 title: "Bergstrom Jewelers"
 url: /saint-louis-park/bergstrom-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

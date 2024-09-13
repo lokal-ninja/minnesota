@@ -1,5 +1,5 @@
 ---
 title: "Erik's Bike Shop"
 url: /roseville/eriks-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

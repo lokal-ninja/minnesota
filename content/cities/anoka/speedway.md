@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /anoka/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

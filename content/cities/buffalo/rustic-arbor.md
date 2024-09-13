@@ -1,5 +1,5 @@
 ---
 title: "Rustic Arbor"
 url: /buffalo/rustic-arbor/
-shop: Möbel
+shop: furniture
 ---

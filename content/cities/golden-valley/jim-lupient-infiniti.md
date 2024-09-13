@@ -1,5 +1,5 @@
 ---
 title: "Jim Lupient Infiniti"
 url: /golden-valley/jim-lupient-infiniti/
-shop: Autohaus
+shop: car
 ---

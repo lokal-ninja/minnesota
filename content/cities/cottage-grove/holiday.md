@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /cottage-grove/holiday/
-shop: Lebensmittel
+shop: convenience
 ---

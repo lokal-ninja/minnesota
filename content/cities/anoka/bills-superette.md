@@ -1,5 +1,5 @@
 ---
 title: "Bill's Superette"
 url: /anoka/bills-superette/
-shop: Lebensmittel
+shop: convenience
 ---

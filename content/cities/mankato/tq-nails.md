@@ -1,5 +1,5 @@
 ---
 title: "TQ Nails"
 url: /mankato/tq-nails/
-shop: Kosmetik
+shop: beauty
 ---

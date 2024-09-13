@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /inver-grove-heights/walmart/
-shop: Warenhaus
+shop: department store
 ---

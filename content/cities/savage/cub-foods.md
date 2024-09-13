@@ -1,5 +1,5 @@
 ---
 title: "Cub Foods"
 url: /savage/cub-foods/
-shop: Supermarkt
+shop: supermarket
 ---

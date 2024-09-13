@@ -1,5 +1,5 @@
 ---
 title: "Viking Blinds"
 url: /saint-louis-park/viking-blinds/
-shop: Jalousien
+shop: window blind
 ---

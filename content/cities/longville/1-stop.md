@@ -1,5 +1,5 @@
 ---
 title: "1 Stop"
 url: /longville/1-stop/
-shop: Sport
+shop: sports
 ---

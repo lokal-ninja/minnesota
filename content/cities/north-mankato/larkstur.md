@@ -1,5 +1,5 @@
 ---
 title: "Larkstur"
 url: /north-mankato/larkstur/
-shop: Baustoffe
+shop: trade
 ---

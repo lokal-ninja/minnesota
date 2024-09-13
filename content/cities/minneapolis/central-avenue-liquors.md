@@ -1,5 +1,5 @@
 ---
 title: "Central Avenue Liquors"
 url: /minneapolis/central-avenue-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

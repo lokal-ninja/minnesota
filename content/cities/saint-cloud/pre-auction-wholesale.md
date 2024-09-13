@@ -1,5 +1,5 @@
 ---
 title: "Pre-Auction Wholesale"
 url: /saint-cloud/pre-auction-wholesale/
-shop: Autohaus
+shop: car
 ---

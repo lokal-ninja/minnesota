@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /mankato/spectrum/
-shop: Handy
+shop: mobile phone
 ---

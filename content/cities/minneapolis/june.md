@@ -1,5 +1,5 @@
 ---
 title: "June"
 url: /minneapolis/june/
-shop: Kleidung
+shop: clothes
 ---

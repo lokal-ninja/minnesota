@@ -1,5 +1,5 @@
 ---
 title: "Hayslips Corner"
 url: /talmoon/hayslips-corner/
-shop: Spirituosen
+shop: alcohol
 ---

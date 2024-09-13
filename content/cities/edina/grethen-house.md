@@ -1,5 +1,5 @@
 ---
 title: "Grethen House"
 url: /edina/grethen-house/
-shop: Kleidung
+shop: clothes
 ---

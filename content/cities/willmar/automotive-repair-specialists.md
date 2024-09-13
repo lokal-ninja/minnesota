@@ -1,5 +1,5 @@
 ---
 title: "Automotive Repair Specialists"
 url: /willmar/automotive-repair-specialists/
-shop: Autowerkstatt
+shop: car repair
 ---

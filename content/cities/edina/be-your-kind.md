@@ -1,5 +1,5 @@
 ---
 title: "Be Your Kind"
 url: /edina/be-your-kind/
-shop: Kosmetik
+shop: beauty
 ---

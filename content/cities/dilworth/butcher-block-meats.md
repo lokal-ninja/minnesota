@@ -1,5 +1,5 @@
 ---
 title: "Butcher Block Meats"
 url: /dilworth/butcher-block-meats/
-shop: Metzgerei
+shop: butcher
 ---

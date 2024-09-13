@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /brooklyn-park/walgreens/
-shop: Drogerie
+shop: chemist
 ---

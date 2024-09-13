@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /west-st-paul/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

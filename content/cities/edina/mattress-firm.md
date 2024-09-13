@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /edina/mattress-firm/
-shop: Betten
+shop: bed
 ---

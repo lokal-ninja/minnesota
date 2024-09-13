@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /elk-river/petsmart/
-shop: Tiere
+shop: pet
 ---

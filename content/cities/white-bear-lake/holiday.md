@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /white-bear-lake/holiday/
-shop: Lebensmittel
+shop: convenience
 ---

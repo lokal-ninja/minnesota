@@ -1,5 +1,5 @@
 ---
 title: "Plato's Closet"
 url: /maple-grove/platos-closet/
-shop: Kleidung
+shop: clothes
 ---

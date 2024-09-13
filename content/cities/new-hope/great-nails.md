@@ -1,5 +1,5 @@
 ---
 title: "Great Nails"
 url: /new-hope/great-nails/
-shop: Kosmetik
+shop: beauty
 ---

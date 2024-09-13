@@ -1,5 +1,5 @@
 ---
 title: "TanWorks"
 url: /saint-paul/tanworks/
-shop: Kosmetik
+shop: beauty
 ---

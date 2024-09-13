@@ -1,5 +1,5 @@
 ---
 title: "Cub Foods"
 url: /edina/cub-foods/
-shop: Supermarkt
+shop: supermarket
 ---

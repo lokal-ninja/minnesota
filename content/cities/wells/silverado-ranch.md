@@ -1,5 +1,5 @@
 ---
 title: "Silverado Ranch"
 url: /wells/silverado-ranch/
-shop: Autohaus
+shop: car
 ---

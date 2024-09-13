@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /duluth/target/
-shop: Warenhaus
+shop: department store
 ---

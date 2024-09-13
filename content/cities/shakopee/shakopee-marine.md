@@ -1,5 +1,5 @@
 ---
 title: "Shakopee Marine"
 url: /shakopee/shakopee-marine/
-shop: Boot
+shop: boat
 ---

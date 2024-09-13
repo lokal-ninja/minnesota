@@ -1,5 +1,5 @@
 ---
 title: "The Beauty Room"
 url: /fosston/the-beauty-room/
-shop: Friseur
+shop: hairdresser
 ---

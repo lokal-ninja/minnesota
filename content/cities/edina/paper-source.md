@@ -1,5 +1,5 @@
 ---
 title: "Paper Source"
 url: /edina/paper-source/
-shop: Schreibwaren
+shop: office supplies
 ---

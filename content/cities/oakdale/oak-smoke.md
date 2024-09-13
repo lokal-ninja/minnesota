@@ -1,5 +1,5 @@
 ---
 title: "Oak Smoke"
 url: /oakdale/oak-smoke/
-shop: Tabak
+shop: tobacco
 ---

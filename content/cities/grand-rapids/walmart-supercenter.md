@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /grand-rapids/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

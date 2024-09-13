@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /rosemount/shell/
-shop: Lebensmittel
+shop: convenience
 ---

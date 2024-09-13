@@ -1,5 +1,5 @@
 ---
 title: "Fury Motors"
 url: /south-st-paul/fury-motors/
-shop: Autohaus
+shop: car
 ---

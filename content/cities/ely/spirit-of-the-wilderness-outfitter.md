@@ -1,5 +1,5 @@
 ---
 title: "Spirit of the Wilderness Outfitter"
 url: /ely/spirit-of-the-wilderness-outfitter/
-shop: Mieten
+shop: storage rental
 ---

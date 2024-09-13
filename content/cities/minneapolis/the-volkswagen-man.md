@@ -1,5 +1,5 @@
 ---
 title: "The Volkswagen Man"
 url: /minneapolis/the-volkswagen-man/
-shop: Autowerkstatt
+shop: car repair
 ---

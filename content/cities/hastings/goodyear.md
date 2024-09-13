@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /hastings/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

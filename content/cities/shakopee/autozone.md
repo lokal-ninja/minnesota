@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /shakopee/autozone/
-shop: Autoteile
+shop: car parts
 ---

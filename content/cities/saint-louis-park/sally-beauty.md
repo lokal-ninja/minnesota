@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /saint-louis-park/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

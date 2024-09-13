@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /saint-paul/public-storage/
-shop: Mieten
+shop: storage rental
 ---

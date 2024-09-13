@@ -1,5 +1,5 @@
 ---
 title: "Drury Lane Books"
 url: /grand-marais/drury-lane-books/
-shop: Bücher
+shop: books
 ---

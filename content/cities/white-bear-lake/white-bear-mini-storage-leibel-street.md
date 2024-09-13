@@ -1,5 +1,5 @@
 ---
 title: "White Bear Mini Storage"
 url: /white-bear-lake/white-bear-mini-storage-leibel-street/
-shop: Mieten
+shop: storage rental
 ---

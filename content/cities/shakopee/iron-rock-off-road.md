@@ -1,5 +1,5 @@
 ---
 title: "Iron Rock Off Road"
 url: /shakopee/iron-rock-off-road/
-shop: Autoteile
+shop: car parts
 ---

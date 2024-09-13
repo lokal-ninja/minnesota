@@ -1,5 +1,5 @@
 ---
 title: "Clown Glass"
 url: /minneapolis/clown-glass/
-shop: Tabak
+shop: tobacco
 ---

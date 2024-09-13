@@ -1,5 +1,5 @@
 ---
 title: "TurnStyle"
 url: /maple-grove/turnstyle/
-shop: Gebrauchtwaren
+shop: charity
 ---

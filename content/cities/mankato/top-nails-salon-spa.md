@@ -1,5 +1,5 @@
 ---
 title: "Top Nails Salon + Spa"
 url: /mankato/top-nails-salon-spa/
-shop: Kosmetik
+shop: beauty
 ---

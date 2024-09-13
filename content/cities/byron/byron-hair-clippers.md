@@ -1,5 +1,5 @@
 ---
 title: "Byron Hair Clippers"
 url: /byron/byron-hair-clippers/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sportsman's Warehouse"
 url: /coon-rapids/sportsmans-warehouse/
-shop: Outdoor
+shop: outdoor
 ---

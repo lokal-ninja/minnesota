@@ -1,5 +1,5 @@
 ---
 title: "Saigon Garage"
 url: /minneapolis/saigon-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /saint-paul/speedway-snelling-avenue-north/
-shop: Lebensmittel
+shop: convenience
 ---

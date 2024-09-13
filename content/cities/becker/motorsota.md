@@ -1,5 +1,5 @@
 ---
 title: "Motorsota"
 url: /becker/motorsota/
-shop: Autohaus
+shop: car
 ---

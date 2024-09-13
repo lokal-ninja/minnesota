@@ -1,5 +1,5 @@
 ---
 title: "Kwik Trip"
 url: /byron/kwik-trip/
-shop: Lebensmittel
+shop: convenience
 ---

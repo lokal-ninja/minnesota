@@ -1,5 +1,5 @@
 ---
 title: "John's Lowry Repair Center"
 url: /minneapolis/johns-lowry-repair-center/
-shop: Autowerkstatt
+shop: car repair
 ---

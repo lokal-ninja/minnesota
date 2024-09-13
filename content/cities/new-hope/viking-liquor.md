@@ -1,5 +1,5 @@
 ---
 title: "Viking Liquor"
 url: /new-hope/viking-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

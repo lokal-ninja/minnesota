@@ -1,5 +1,5 @@
 ---
 title: "Matco"
 url: /minneapolis/matco/
-shop: Autowerkstatt
+shop: car repair
 ---

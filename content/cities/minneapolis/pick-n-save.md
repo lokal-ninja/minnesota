@@ -1,5 +1,5 @@
 ---
 title: "Pick N Save"
 url: /minneapolis/pick-n-save/
-shop: Lebensmittel
+shop: convenience
 ---

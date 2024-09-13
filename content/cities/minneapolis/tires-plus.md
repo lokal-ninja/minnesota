@@ -1,5 +1,5 @@
 ---
 title: "Tires Plus"
 url: /minneapolis/tires-plus/
-shop: Reifen
+shop: tyres
 ---

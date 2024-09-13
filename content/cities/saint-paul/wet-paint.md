@@ -1,5 +1,5 @@
 ---
 title: "Wet Paint"
 url: /saint-paul/wet-paint/
-shop: Basteln
+shop: craft
 ---

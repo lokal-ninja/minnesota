@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /hastings/holiday-15th-street-west/
-shop: Lebensmittel
+shop: convenience
 ---

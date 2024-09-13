@@ -1,5 +1,5 @@
 ---
 title: "Canedy's"
 url: /lonsdale/canedys/
-shop: Autowerkstatt
+shop: car repair
 ---

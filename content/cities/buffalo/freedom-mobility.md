@@ -1,5 +1,5 @@
 ---
 title: "Freedom Mobility"
 url: /buffalo/freedom-mobility/
-shop: Fahrrad
+shop: bicycle
 ---

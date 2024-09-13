@@ -1,5 +1,5 @@
 ---
 title: "Resinosa Massage"
 url: /eagan/resinosa-massage/
-shop: Massage
+shop: massage
 ---

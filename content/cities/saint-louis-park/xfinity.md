@@ -1,5 +1,5 @@
 ---
 title: "Xfinity"
 url: /saint-louis-park/xfinity/
-shop: Handy
+shop: mobile phone
 ---

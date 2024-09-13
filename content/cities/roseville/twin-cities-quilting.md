@@ -1,5 +1,5 @@
 ---
 title: "Twin Cities Quilting"
 url: /roseville/twin-cities-quilting/
-shop: Textil
+shop: fabric
 ---

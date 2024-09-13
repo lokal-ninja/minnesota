@@ -1,5 +1,5 @@
 ---
 title: "Arrowhead Water Services"
 url: /cloquet/arrowhead-water-services/
-shop: Wasser
+shop: water
 ---

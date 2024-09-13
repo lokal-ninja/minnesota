@@ -1,5 +1,5 @@
 ---
 title: "Repair Lair"
 url: /minneapolis/repair-lair/
-shop: Outdoor
+shop: outdoor
 ---

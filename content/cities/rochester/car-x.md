@@ -1,5 +1,5 @@
 ---
 title: "Car-X"
 url: /rochester/car-x/
-shop: Autowerkstatt
+shop: car repair
 ---

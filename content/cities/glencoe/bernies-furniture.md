@@ -1,5 +1,5 @@
 ---
 title: "Bernie's Furniture"
 url: /glencoe/bernies-furniture/
-shop: Möbel
+shop: furniture
 ---

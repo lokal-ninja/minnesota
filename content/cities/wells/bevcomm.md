@@ -1,5 +1,5 @@
 ---
 title: "Bevcomm"
 url: /wells/bevcomm/
-shop: Handy
+shop: mobile phone
 ---

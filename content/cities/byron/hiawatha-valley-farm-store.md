@@ -1,5 +1,5 @@
 ---
 title: "Hiawatha Valley Farm Store"
 url: /byron/hiawatha-valley-farm-store/
-shop: Lebensmittel
+shop: convenience
 ---

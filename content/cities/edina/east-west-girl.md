@@ -1,5 +1,5 @@
 ---
 title: "East West Girl"
 url: /edina/east-west-girl/
-shop: Kleidung
+shop: clothes
 ---

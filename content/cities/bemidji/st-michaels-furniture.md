@@ -1,5 +1,5 @@
 ---
 title: "St. Michaels Furniture"
 url: /bemidji/st-michaels-furniture/
-shop: Möbel
+shop: furniture
 ---

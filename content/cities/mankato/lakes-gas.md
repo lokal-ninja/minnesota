@@ -1,5 +1,5 @@
 ---
 title: "Lakes Gas"
 url: /mankato/lakes-gas/
-shop: Gasflaschen
+shop: gas
 ---

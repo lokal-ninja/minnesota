@@ -1,5 +1,5 @@
 ---
 title: "Garten Marketplatz Perennial Farms"
 url: /byron/garten-marketplatz-perennial-farms/
-shop: Garten-Center
+shop: garden centre
 ---

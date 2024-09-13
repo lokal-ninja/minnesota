@@ -1,5 +1,5 @@
 ---
 title: "Queen Anna"
 url: /minneapolis/queen-anna/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Metro Dentalcare Chanhassen"
 url: /chanhassen/metro-dentalcare-chanhassen/
-shop: Kosmetik
+shop: beauty
 ---

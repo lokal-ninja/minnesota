@@ -1,5 +1,5 @@
 ---
 title: "Texa Tonka Liquor"
 url: /saint-louis-park/texa-tonka-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

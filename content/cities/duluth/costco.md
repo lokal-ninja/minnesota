@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /duluth/costco/
-shop: Großhandel
+shop: wholesale
 ---

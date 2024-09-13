@@ -1,5 +1,5 @@
 ---
 title: "Mehar's Ace Hardware"
 url: /ely/mehars-ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

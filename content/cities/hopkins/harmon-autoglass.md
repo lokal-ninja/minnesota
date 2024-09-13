@@ -1,5 +1,5 @@
 ---
 title: "Harmon AutoGlass"
 url: /hopkins/harmon-autoglass/
-shop: Autowerkstatt
+shop: car repair
 ---

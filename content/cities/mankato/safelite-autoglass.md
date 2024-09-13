@@ -1,5 +1,5 @@
 ---
 title: "Safelite AutoGlass"
 url: /mankato/safelite-autoglass/
-shop: Autowerkstatt
+shop: car repair
 ---

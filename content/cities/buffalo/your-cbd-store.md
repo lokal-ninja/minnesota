@@ -1,5 +1,5 @@
 ---
 title: "Your CBD Store"
 url: /buffalo/your-cbd-store/
-shop: Drogerie
+shop: chemist
 ---

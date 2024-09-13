@@ -1,5 +1,5 @@
 ---
 title: "House of Note"
 url: /saint-louis-park/house-of-note/
-shop: Instrumente
+shop: musical instrument
 ---

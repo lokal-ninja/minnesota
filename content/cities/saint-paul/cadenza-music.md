@@ -1,5 +1,5 @@
 ---
 title: "Cadenza Music"
 url: /saint-paul/cadenza-music/
-shop: Musik
+shop: music
 ---

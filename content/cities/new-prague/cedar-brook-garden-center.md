@@ -1,5 +1,5 @@
 ---
 title: "Cedar Brook Garden Center"
 url: /new-prague/cedar-brook-garden-center/
-shop: Garten-Center
+shop: garden centre
 ---

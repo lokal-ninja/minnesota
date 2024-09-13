@@ -1,5 +1,5 @@
 ---
 title: "Salon Lofts"
 url: /eden-prairie/salon-lofts/
-shop: Friseur
+shop: hairdresser
 ---

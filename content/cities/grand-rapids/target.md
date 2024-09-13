@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /grand-rapids/target/
-shop: Warenhaus
+shop: department store
 ---

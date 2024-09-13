@@ -1,5 +1,5 @@
 ---
 title: "Gas Mart"
 url: /osakis/gas-mart/
-shop: Lebensmittel
+shop: convenience
 ---

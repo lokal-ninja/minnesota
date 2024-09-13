@@ -1,5 +1,5 @@
 ---
 title: "The Ledge"
 url: /tower/the-ledge/
-shop: Spirituosen
+shop: alcohol
 ---

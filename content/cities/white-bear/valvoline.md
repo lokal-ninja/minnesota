@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /white-bear/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

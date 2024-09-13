@@ -1,5 +1,5 @@
 ---
 title: "Twin City Monuments"
 url: /saint-louis-park/twin-city-monuments/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /woodbury/costco/
-shop: Großhandel
+shop: wholesale
 ---

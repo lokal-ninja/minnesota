@@ -1,5 +1,5 @@
 ---
 title: "Ely Auto Services"
 url: /ely/ely-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

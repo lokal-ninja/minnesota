@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /maplewood/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

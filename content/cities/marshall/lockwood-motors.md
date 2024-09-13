@@ -1,5 +1,5 @@
 ---
 title: "Lockwood Motors"
 url: /marshall/lockwood-motors/
-shop: Autohaus
+shop: car
 ---

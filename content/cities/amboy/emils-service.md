@@ -1,5 +1,5 @@
 ---
 title: "Emil's Service"
 url: /amboy/emils-service/
-shop: Autowerkstatt
+shop: car repair
 ---

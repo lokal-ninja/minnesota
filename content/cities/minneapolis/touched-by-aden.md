@@ -1,5 +1,5 @@
 ---
 title: "Touched by Aden"
 url: /minneapolis/touched-by-aden/
-shop: Kosmetik
+shop: beauty
 ---

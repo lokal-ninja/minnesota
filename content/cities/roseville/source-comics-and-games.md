@@ -1,5 +1,5 @@
 ---
 title: "Source Comics and Games"
 url: /roseville/source-comics-and-games/
-shop: Spiele
+shop: games
 ---

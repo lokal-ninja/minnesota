@@ -1,5 +1,5 @@
 ---
 title: "Hennen's Auto Service"
 url: /shakopee/hennens-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

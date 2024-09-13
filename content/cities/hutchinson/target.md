@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /hutchinson/target/
-shop: Warenhaus
+shop: department store
 ---

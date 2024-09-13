@@ -1,5 +1,5 @@
 ---
 title: "Anodyne"
 url: /minnetonka/anodyne/
-shop: Sanitätshaus
+shop: medical supply
 ---

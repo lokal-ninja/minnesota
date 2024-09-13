@@ -1,5 +1,5 @@
 ---
 title: "AAMCO"
 url: /mankato/aamco/
-shop: Autowerkstatt
+shop: car repair
 ---

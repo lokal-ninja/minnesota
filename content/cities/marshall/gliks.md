@@ -1,5 +1,5 @@
 ---
 title: "Glik's"
 url: /marshall/gliks/
-shop: Kleidung
+shop: clothes
 ---

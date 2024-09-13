@@ -1,5 +1,5 @@
 ---
 title: "Storage"
 url: /virginia/storage/
-shop: Baumarkt
+shop: doityourself
 ---

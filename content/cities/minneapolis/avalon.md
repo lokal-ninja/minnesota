@@ -1,5 +1,5 @@
 ---
 title: "AVALON"
 url: /minneapolis/avalon/
-shop: Andenken
+shop: gift
 ---

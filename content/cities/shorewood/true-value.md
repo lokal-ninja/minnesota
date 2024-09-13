@@ -1,5 +1,5 @@
 ---
 title: "True Value"
 url: /shorewood/true-value/
-shop: Eisenwaren
+shop: hardware
 ---

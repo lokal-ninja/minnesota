@@ -1,5 +1,5 @@
 ---
 title: "Bomgaars"
 url: /luverne/bomgaars/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wayne's Repair"
 url: /freeborn/waynes-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

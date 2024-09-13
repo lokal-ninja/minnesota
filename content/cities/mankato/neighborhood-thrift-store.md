@@ -1,5 +1,5 @@
 ---
 title: "Neighborhood Thrift Store"
 url: /mankato/neighborhood-thrift-store/
-shop: Gebrauchtwaren
+shop: charity
 ---

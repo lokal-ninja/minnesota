@@ -1,5 +1,5 @@
 ---
 title: "Tangerine"
 url: /rochester/tangerine/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /owatonna/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

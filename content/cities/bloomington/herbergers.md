@@ -1,5 +1,5 @@
 ---
 title: "Herberger's"
 url: /bloomington/herbergers/
-shop: Warenhaus
+shop: department store
 ---

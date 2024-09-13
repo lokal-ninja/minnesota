@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /baxter/holiday/
-shop: Lebensmittel
+shop: convenience
 ---

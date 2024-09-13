@@ -1,5 +1,5 @@
 ---
 title: "Douglas Furniture"
 url: /alexandria/douglas-furniture/
-shop: Möbel
+shop: furniture
 ---

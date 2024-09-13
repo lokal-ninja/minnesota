@@ -1,5 +1,5 @@
 ---
 title: "Hardt's Music"
 url: /winona/hardts-music/
-shop: Instrumente
+shop: musical instrument
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Woodsport"
 url: /saint-paul/woodsport/
-shop: Möbel
+shop: furniture
 ---

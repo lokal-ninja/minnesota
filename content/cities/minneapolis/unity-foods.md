@@ -1,5 +1,5 @@
 ---
 title: "Unity Foods"
 url: /minneapolis/unity-foods/
-shop: Lebensmittel
+shop: convenience
 ---

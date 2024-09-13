@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /chanhassen/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

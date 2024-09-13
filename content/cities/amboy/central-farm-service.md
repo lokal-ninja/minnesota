@@ -1,5 +1,5 @@
 ---
 title: "Central Farm Service"
 url: /amboy/central-farm-service/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

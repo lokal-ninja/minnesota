@@ -1,5 +1,5 @@
 ---
 title: "Boost Mobile"
 url: /minneapolis/boost-mobile-east-lake-street/
-shop: Handy
+shop: mobile phone
 ---

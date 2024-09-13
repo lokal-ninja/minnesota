@@ -1,5 +1,5 @@
 ---
 title: "Steve's Country Foods"
 url: /browerville/steves-country-foods/
-shop: Supermarkt
+shop: supermarket
 ---

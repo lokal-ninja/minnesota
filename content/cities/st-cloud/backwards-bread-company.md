@@ -1,5 +1,5 @@
 ---
 title: "Backwards Bread Company"
 url: /st-cloud/backwards-bread-company/
-shop: Bäckerei
+shop: bakery
 ---

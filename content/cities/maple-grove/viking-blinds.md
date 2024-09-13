@@ -1,5 +1,5 @@
 ---
 title: "Viking Blinds"
 url: /maple-grove/viking-blinds/
-shop: Jalousien
+shop: window blind
 ---

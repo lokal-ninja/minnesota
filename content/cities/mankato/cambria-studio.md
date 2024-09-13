@@ -1,5 +1,5 @@
 ---
 title: "Cambria Studio"
 url: /mankato/cambria-studio/
-shop: Küchen
+shop: kitchen
 ---

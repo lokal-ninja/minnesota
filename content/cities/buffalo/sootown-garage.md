@@ -1,5 +1,5 @@
 ---
 title: "Sootown Garage"
 url: /buffalo/sootown-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

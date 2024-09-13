@@ -1,5 +1,5 @@
 ---
 title: "Kruse Collision Center"
 url: /marshall/kruse-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

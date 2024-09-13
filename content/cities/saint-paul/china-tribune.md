@@ -1,5 +1,5 @@
 ---
 title: "China Tribune"
 url: /saint-paul/china-tribune/
-shop: Reisebüro
+shop: travel agency
 ---

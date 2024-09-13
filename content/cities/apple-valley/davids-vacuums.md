@@ -1,5 +1,5 @@
 ---
 title: "David's Vacuums"
 url: /apple-valley/davids-vacuums/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

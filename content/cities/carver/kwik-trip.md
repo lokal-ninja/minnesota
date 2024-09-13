@@ -1,5 +1,5 @@
 ---
 title: "Kwik Trip"
 url: /carver/kwik-trip/
-shop: Lebensmittel
+shop: convenience
 ---

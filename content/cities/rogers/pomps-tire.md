@@ -1,5 +1,5 @@
 ---
 title: "Pomp's Tire"
 url: /rogers/pomps-tire/
-shop: Reifen
+shop: tyres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /coon-rapids/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

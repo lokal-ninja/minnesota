@@ -1,5 +1,5 @@
 ---
 title: "Gear West"
 url: /long-lake/gear-west/
-shop: Sport
+shop: sports
 ---

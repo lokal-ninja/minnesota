@@ -1,5 +1,5 @@
 ---
 title: "Byron Auto Repair"
 url: /byron/byron-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

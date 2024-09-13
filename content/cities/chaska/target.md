@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /chaska/target/
-shop: Supermarkt
+shop: supermarket
 ---

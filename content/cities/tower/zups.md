@@ -1,5 +1,5 @@
 ---
 title: "Zup's"
 url: /tower/zups/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "US Nails"
 url: /chanhassen/us-nails/
-shop: Kosmetik
+shop: beauty
 ---

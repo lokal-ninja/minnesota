@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /saint-cloud/dsw/
-shop: Schuhe
+shop: shoes
 ---

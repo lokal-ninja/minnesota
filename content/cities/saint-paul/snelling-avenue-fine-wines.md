@@ -1,5 +1,5 @@
 ---
 title: "Snelling Avenue Fine Wines"
 url: /saint-paul/snelling-avenue-fine-wines/
-shop: Spirituosen
+shop: alcohol
 ---

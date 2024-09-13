@@ -1,5 +1,5 @@
 ---
 title: "Voyaguer North Outfitters"
 url: /ely/voyaguer-north-outfitters/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /eagan/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

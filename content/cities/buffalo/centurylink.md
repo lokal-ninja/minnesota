@@ -1,5 +1,5 @@
 ---
 title: "CenturyLink"
 url: /buffalo/centurylink/
-shop: Handy
+shop: mobile phone
 ---

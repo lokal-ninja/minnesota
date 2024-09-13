@@ -1,5 +1,5 @@
 ---
 title: "Le Nails"
 url: /mankato/le-nails/
-shop: Kosmetik
+shop: beauty
 ---

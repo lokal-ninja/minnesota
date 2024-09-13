@@ -1,5 +1,5 @@
 ---
 title: "Pearle Vision"
 url: /maple-grove/pearle-vision/
-shop: Optiker
+shop: optician
 ---

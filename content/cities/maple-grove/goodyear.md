@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /maple-grove/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

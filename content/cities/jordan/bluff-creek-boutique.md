@@ -1,5 +1,5 @@
 ---
 title: "Bluff Creek Boutique"
 url: /jordan/bluff-creek-boutique/
-shop: Kleidung
+shop: clothes
 ---

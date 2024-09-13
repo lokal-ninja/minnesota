@@ -1,5 +1,5 @@
 ---
 title: "Auto Value Cloquet"
 url: /cloquet/auto-value-cloquet/
-shop: Autoteile
+shop: car parts
 ---

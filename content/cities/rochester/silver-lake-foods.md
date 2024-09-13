@@ -1,5 +1,5 @@
 ---
 title: "Silver Lake Foods"
 url: /rochester/silver-lake-foods/
-shop: Supermarkt
+shop: supermarket
 ---

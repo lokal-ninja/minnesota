@@ -1,5 +1,5 @@
 ---
 title: "Cenex Service Station"
 url: /moose-lake/cenex-service-station/
-shop: Autowerkstatt
+shop: car repair
 ---

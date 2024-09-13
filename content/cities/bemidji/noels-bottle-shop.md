@@ -1,5 +1,5 @@
 ---
 title: "Noel's Bottle Shop"
 url: /bemidji/noels-bottle-shop/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /new-ulm/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

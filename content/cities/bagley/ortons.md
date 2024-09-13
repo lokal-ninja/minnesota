@@ -1,5 +1,5 @@
 ---
 title: "Ortons"
 url: /bagley/ortons/
-shop: Lebensmittel
+shop: convenience
 ---

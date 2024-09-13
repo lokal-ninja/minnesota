@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /cannon-falls/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

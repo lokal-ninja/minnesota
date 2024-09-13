@@ -1,5 +1,5 @@
 ---
 title: "Pebble Spa"
 url: /ely/pebble-spa/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /brainerd/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Baraka Auto Center"
 url: /minneapolis/baraka-auto-center/
-shop: Autowerkstatt
+shop: car repair
 ---

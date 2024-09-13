@@ -1,5 +1,5 @@
 ---
 title: "Lockport Marketplace"
 url: /lutsen/lockport-marketplace/
-shop: Lebensmittel
+shop: convenience
 ---

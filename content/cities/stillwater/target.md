@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /stillwater/target/
-shop: Warenhaus
+shop: department store
 ---

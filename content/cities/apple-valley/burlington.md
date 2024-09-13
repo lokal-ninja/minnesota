@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /apple-valley/burlington/
-shop: Warenhaus
+shop: department store
 ---

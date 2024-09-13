@@ -1,5 +1,5 @@
 ---
 title: "Schmitt Automotive"
 url: /rochester/schmitt-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

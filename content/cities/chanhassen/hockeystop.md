@@ -1,5 +1,5 @@
 ---
 title: "HockeyStop"
 url: /chanhassen/hockeystop/
-shop: Sport
+shop: sports
 ---

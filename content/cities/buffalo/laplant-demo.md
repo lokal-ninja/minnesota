@@ -1,5 +1,5 @@
 ---
 title: "Laplant Demo"
 url: /buffalo/laplant-demo/
-shop: Mieten
+shop: storage rental
 ---
