@@ -1,11 +1,11 @@
 id: 552435484
-type: way
+type: node
 latitude: 45.23674
 longitude: -93.66383
 postcode: "55301"
 city: Albertville
-street: "Labeaux Avenue Northeast"
-housenumber: 6000
+street: Labeaux Avenue Northeast
+housenumber: "6000"
 phone: ""
 opening_hours: ""
 website: ""

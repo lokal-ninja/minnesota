@@ -1,11 +1,11 @@
 id: 972387654
-type: way
+type: node
 latitude: 46.12476
 longitude: -92.87322
 postcode: "55072"
 city: Sandstone
-street: "Main Street"
-housenumber: 606
+street: Main Street
+housenumber: "606"
 phone: ""
 opening_hours: ""
 website: ""

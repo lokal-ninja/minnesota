@@ -1,11 +1,11 @@
 id: 515404700
-type: way
+type: node
 latitude: 44.80408
 longitude: -93.18509
 postcode: "55122"
 city: Eagan
-street: "Johnny Cake Ridge Road"
-housenumber: 4241
+street: Johnny Cake Ridge Road
+housenumber: "4241"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/eagan-mn-pharmacies/4241-johnny-cake-ridge-rd-eagan-mn-55122/storeid=6715"
+website: https://www.cvs.com/store-locator/eagan-mn-pharmacies/4241-johnny-cake-ridge-rd-eagan-mn-55122/storeid=6715

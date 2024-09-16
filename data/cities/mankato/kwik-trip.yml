@@ -1,11 +1,11 @@
 id: 976089038
-type: way
+type: node
 latitude: 44.16641
 longitude: -93.96505
 postcode: "56001"
 city: Mankato
-street: "Madison Avenue"
-housenumber: 1549
+street: Madison Avenue
+housenumber: "1549"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.kwiktrip.com/locator/store?id=344"
+opening_hours: 24/7
+website: https://www.kwiktrip.com/locator/store?id=344

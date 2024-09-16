@@ -4,8 +4,8 @@ latitude: 43.72173
 longitude: -91.9768
 postcode: "55949"
 city: Lanesboro
-street: "Parkway Avenue North"
-housenumber: 116
-phone: "+1-507-467-2101"
-opening_hours: "limited days or hours off-season; May 01-Oct 15: 09:00+"
-website: "https://rootriverrodco.com"
+street: Parkway Avenue North
+housenumber: "116"
+phone: +1-507-467-2101
+opening_hours: '"limited days or hours off-season"; May 01-Oct 15: 09:00+'
+website: https://rootriverrodco.com

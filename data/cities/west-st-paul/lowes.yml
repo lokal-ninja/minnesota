@@ -1,11 +1,11 @@
 id: 371362998
-type: way
+type: node
 latitude: 44.89272
 longitude: -93.08205
 postcode: "55118"
 city: West St Paul
-street: "Robert Street South"
-housenumber: 1795
-phone: "+1 763-367-4139"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/mn-west-st.-paul/2313"
+street: Robert Street South
+housenumber: "1795"
+phone: +1 763-367-4139
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/mn-west-st.-paul/2313

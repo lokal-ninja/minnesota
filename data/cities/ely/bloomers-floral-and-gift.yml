@@ -1,11 +1,11 @@
 id: 1206244376
-type: way
+type: node
 latitude: 47.90342
 longitude: -91.85938
 postcode: "55731"
 city: Ely
-street: "East Sheridan Street"
-housenumber: 501
+street: East Sheridan Street
+housenumber: "501"
 phone: ""
 opening_hours: ""
-website: "http://www.bloomersfloralofely.com/"
+website: http://www.bloomersfloralofely.com/

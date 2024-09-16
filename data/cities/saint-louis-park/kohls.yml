@@ -1,11 +1,11 @@
 id: 435164434
-type: way
+type: node
 latitude: 44.93728
 longitude: -93.38672
 postcode: "55426"
 city: Saint Louis Park
-street: "Minnesota State Highway 7"
-housenumber: 8340
-phone: "+1 952-988-9100"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/mn/stlouispark-228.shtml"
+street: Minnesota State Highway 7
+housenumber: "8340"
+phone: +1 952-988-9100
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/mn/stlouispark-228.shtml

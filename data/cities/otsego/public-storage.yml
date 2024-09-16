@@ -1,11 +1,11 @@
 id: 886298626
-type: way
+type: node
 latitude: 45.27392
 longitude: -93.56148
 postcode: "55330"
 city: Otsego
-street: "85th Street Northeast"
-housenumber: 15901
+street: 85th Street Northeast
+housenumber: "15901"
 phone: ""
 opening_hours: ""
 website: ""

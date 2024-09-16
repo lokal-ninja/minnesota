@@ -1,11 +1,11 @@
 id: 519141422
-type: way
+type: node
 latitude: 46.81264
 longitude: -92.16879
 postcode: "55811"
 city: Duluth
-street: "Miller Trunk Highway"
-housenumber: 2115
-phone: "+1 218-722-9699"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/mn/duluth-219.shtml"
+street: Miller Trunk Highway
+housenumber: "2115"
+phone: +1 218-722-9699
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/mn/duluth-219.shtml

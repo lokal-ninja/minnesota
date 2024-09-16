@@ -1,11 +1,11 @@
 id: 761570603
-type: way
+type: node
 latitude: 43.74807
 longitude: -93.72916
 postcode: "56097"
 city: Wells
-street: "2nd Avenue Northwest"
-housenumber: 280
+street: 2nd Avenue Northwest
+housenumber: "280"
 phone: ""
 opening_hours: ""
 website: ""

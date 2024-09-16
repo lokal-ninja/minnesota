@@ -1,11 +1,11 @@
 id: 1021828610
-type: way
+type: node
 latitude: 45.00627
 longitude: -93.31235
 postcode: "55411"
 city: Minneapolis
-street: "West Broadway"
-housenumber: 2501
-phone: "612-290-3244"
+street: West Broadway
+housenumber: "2501"
+phone: 612-290-3244
 opening_hours: ""
 website: ""

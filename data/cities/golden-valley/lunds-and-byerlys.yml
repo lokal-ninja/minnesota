@@ -1,11 +1,11 @@
 id: 47087501
-type: way
+type: node
 latitude: 44.99897
 longitude: -93.35321
 postcode: "55422"
 city: Golden Valley
-street: "Duluth Street"
-housenumber: 5725
-phone: "+1 763 544 8846"
-opening_hours: "06:00-22:00"
-website: "https://lundsandbyerlys.com/our-stores/locations/golden-valley/"
+street: Duluth Street
+housenumber: "5725"
+phone: +1 763 544 8846
+opening_hours: 06:00-22:00
+website: https://lundsandbyerlys.com/our-stores/locations/golden-valley/

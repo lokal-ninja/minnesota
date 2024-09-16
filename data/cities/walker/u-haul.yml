@@ -1,11 +1,11 @@
 id: 1014429623
-type: way
+type: node
 latitude: 47.11758
 longitude: -94.61198
 postcode: "56484"
 city: Walker
-street: "State 371 Northwest"
-housenumber: 8525
+street: State 371 Northwest
+housenumber: "8525"
 phone: ""
 opening_hours: ""
 website: ""

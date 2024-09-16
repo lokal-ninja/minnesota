@@ -1,11 +1,11 @@
 id: 404626898
-type: way
+type: node
 latitude: 48.90612
 longitude: -95.38022
 postcode: "56763"
 city: Warroad
-street: "MN 11"
-housenumber: 56732
+street: MN 11
+housenumber: "56732"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

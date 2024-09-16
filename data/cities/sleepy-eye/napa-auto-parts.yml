@@ -4,8 +4,8 @@ latitude: 44.29538
 longitude: -94.7265
 postcode: "56085"
 city: Sleepy Eye
-street: "3rd Avenue SW"
-housenumber: 200
-phone: "+1-507-794-3290"
-opening_hours: "Mo-Fr 07:00-20:00,Sa 07:30-17:00,Su 10:00-15:00"
-website: "https://www.napaonline.com/mn/sleepy-eye/store/27600?cid"
+street: 3rd Avenue SW
+housenumber: "200"
+phone: +1-507-794-3290
+opening_hours: Mo-Fr 07:00-20:00,Sa 07:30-17:00,Su 10:00-15:00
+website: https://www.napaonline.com/mn/sleepy-eye/store/27600?cid

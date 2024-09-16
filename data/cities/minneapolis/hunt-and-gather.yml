@@ -1,11 +1,11 @@
 id: 312181569
-type: way
+type: node
 latitude: 44.91289
 longitude: -93.31937
 postcode: "55410"
 city: Minneapolis
-street: "Xerxes Avenue South"
-housenumber: 4944
+street: Xerxes Avenue South
+housenumber: "4944"
 phone: ""
 opening_hours: ""
-website: "http://www.huntandgatherantiques.com"
+website: http://www.huntandgatherantiques.com

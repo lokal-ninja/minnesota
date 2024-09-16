@@ -1,11 +1,11 @@
 id: 39525599
-type: way
+type: node
 latitude: 44.86553
 longitude: -93.44314
 postcode: "55344"
 city: Eden Prairie
-street: "Prairie Center Drive"
-housenumber: 970
-phone: "+1 952 525 8000"
-opening_hours: "06:00-22:00"
-website: "https://lundsandbyerlys.com/our-stores/locations/eden-prairie/"
+street: Prairie Center Drive
+housenumber: "970"
+phone: +1 952 525 8000
+opening_hours: 06:00-22:00
+website: https://lundsandbyerlys.com/our-stores/locations/eden-prairie/

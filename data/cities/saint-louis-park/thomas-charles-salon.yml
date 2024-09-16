@@ -1,11 +1,11 @@
 id: 1015686531
-type: way
+type: node
 latitude: 44.94886
 longitude: -93.3307
 postcode: "55416"
 city: Saint Louis Park
-street: "Minnetonka Boulevard"
-housenumber: 4008
+street: Minnetonka Boulevard
+housenumber: "4008"
 phone: "+19529254277"
 opening_hours: ""
-website: "http://thomascharlessalon.com/"
+website: http://thomascharlessalon.com/

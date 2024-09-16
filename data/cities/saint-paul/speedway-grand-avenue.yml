@@ -1,11 +1,11 @@
 id: 172673832
-type: way
+type: node
 latitude: 44.94061
 longitude: -93.18695
 postcode: "55105"
 city: Saint Paul
-street: "Grand Avenue"
-housenumber: 2051
+street: Grand Avenue
+housenumber: "2051"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/MN/St-Paul/2051-Grand-Ave"
+website: https://www.speedway.com/locations/MN/St-Paul/2051-Grand-Ave

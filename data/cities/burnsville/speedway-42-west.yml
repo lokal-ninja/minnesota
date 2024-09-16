@@ -1,11 +1,11 @@
 id: 530905391
-type: way
+type: node
 latitude: 44.74706
 longitude: -93.30384
 postcode: "55337"
 city: Burnsville
-street: "42 West"
-housenumber: 1900
+street: 42 West
+housenumber: "1900"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/MN/Burnsville/1900-County-Road-42-W"
+website: https://www.speedway.com/locations/MN/Burnsville/1900-County-Road-42-W

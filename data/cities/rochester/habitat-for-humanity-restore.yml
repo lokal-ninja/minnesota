@@ -1,11 +1,11 @@
 id: 349149023
-type: way
+type: node
 latitude: 44.05538
 longitude: -92.52139
 postcode: "55901"
 city: Rochester
-street: "40th Avenue Northwest"
-housenumber: 3034
-phone: "+1 507-258-5505"
+street: 40th Avenue Northwest
+housenumber: "3034"
+phone: +1 507-258-5505
 opening_hours: ""
-website: "http://www.rahh.org/reStore/index.html"
+website: http://www.rahh.org/reStore/index.html

@@ -1,11 +1,11 @@
 id: 155243855
-type: way
+type: node
 latitude: 44.28197
 longitude: -92.66768
 postcode: "55992"
 city: Zumbrota
-street: "East 18th Street"
-housenumber: 201
+street: East 18th Street
+housenumber: "201"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/MN/Zumbrota/201-East-18th-Street"
+website: https://www.speedway.com/locations/MN/Zumbrota/201-East-18th-Street

@@ -1,11 +1,11 @@
 id: 607542929
-type: way
+type: node
 latitude: 44.87833
 longitude: -93.00522
 postcode: "55055"
 city: Newport
-street: "4th Avenue"
-housenumber: 1901
+street: 4th Avenue
+housenumber: "1901"
 phone: ""
 opening_hours: ""
-website: "http://www.newportcollisioncenter.com/"
+website: http://www.newportcollisioncenter.com/

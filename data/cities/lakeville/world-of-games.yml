@@ -1,11 +1,11 @@
 id: 531013515
-type: way
+type: node
 latitude: 44.64865
 longitude: -93.24319
 postcode: "55044"
 city: Lakeville
-street: "Holyoke Avenue"
-housenumber: 20777
-phone: "+1-952-469-1830"
-opening_hours: "Mo-We 11:00-19:00; Th 11:00-16:00; Fr 11:00-19:00; Sa 11:00-18:00"
-website: "https://www.worldofgamesonline.com/"
+street: Holyoke Avenue
+housenumber: "20777"
+phone: +1-952-469-1830
+opening_hours: Mo-We 11:00-19:00; Th 11:00-16:00; Fr 11:00-19:00; Sa 11:00-18:00
+website: https://www.worldofgamesonline.com/

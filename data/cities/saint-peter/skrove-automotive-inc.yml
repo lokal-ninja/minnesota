@@ -1,11 +1,11 @@
 id: 545329476
-type: way
+type: node
 latitude: 44.34023
 longitude: -93.95148
 postcode: "56082"
 city: Saint Peter
-street: "West Saint Julien Street"
-housenumber: 228
+street: West Saint Julien Street
+housenumber: "228"
 phone: ""
 opening_hours: ""
 website: ""

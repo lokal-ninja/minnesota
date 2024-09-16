@@ -1,11 +1,11 @@
 id: 764202329
-type: way
+type: node
 latitude: 44.83453
 longitude: -93.17565
 postcode: "55121"
 city: Eagan
-street: "Quarry Road"
-housenumber: 1550
-phone: "+1 833-472-7039"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/mn/eagan/1550-quarry-road"
+street: Quarry Road
+housenumber: "1550"
+phone: +1 833-472-7039
+opening_hours: Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00
+website: https://stores.aldi.us/mn/eagan/1550-quarry-road

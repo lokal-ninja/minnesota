@@ -1,11 +1,11 @@
 id: 457756065
-type: way
+type: node
 latitude: 44.62242
 longitude: -93.74554
 postcode: "56011"
 city: Belle Plaine
-street: "East Enterprise Drive"
-housenumber: 1056
-phone: "+1-952-873-6881"
-opening_hours: "Mo-Fr 08:00-21:00, Sa 08:00-18:00, Su 10:00-16:00"
-website: "https://www.greatclips.com/salons/8918"
+street: East Enterprise Drive
+housenumber: "1056"
+phone: +1-952-873-6881
+opening_hours: Mo-Fr 08:00-21:00, Sa 08:00-18:00, Su 10:00-16:00
+website: https://www.greatclips.com/salons/8918

@@ -1,11 +1,11 @@
 id: 513272456
-type: way
+type: node
 latitude: 44.94874
 longitude: -93.24857
 postcode: "55407"
 city: Minneapolis
-street: "East Lake Street"
-housenumber: 1804
+street: East Lake Street
+housenumber: "1804"
 phone: "+16127225646"
-opening_hours: "Mo-Su 07:30-21:00"
-website: "https://stores.advanceautoparts.com/mn/minneapolis/1804-e-lake-st"
+opening_hours: Mo-Su 07:30-21:00
+website: https://stores.advanceautoparts.com/mn/minneapolis/1804-e-lake-st

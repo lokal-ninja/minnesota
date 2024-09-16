@@ -1,11 +1,11 @@
 id: 1178489500
-type: way
+type: node
 latitude: 45.17398
 longitude: -93.87597
 postcode: "55313"
 city: Buffalo
-street: "2nd Street Northeast"
-housenumber: 6
+street: 2nd Street Northeast
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

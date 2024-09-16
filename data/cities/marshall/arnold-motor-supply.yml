@@ -1,11 +1,11 @@
 id: 827723285
-type: way
+type: node
 latitude: 44.4449
 longitude: -95.79242
 postcode: "56258"
 city: Marshall
-street: "West College Drive"
-housenumber: 208
+street: West College Drive
+housenumber: "208"
 phone: ""
 opening_hours: ""
 website: ""

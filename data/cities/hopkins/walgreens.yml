@@ -1,11 +1,11 @@
 id: 47202926
-type: way
+type: node
 latitude: 44.93335
 longitude: -93.41921
 postcode: "55305"
 city: Hopkins
-street: "Highway 7"
-housenumber: 1511
+street: Highway 7
+housenumber: "1511"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1511+highway+7-hopkins-mn-55305/id=6730"
+website: https://www.walgreens.com/locator/walgreens-1511+highway+7-hopkins-mn-55305/id=6730

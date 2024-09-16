@@ -1,11 +1,11 @@
 id: 164977200
-type: way
+type: node
 latitude: 43.99356
 longitude: -92.46342
 postcode: "55904"
 city: Rochester
-street: "South Broadway Avenue"
-housenumber: 1941
+street: South Broadway Avenue
+housenumber: "1941"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=672"
+website: https://www.kwiktrip.com/locator/store?id=672

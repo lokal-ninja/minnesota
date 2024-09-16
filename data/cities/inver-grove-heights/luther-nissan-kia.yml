@@ -1,11 +1,11 @@
 id: 527085066
-type: way
+type: node
 latitude: 44.87737
 longitude: -93.07652
 postcode: "55077"
 city: Inver Grove Heights
-street: "50th Street East"
-housenumber: 1470
+street: 50th Street East
+housenumber: "1470"
 phone: ""
 opening_hours: ""
 website: ""

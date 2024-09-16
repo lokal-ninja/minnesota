@@ -1,11 +1,11 @@
 id: 600893256
-type: way
+type: node
 latitude: 44.94826
 longitude: -93.34519
 postcode: "55416"
 city: Saint Louis Park
-street: "Minnetonka Boulevard"
-housenumber: 5125
+street: Minnetonka Boulevard
+housenumber: "5125"
 phone: "+19529252020"
 opening_hours: ""
-website: "https://tgkauto.com/locations/st-louis-park"
+website: https://tgkauto.com/locations/st-louis-park

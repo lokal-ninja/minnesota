@@ -1,11 +1,11 @@
 id: 867298732
-type: way
+type: node
 latitude: 45.4428
 longitude: -93.58519
 postcode: "55398"
 city: Zimmerman
-street: "3rd Street East"
-housenumber: 26075
+street: 3rd Street East
+housenumber: "26075"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/MN/Zimmerman/26075-3rd-St-E"
+website: https://www.speedway.com/locations/MN/Zimmerman/26075-3rd-St-E

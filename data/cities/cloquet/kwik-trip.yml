@@ -1,11 +1,11 @@
 id: 874911779
-type: way
+type: node
 latitude: 46.73615
 longitude: -92.46632
 postcode: "55720"
 city: Cloquet
-street: "North Road"
-housenumber: 235
+street: North Road
+housenumber: "235"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.kwiktrip.com/locator/store?id=247"
+opening_hours: 24/7
+website: https://www.kwiktrip.com/locator/store?id=247

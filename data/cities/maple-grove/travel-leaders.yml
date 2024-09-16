@@ -1,11 +1,11 @@
 id: 607496676
-type: way
+type: node
 latitude: 45.10619
 longitude: -93.45541
 postcode: "55369"
 city: Maple Grove
-street: "83rd Way North"
-housenumber: 13756
+street: 83rd Way North
+housenumber: "13756"
 phone: "+17632318870"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 10:00-14:00"
+opening_hours: Mo-Fr 09:00-17:30; Sa 10:00-14:00
 website: ""

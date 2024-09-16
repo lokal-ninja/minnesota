@@ -1,11 +1,11 @@
 id: 102079830
-type: way
+type: node
 latitude: 44.92211
 longitude: -93.32871
 postcode: "55410"
 city: Minneapolis
-street: "Sunnyside Avenue"
-housenumber: 3815
-phone: "+1 612 922 1159"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://wedge.coop/linden-hills/"
+street: Sunnyside Avenue
+housenumber: "3815"
+phone: +1 612 922 1159
+opening_hours: Mo-Su 08:00-21:00
+website: https://wedge.coop/linden-hills/

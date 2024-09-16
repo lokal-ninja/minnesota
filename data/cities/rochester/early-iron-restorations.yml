@@ -1,11 +1,11 @@
 id: 295316623
-type: way
+type: node
 latitude: 44.00556
 longitude: -92.34386
 postcode: "55904"
 city: Rochester
-street: "Chester Avenue SE"
-housenumber: 1030
+street: Chester Avenue SE
+housenumber: "1030"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1220159860
-type: way
+type: node
 latitude: 45.10591
 longitude: -93.26563
 postcode: "55432"
 city: Fridley
-street: "Osborne Road Northeast"
-housenumber: 230
+street: Osborne Road Northeast
+housenumber: "230"
 phone: ""
 opening_hours: ""
 website: ""

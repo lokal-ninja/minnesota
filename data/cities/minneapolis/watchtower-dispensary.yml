@@ -4,8 +4,8 @@ latitude: 44.96816
 longitude: -93.20882
 postcode: "55414"
 city: Minneapolis
-street: "University Avenue Southeast"
-housenumber: 3400
+street: University Avenue Southeast
+housenumber: "3400"
 phone: ""
-opening_hours: "Mo-Sa 10:00-22:00; Su 10:00-19:00"
-website: "https://www.farmhmp.com/"
+opening_hours: Mo-Sa 10:00-22:00; Su 10:00-19:00
+website: https://www.farmhmp.com/

@@ -1,11 +1,11 @@
 id: 1152311462
-type: way
+type: node
 latitude: 44.86934
 longitude: -94.37459
 postcode: "55350"
 city: Hutchinson
-street: "Montreal Street"
-housenumber: 1370
+street: Montreal Street
+housenumber: "1370"
 phone: ""
 opening_hours: ""
 website: ""

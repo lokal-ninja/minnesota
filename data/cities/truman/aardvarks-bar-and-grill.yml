@@ -1,11 +1,11 @@
 id: 648850011
-type: way
+type: node
 latitude: 43.82956
 longitude: -94.4283
 postcode: "56088"
 city: Truman
-street: "North 5th Avenue East"
-housenumber: 209
+street: North 5th Avenue East
+housenumber: "209"
 phone: ""
 opening_hours: ""
 website: ""

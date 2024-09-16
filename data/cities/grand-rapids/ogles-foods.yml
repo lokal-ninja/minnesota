@@ -1,11 +1,11 @@
 id: 132566243
-type: way
+type: node
 latitude: 47.23651
 longitude: -93.53596
 postcode: "55744"
 city: Grand Rapids
-street: "Northeast 4th Street"
-housenumber: 503
+street: Northeast 4th Street
+housenumber: "503"
 phone: ""
 opening_hours: ""
 website: ""

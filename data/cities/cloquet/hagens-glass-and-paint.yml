@@ -1,11 +1,11 @@
 id: 880313689
-type: way
+type: node
 latitude: 46.72294
 longitude: -92.45559
 postcode: "55720"
 city: Cloquet
-street: "8th Street"
-housenumber: 28
-phone: "+1-218-879-4531"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://hagensglassandpaint.com/"
+street: 8th Street
+housenumber: "28"
+phone: +1-218-879-4531
+opening_hours: Mo-Fr 08:00-17:00
+website: https://hagensglassandpaint.com/

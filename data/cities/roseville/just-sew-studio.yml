@@ -4,8 +4,9 @@ latitude: 44.99532
 longitude: -93.14683
 postcode: "55113"
 city: Roseville
-street: "Lexington Avenue North"
-housenumber: 1789
-phone: "+1-651-644-0010"
-opening_hours: "Mo 10:00-19:00; Tu-We 10:00-17:00; Th 10:00-19:00; Fr 10:00-17:00; Sa 09:00-16:00"
-website: "https://www.justsewstudiomn.com/"
+street: Lexington Avenue North
+housenumber: "1789"
+phone: +1-651-644-0010
+opening_hours: Mo 10:00-19:00; Tu-We 10:00-17:00; Th 10:00-19:00; Fr 10:00-17:00;
+    Sa 09:00-16:00
+website: https://www.justsewstudiomn.com/

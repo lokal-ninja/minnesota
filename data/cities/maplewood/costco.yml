@@ -1,11 +1,11 @@
 id: 226443680
-type: way
+type: node
 latitude: 45.0303
 longitude: -93.03866
 postcode: "55109"
 city: Maplewood
-street: "Beam Avenue"
-housenumber: 1431
-phone: "+1 612-486-1740"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/maplewood-mn-1021.html"
+street: Beam Avenue
+housenumber: "1431"
+phone: +1 612-486-1740
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/maplewood-mn-1021.html

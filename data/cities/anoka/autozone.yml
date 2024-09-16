@@ -1,11 +1,11 @@
 id: 585539397
-type: way
+type: node
 latitude: 45.20031
 longitude: -93.39292
 postcode: "55303"
 city: Anoka
-street: "North Ferry Street"
-housenumber: 2025
+street: North Ferry Street
+housenumber: "2025"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/mn/anoka/2025-ferry-st-n.html"
+website: https://www.autozone.com/locations/mn/anoka/2025-ferry-st-n.html

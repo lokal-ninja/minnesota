@@ -1,11 +1,11 @@
 id: 1085183320
-type: way
+type: node
 latitude: 44.77119
 longitude: -94.15505
 postcode: "55336"
 city: Glencoe
-street: "Ford Avenue North"
-housenumber: 1231
+street: Ford Avenue North
+housenumber: "1231"
 phone: ""
 opening_hours: ""
 website: ""

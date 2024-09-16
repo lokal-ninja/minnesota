@@ -1,11 +1,11 @@
 id: 1307276105
-type: way
+type: node
 latitude: 44.32877
 longitude: -94.47667
 postcode: "56073"
 city: New Ulm
-street: "North Broadway"
-housenumber: 1623
-phone: "+1-507-233-2213"
-opening_hours: "24/7"
+street: North Broadway
+housenumber: "1623"
+phone: +1-507-233-2213
+opening_hours: 24/7
 website: ""

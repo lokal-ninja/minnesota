@@ -1,11 +1,11 @@
 id: 166541946
-type: way
+type: node
 latitude: 44.92238
 longitude: -93.3271
 postcode: "55410"
 city: Minneapolis
-street: "West 44th Street"
-housenumber: 3711
+street: West 44th Street
+housenumber: "3711"
 phone: ""
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-17:00; Sa 09:00-16:00"
-website: "https://www.prestigecleaningcenter.com/"
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-17:00; Sa 09:00-16:00
+website: https://www.prestigecleaningcenter.com/

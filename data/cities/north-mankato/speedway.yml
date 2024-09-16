@@ -1,11 +1,11 @@
 id: 1116106558
-type: way
+type: node
 latitude: 44.18067
 longitude: -94.0084
 postcode: "56003"
 city: North Mankato
-street: "Webster Avenue"
-housenumber: 201
+street: Webster Avenue
+housenumber: "201"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.speedway.com/locations/MN/North-Mankato/201-Webster-Avenue"
+opening_hours: 24/7
+website: https://www.speedway.com/locations/MN/North-Mankato/201-Webster-Avenue

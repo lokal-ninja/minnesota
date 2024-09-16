@@ -1,11 +1,11 @@
 id: 673129541
-type: way
+type: node
 latitude: 47.47149
 longitude: -94.88344
 postcode: "56601"
 city: Bemidji
-street: "Minnesota Avenue Northwest"
-housenumber: 325
+street: Minnesota Avenue Northwest
+housenumber: "325"
 phone: ""
 opening_hours: ""
 website: ""

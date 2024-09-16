@@ -1,11 +1,11 @@
 id: 488956478
-type: way
+type: node
 latitude: 45.05811
 longitude: -93.14487
 postcode: "55126"
 city: Shoreview
-street: "Red Fox Road"
-housenumber: 1041
-phone: "+1 651-765-1398"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/mn/shoreview/727/"
+street: Red Fox Road
+housenumber: "1041"
+phone: +1 651-765-1398
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/mn/shoreview/727/

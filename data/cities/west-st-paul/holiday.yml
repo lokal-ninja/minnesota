@@ -1,11 +1,11 @@
 id: 102923911
-type: way
+type: node
 latitude: 44.89034
 longitude: -93.08119
 postcode: "55118"
 city: West St Paul
-street: "Robert Street South"
-housenumber: 1845
+street: Robert Street South
+housenumber: "1845"
 phone: ""
 opening_hours: ""
 website: ""

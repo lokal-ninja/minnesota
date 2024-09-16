@@ -1,11 +1,11 @@
 id: 1025678336
-type: way
+type: node
 latitude: 45.51381
 longitude: -94.16835
 postcode: "56301"
 city: St Cloud
-street: "Southway Drive"
-housenumber: 3360
+street: Southway Drive
+housenumber: "3360"
 phone: "+13204938254"
 opening_hours: ""
-website: "https://www.backwardsbreadco.us"
+website: https://www.backwardsbreadco.us

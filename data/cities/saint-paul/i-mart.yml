@@ -1,11 +1,11 @@
 id: 141901317
-type: way
+type: node
 latitude: 44.95144
 longitude: -93.0865
 postcode: "55101"
 city: Saint Paul
-street: "7th Street East"
-housenumber: 296
+street: 7th Street East
+housenumber: "296"
 phone: ""
 opening_hours: ""
 website: ""

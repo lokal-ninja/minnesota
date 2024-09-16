@@ -1,11 +1,11 @@
 id: 869957890
-type: way
+type: node
 latitude: 45.0526
 longitude: -93.24816
 postcode: "55421"
 city: Hilltop
-street: "Central Avenue Northeast"
-housenumber: 4560
-phone: "+1-763-284-5544"
-opening_hours: "Mo-Fr 09:30-18:00; Sa-Su 09:30-17:00"
-website: "https://www.publicstorage.com/self-storage-mn-hilltop/5343"
+street: Central Avenue Northeast
+housenumber: "4560"
+phone: +1-763-284-5544
+opening_hours: Mo-Fr 09:30-18:00; Sa-Su 09:30-17:00
+website: https://www.publicstorage.com/self-storage-mn-hilltop/5343

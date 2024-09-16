@@ -4,8 +4,8 @@ latitude: 44.94897
 longitude: -93.3216
 postcode: "55416"
 city: Minneapolis
-street: "Lake Street West"
-housenumber: 3246
-phone: "+1-612-926-8161"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-19:00; Su 09:00-19:00"
-website: "https://chuckanddons.com/"
+street: Lake Street West
+housenumber: "3246"
+phone: +1-612-926-8161
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-19:00; Su 09:00-19:00
+website: https://chuckanddons.com/

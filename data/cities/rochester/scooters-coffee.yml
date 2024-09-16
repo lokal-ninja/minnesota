@@ -1,11 +1,11 @@
 id: 164976014
-type: way
+type: node
 latitude: 43.9996
 longitude: -92.46401
 postcode: "55904"
 city: Rochester
-street: "South Broadway Avenue"
-housenumber: 1608
+street: South Broadway Avenue
+housenumber: "1608"
 phone: ""
-opening_hours: "Mo-Sa 05:00-19:30; Su 06:00-19:00"
+opening_hours: Mo-Sa 05:00-19:30; Su 06:00-19:00
 website: ""

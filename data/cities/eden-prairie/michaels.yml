@@ -1,11 +1,11 @@
 id: 43526929
-type: way
+type: node
 latitude: 44.84948
 longitude: -93.43789
-postcode: "55344-7662"
+postcode: 55344-7662
 city: Eden Prairie
-street: "Columbine Road"
-housenumber: 8565
-phone: "+1 952-942-3897"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/mn/eden-prairie/6733"
+street: Columbine Road
+housenumber: "8565"
+phone: +1 952-942-3897
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/mn/eden-prairie/6733

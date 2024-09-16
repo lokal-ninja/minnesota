@@ -1,11 +1,11 @@
 id: 527080251
-type: way
+type: node
 latitude: 44.89824
 longitude: -93.07875
 postcode: "55118"
 city: West St Paul
-street: "Wentworth Avenue East"
-housenumber: 141
+street: Wentworth Avenue East
+housenumber: "141"
 phone: ""
 opening_hours: ""
 website: ""

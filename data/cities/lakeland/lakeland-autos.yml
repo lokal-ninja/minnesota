@@ -1,11 +1,11 @@
 id: 807828467
-type: way
+type: node
 latitude: 44.94731
 longitude: -92.77167
 postcode: "55043"
 city: Lakeland
-street: "Saint Croix Trail South"
-housenumber: 110
+street: Saint Croix Trail South
+housenumber: "110"
 phone: ""
 opening_hours: ""
-website: "https://lakeland-autos.com/"
+website: https://lakeland-autos.com/

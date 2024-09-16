@@ -1,11 +1,11 @@
 id: 1103962909
-type: way
+type: node
 latitude: 47.90085
 longitude: -91.8419
 postcode: "55731"
 city: Ely
-street: "East Harvey Street"
-housenumber: 1614
+street: East Harvey Street
+housenumber: "1614"
 phone: ""
 opening_hours: ""
-website: "https://www.elyautoservices.com/"
+website: https://www.elyautoservices.com/

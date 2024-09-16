@@ -1,11 +1,11 @@
 id: 191991628
-type: way
+type: node
 latitude: 46.87784
 longitude: -96.72054
 postcode: "56529"
 city: Dilworth
-street: "Center Avenue West"
-housenumber: 1411
-phone: "+1 218-512-0202"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Center Avenue West
+housenumber: "1411"
+phone: +1 218-512-0202
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 144869495
-type: way
+type: node
 latitude: 43.99808
 longitude: -92.24468
 postcode: "55934"
 city: Eyota
-street: "Sandstone Drive NW"
-housenumber: 224
-phone: "+1-507-799-0015"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 09:00-13:00"
-website: "http://www.prestigeautocarecenter.com/Prestige_Auto_Care.html"
+street: Sandstone Drive NW
+housenumber: "224"
+phone: +1-507-799-0015
+opening_hours: Mo-Fr 08:00-17:30; Sa 09:00-13:00
+website: http://www.prestigeautocarecenter.com/Prestige_Auto_Care.html

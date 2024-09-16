@@ -1,11 +1,11 @@
 id: 321774640
-type: way
+type: node
 latitude: 45.83202
 longitude: -95.38517
 postcode: "56308"
 city: Alexandria
-street: "County Road 87"
-housenumber: 6307
-phone: "+1-320-759-3947"
+street: County Road 87
+housenumber: "6307"
+phone: +1-320-759-3947
 opening_hours: ""
-website: "https://www.allstatepeterbilt.com/locations/minnesota/alexandria-mn"
+website: https://www.allstatepeterbilt.com/locations/minnesota/alexandria-mn

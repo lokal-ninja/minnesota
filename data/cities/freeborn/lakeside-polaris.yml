@@ -1,11 +1,11 @@
 id: 1111820163
-type: way
+type: node
 latitude: 43.76618
 longitude: -93.56258
 postcode: "56032"
 city: Freeborn
-street: "Park Street"
-housenumber: 310
+street: Park Street
+housenumber: "310"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1299351003
-type: way
+type: node
 latitude: 45.0372
 longitude: -92.82571
 postcode: "55082"
 city: Stillwater
-street: "West Frontage Road"
-housenumber: 1314
-phone: "+1 (651) 430-2493"
-opening_hours: "Tu-Fr 11:00-17:30; Sa 11:00-15:00"
-website: "https://diamondsonmain.com/"
+street: West Frontage Road
+housenumber: "1314"
+phone: +1 (651) 430-2493
+opening_hours: Tu-Fr 11:00-17:30; Sa 11:00-15:00
+website: https://diamondsonmain.com/

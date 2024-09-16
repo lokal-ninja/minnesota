@@ -1,11 +1,11 @@
 id: 1206529104
-type: way
+type: node
 latitude: 45.13874
 longitude: -94.77645
 postcode: "56209"
 city: Atwater
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa 07:00-12:00"
+opening_hours: Mo-Fr 07:00-17:00; Sa 07:00-12:00
 website: ""

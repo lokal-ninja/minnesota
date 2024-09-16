@@ -2,10 +2,10 @@ id: 6887255276
 type: node
 latitude: 48.84668
 longitude: -95.76252
-postcode: "56751-1154"
+postcode: 56751-1154
 city: Roseau
-street: "Main Avenue North"
-housenumber: 108
-phone: "+1 218-463-2552"
+street: Main Avenue North
+housenumber: "108"
+phone: +1 218-463-2552
 opening_hours: ""
-website: "https://www.truevalue.com/coast"
+website: https://www.truevalue.com/coast

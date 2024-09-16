@@ -1,11 +1,11 @@
 id: 141425755
-type: way
+type: node
 latitude: 44.93999
 longitude: -93.1769
 postcode: "55105"
 city: Saint Paul
-street: "Grand Avenue"
-housenumber: 1808
+street: Grand Avenue
+housenumber: "1808"
 phone: ""
 opening_hours: ""
 website: ""

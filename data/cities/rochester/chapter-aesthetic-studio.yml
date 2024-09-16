@@ -4,8 +4,8 @@ latitude: 44.00654
 longitude: -92.47375
 postcode: "55902"
 city: Rochester
-street: "Apache Lane Southwest"
-housenumber: 815
-phone: "+1-507-226-9075"
-opening_hours: "Mo,Fr 9:00-17:00; Tu-Th 10:00-19:00; Sa 09:00-13:00"
-website: "https://www.mychapter.com/about/locations/rochester-mn"
+street: Apache Lane Southwest
+housenumber: "815"
+phone: +1-507-226-9075
+opening_hours: Mo,Fr 9:00-17:00; Tu-Th 10:00-19:00; Sa 09:00-13:00
+website: https://www.mychapter.com/about/locations/rochester-mn

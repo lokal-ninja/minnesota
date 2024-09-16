@@ -1,11 +1,11 @@
 id: 692875275
-type: way
+type: node
 latitude: 44.93475
 longitude: -93.33601
 postcode: "55416"
 city: Saint Louis Park
-street: "Excelsior Boulevard"
-housenumber: 4415
+street: Excelsior Boulevard
+housenumber: "4415"
 phone: "+16123153905"
 opening_hours: ""
-website: "https://www.lamerecycles.com/"
+website: https://www.lamerecycles.com/

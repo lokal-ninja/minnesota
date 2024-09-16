@@ -1,11 +1,11 @@
 id: 136870374
-type: way
+type: node
 latitude: 48.78313
 longitude: -96.01377
 postcode: "56714"
 city: Badger
-street: "North Main Street"
-housenumber: 201
+street: North Main Street
+housenumber: "201"
 phone: "2185283280"
-opening_hours: "Mo-Sa 08:00-19:00"
+opening_hours: Mo-Sa 08:00-19:00
 website: ""

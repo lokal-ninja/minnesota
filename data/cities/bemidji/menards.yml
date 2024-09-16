@@ -1,11 +1,11 @@
 id: 170683152
-type: way
+type: node
 latitude: 47.49482
 longitude: -94.9195
 postcode: "56601"
 city: Bemidji
-street: "Paul Bunyan Drive Northwest"
-housenumber: 2600
+street: Paul Bunyan Drive Northwest
+housenumber: "2600"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3269"
+website: https://www.menards.com/store-details/store.html?store=3269

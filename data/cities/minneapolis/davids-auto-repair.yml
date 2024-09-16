@@ -1,11 +1,11 @@
 id: 329363494
-type: way
+type: node
 latitude: 44.9302
 longitude: -93.25294
 postcode: "55407"
 city: Minneapolis
-street: "Bloomington Avenue South"
-housenumber: 4000
+street: Bloomington Avenue South
+housenumber: "4000"
 phone: ""
 opening_hours: ""
 website: ""

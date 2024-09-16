@@ -1,11 +1,11 @@
 id: 277652438
-type: way
+type: node
 latitude: 44.66839
 longitude: -93.63649
 postcode: "55352"
 city: Jordan
-street: "2nd Street West"
-housenumber: 500
+street: 2nd Street West
+housenumber: "500"
 phone: "+19524922044"
 opening_hours: ""
-website: "https://www.radermachers.com/"
+website: https://www.radermachers.com/

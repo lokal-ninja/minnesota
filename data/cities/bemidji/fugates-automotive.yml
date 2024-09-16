@@ -1,11 +1,11 @@
 id: 695474618
-type: way
+type: node
 latitude: 47.36833
 longitude: -94.86228
 postcode: "56601"
 city: Bemidji
-street: "US HWY 71"
-housenumber: 49066
+street: US HWY 71
+housenumber: "49066"
 phone: ""
-opening_hours: "08:00 - 17:00"
+opening_hours: 08:00 - 17:00
 website: ""

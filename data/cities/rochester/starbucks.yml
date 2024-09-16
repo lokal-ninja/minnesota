@@ -1,11 +1,11 @@
 id: 1161197863
-type: way
+type: node
 latitude: 44.04883
 longitude: -92.5205
 postcode: "55901"
 city: Rochester
-street: "Commerce Drive Northwest"
-housenumber: 2407
-phone: "+1 507-701-0200"
+street: Commerce Drive Northwest
+housenumber: "2407"
+phone: +1 507-701-0200
 opening_hours: ""
-website: "https://www.starbucks.com/store-locator/store/1033387/west-circle-drive-and-26th-2407-commerce-drive-nw-rochester-mn-559014430-us"
+website: https://www.starbucks.com/store-locator/store/1033387/west-circle-drive-and-26th-2407-commerce-drive-nw-rochester-mn-559014430-us

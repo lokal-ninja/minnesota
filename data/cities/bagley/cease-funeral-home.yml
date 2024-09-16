@@ -1,11 +1,11 @@
 id: 488976250
-type: way
+type: node
 latitude: 47.52626
 longitude: -95.3975
 postcode: "56621"
 city: Bagley
-street: "Getchell Avenue Northeast"
-housenumber: 407
+street: Getchell Avenue Northeast
+housenumber: "407"
 phone: ""
 opening_hours: ""
 website: ""

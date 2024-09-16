@@ -1,11 +1,11 @@
 id: 311801527
-type: way
+type: node
 latitude: 44.88337
 longitude: -93.31859
 postcode: "55423"
 city: Richfield
-street: "West 66th Street"
-housenumber: 3013
-phone: "+1 612 866 5053"
+street: West 66th Street
+housenumber: "3013"
+phone: +1 612 866 5053
 opening_hours: ""
-website: "https://www.goodyear.com/"
+website: https://www.goodyear.com/

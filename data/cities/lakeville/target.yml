@@ -1,11 +1,11 @@
 id: 203150859
-type: way
+type: node
 latitude: 44.68475
 longitude: -93.29238
-postcode: "55044-7306"
+postcode: 55044-7306
 city: Lakeville
-street: "Kenrick Avenue"
-housenumber: 18275
-phone: "+1 952-892-5400"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/lakeville/1484"
+street: Kenrick Avenue
+housenumber: "18275"
+phone: +1 952-892-5400
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/lakeville/1484

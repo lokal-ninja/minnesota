@@ -1,11 +1,11 @@
 id: 692875226
-type: way
+type: node
 latitude: 44.93397
 longitude: -93.3371
 postcode: "55416"
 city: Saint Louis Park
-street: "Excelsior Boulevard"
-housenumber: 4501
+street: Excelsior Boulevard
+housenumber: "4501"
 phone: "+16128442555"
-opening_hours: "Tu-Sa 07:00-16:00; Su 07:00-14:00"
-website: "https://www.honey-and-rye.com/"
+opening_hours: Tu-Sa 07:00-16:00; Su 07:00-14:00
+website: https://www.honey-and-rye.com/

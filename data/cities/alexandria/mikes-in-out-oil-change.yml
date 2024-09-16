@@ -1,11 +1,11 @@
 id: 1176993290
-type: way
+type: node
 latitude: 45.87692
 longitude: -95.37799
 postcode: "56308"
 city: Alexandria
-street: "Broadway Street"
-housenumber: 1318
+street: Broadway Street
+housenumber: "1318"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 528003966
-type: way
+type: node
 latitude: 44.71324
 longitude: -93.27819
 postcode: "55044"
 city: Lakeville
-street: "Kenrick Avenue"
-housenumber: 16260
+street: Kenrick Avenue
+housenumber: "16260"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=694"
+website: https://www.kwiktrip.com/locator/store?id=694

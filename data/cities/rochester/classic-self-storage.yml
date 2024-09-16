@@ -1,11 +1,11 @@
 id: 770672383
-type: way
+type: node
 latitude: 44.05847
 longitude: -92.45638
 postcode: "55906"
 city: Rochester
-street: "Service Court NE"
-housenumber: 426
+street: Service Court NE
+housenumber: "426"
 phone: ""
 opening_hours: ""
 website: ""

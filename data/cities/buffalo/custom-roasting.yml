@@ -1,11 +1,11 @@
 id: 1190455259
-type: way
+type: node
 latitude: 45.16598
 longitude: -93.85416
 postcode: "55313"
 city: Buffalo
-street: "12th Avenue South"
-housenumber: 311
+street: 12th Avenue South
+housenumber: "311"
 phone: ""
 opening_hours: ""
 website: ""

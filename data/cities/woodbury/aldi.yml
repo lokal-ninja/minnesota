@@ -1,11 +1,11 @@
 id: 507991219
-type: way
+type: node
 latitude: 44.93833
 longitude: -92.93676
-postcode: "55125-3738"
+postcode: 55125-3738
 city: Woodbury
-street: "Tamarack Bay"
-housenumber: 8472
-phone: "+1 833-472-7011"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/mn/woodbury/8472-tamarack-bay"
+street: Tamarack Bay
+housenumber: "8472"
+phone: +1 833-472-7011
+opening_hours: Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00
+website: https://stores.aldi.us/mn/woodbury/8472-tamarack-bay

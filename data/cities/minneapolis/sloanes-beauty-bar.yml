@@ -1,11 +1,11 @@
 id: 943073639
-type: way
+type: node
 latitude: 44.91221
 longitude: -93.32627
 postcode: "55410"
 city: Minneapolis
-street: "West 50th Street"
-housenumber: 3615
+street: West 50th Street
+housenumber: "3615"
 phone: ""
-opening_hours: ""
-website: "https://www.sloanesbeautybar.com/50th-france-edina-minnesota-hairstylist"
+opening_hours: Mo-Th 09:00-20:00; Fr 08:00-18:00; Sa 08:00-16:00
+website: https://www.sloanesbeautybar.com/50th-france-edina-minnesota-hairstylist

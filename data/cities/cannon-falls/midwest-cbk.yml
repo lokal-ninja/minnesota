@@ -1,11 +1,11 @@
 id: 148280368
-type: way
+type: node
 latitude: 44.48449
 longitude: -92.9095
 postcode: "55009"
 city: Cannon Falls
-street: "64th Avenue"
-housenumber: 32057
-phone: "800-394-4225"
+street: 64th Avenue
+housenumber: "32057"
+phone: 800-394-4225
 opening_hours: ""
-website: "http://www.mwcbk.com/"
+website: http://www.mwcbk.com/

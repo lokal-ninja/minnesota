@@ -1,11 +1,11 @@
 id: 1013648819
-type: way
+type: node
 latitude: 45.58152
 longitude: -95.07447
 postcode: "56316"
 city: Brooten
-street: "463rd Avenue"
-housenumber: 31535
+street: 463rd Avenue
+housenumber: "31535"
 phone: ""
 opening_hours: ""
 website: ""

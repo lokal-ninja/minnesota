@@ -1,11 +1,11 @@
 id: 80889047
-type: way
+type: node
 latitude: 44.18418
 longitude: -93.95545
 postcode: "56001"
 city: Mankato
-street: "Saint Andrews Drive"
-housenumber: 375
-phone: "+1 507-385-7990"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/mankato/mn/mankato/56001/2829"
+street: Saint Andrews Drive
+housenumber: "375"
+phone: +1 507-385-7990
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/mankato/mn/mankato/56001/2829

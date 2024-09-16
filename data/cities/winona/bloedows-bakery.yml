@@ -1,11 +1,11 @@
 id: 650398794
-type: way
+type: node
 latitude: 44.04639
 longitude: -91.62737
 postcode: "55987"
 city: Winona
-street: "East Broadway Street"
-housenumber: 451
-phone: "+1-507-452-3682"
-opening_hours: "Mo-Fr 07:00-15:00; Sa 08:00-14:00"
-website: "https://www.bloedows.com"
+street: East Broadway Street
+housenumber: "451"
+phone: +1-507-452-3682
+opening_hours: Mo-Fr 07:00-15:00; Sa 08:00-14:00
+website: https://www.bloedows.com

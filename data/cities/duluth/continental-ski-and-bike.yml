@@ -1,11 +1,11 @@
 id: 1128580356
-type: way
+type: node
 latitude: 46.80048
 longitude: -92.08299
 postcode: "55805"
 city: Duluth
-street: "E 1st St"
-housenumber: 1305
+street: E 1st St
+housenumber: "1305"
 phone: ""
 opening_hours: ""
 website: ""

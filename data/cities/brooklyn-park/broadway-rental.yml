@@ -1,11 +1,11 @@
 id: 602210173
-type: way
+type: node
 latitude: 45.07888
 longitude: -93.37595
 postcode: "55428"
 city: Brooklyn Park
-street: "West Broadway Avenue"
-housenumber: 6800
-phone: "+1-763-533-1680"
+street: West Broadway Avenue
+housenumber: "6800"
+phone: +1-763-533-1680
 opening_hours: ""
-website: "https://broadwayrental.com/"
+website: https://broadwayrental.com/

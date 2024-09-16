@@ -1,11 +1,11 @@
 id: 954622549
-type: way
+type: node
 latitude: 44.90139
 longitude: -93.74692
 postcode: ""
 city: St. Bonifacius
-street: "Minnesota State Highway 7"
-housenumber: 8750
+street: Minnesota State Highway 7
+housenumber: "8750"
 phone: "+19524791960"
 opening_hours: ""
-website: "https://www.beardedmechanic.com/"
+website: https://www.beardedmechanic.com/

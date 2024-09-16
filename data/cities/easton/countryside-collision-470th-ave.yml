@@ -1,11 +1,11 @@
 id: 1106665181
-type: way
+type: node
 latitude: 43.73977
 longitude: -93.92169
 postcode: "56025"
 city: Easton
-street: "470th Ave"
-housenumber: 17590
+street: 470th Ave
+housenumber: "17590"
 phone: ""
 opening_hours: ""
 website: ""

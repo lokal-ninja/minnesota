@@ -1,11 +1,11 @@
 id: 1229146024
-type: way
+type: node
 latitude: 45.97972
 longitude: -94.33344
-postcode: "56345-4580"
+postcode: 56345-4580
 city: Little Falls
-street: "18th Street Northeast"
-housenumber: 15028
+street: 18th Street Northeast
+housenumber: "15028"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:00"
-website: "https://www.dollartree.com/locations/mn/little-falls/813/"
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-20:00
+website: https://www.dollartree.com/locations/mn/little-falls/813/

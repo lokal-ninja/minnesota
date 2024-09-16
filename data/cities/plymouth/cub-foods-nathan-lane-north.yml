@@ -1,11 +1,11 @@
 id: 91362690
-type: way
+type: node
 latitude: 45.03503
 longitude: -93.41035
 postcode: "55442"
 city: Plymouth
-street: "Nathan Lane North"
-housenumber: 4445
+street: Nathan Lane North
+housenumber: "4445"
 phone: ""
 opening_hours: ""
 website: ""

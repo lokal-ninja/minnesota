@@ -1,11 +1,11 @@
 id: 201707170
-type: way
+type: node
 latitude: 44.73585
 longitude: -93.25822
 postcode: "55306"
 city: Burnsville
-street: "42 East"
-housenumber: 1221
+street: 42 East
+housenumber: "1221"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/MN/Burnsville/1221-County-Road-42-E"
+website: https://www.speedway.com/locations/MN/Burnsville/1221-County-Road-42-E

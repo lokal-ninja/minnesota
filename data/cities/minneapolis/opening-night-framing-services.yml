@@ -4,8 +4,8 @@ latitude: 44.95048
 longitude: -93.28833
 postcode: "55408"
 city: Minneapolis
-street: "Lyndale Avenue South"
-housenumber: 2836
+street: Lyndale Avenue South
+housenumber: "2836"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:30-16:00"
-website: "https://www.onframe-art.com"
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:30-16:00
+website: https://www.onframe-art.com

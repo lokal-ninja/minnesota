@@ -4,8 +4,8 @@ latitude: 44.97337
 longitude: -93.30853
 postcode: "55405"
 city: Minneapolis
-street: "Penn Avenue South"
-housenumber: 404
+street: Penn Avenue South
+housenumber: "404"
 phone: "+16125181002"
 opening_hours: ""
-website: "https://www.sprucesalonmpls.com/"
+website: https://www.sprucesalonmpls.com/

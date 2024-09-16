@@ -1,11 +1,11 @@
 id: 769569570
-type: way
+type: node
 latitude: 45.57231
 longitude: -93.20687
 postcode: "55008"
 city: Cambridge
-street: "1st Avenue East"
-housenumber: 1465
-phone: "+1 763-689-5176"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: 1st Avenue East
+housenumber: "1465"
+phone: +1 763-689-5176
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

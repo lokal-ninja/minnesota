@@ -1,11 +1,11 @@
 id: 154248409
-type: way
+type: node
 latitude: 44.97762
 longitude: -93.18985
 postcode: "55108"
 city: Saint Paul
-street: "Como Avenue"
-housenumber: 2102
+street: Como Avenue
+housenumber: "2102"
 phone: "+16516462466"
-opening_hours: "Mo-Su 05:00-22:00"
-website: "https://www.holidaystationstores.com/Locations/Detail?storeNumber=3841"
+opening_hours: Mo-Su 05:00-22:00
+website: https://www.holidaystationstores.com/Locations/Detail?storeNumber=3841

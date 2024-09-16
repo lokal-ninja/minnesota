@@ -1,11 +1,11 @@
 id: 1190023889
-type: way
+type: node
 latitude: 45.1691
 longitude: -93.85979
 postcode: "55313"
 city: Buffalo
-street: "Minnesota Highway 55"
-housenumber: 1018
+street: Minnesota Highway 55
+housenumber: "1018"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 644495817
-type: way
+type: node
 latitude: 44.45181
 longitude: -95.7515
 postcode: "56258"
 city: Marshall
-street: "East College Drive"
-housenumber: 1651
+street: East College Drive
+housenumber: "1651"
 phone: ""
 opening_hours: ""
 website: ""

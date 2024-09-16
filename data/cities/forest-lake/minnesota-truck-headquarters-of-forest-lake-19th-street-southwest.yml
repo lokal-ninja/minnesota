@@ -1,11 +1,11 @@
 id: 1025305461
-type: way
+type: node
 latitude: 45.27764
 longitude: -93.00758
 postcode: "55025"
 city: Forest Lake
-street: "19th Street Southwest"
-housenumber: 132
-phone: "+1 (612) 451-4400"
-opening_hours: "Tu-Sa 08:30-20:00"
-website: "www.MTHForestLake.com"
+street: 19th Street Southwest
+housenumber: "132"
+phone: +1 (612) 451-4400
+opening_hours: Tu-Sa 08:30-20:00
+website: www.MTHForestLake.com

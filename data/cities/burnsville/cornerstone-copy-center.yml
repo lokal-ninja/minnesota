@@ -1,11 +1,11 @@
 id: 528000199
-type: way
+type: node
 latitude: 44.75458
 longitude: -93.25013
 postcode: "55337"
 city: Burnsville
-street: "Frontier Court"
-housenumber: 13775
+street: Frontier Court
+housenumber: "13775"
 phone: ""
 opening_hours: ""
 website: ""

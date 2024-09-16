@@ -1,11 +1,11 @@
 id: 739658657
-type: way
+type: node
 latitude: 46.85132
 longitude: -92.08188
 postcode: "55803"
 city: Duluth
-street: "East Calvary Road"
-housenumber: 7
-phone: "+1 218-728-4479"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:30; Su 10:00-16:00"
+street: East Calvary Road
+housenumber: "7"
+phone: +1 218-728-4479
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:30; Su 10:00-16:00
 website: ""

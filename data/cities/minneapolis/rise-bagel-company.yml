@@ -4,8 +4,8 @@ latitude: 44.98608
 longitude: -93.27672
 postcode: "55401"
 city: Minneapolis
-street: "3rd Street North"
-housenumber: 530
-phone: "+1-612-354-3349"
+street: 3rd Street North
+housenumber: "530"
+phone: +1-612-354-3349
 opening_hours: ""
-website: "https://www.risebagel.com/"
+website: https://www.risebagel.com/

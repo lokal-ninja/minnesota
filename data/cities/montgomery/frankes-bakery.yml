@@ -1,11 +1,11 @@
 id: 1222882498
-type: way
+type: node
 latitude: 44.43765
 longitude: -93.5813
 postcode: "56069"
 city: Montgomery
-street: "1st St S"
-housenumber: 200
+street: 1st St S
+housenumber: "200"
 phone: "+15073645025"
 opening_hours: ""
 website: ""

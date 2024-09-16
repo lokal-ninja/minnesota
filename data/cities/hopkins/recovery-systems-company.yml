@@ -4,8 +4,8 @@ latitude: 44.91691
 longitude: -93.41534
 postcode: "55343"
 city: Hopkins
-street: "5th Street South"
-housenumber: 1114
+street: 5th Street South
+housenumber: "1114"
 phone: ""
 opening_hours: ""
-website: "https://recoverysy.com/"
+website: https://recoverysy.com/

@@ -1,11 +1,11 @@
 id: 745395616
-type: way
+type: node
 latitude: 46.81019
 longitude: -92.17987
 postcode: "55811"
 city: Hermantown
-street: "Maple Grove Road"
-housenumber: 4743
-phone: "+1 218-722-9740"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/hermantown-mn-sams-club/6320"
+street: Maple Grove Road
+housenumber: "4743"
+phone: +1 218-722-9740
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/hermantown-mn-sams-club/6320

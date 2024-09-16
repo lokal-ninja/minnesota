@@ -4,8 +4,8 @@ latitude: 44.95568
 longitude: -93.2755
 postcode: "55404"
 city: Minneapolis
-street: "East 26th Street"
-housenumber: 118
-phone: "+1-612-239-2047"
+street: East 26th Street
+housenumber: "118"
+phone: +1-612-239-2047
 opening_hours: ""
-website: "https://www.lightgreyartlab.com"
+website: https://www.lightgreyartlab.com

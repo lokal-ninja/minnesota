@@ -1,11 +1,11 @@
 id: 425894783
-type: way
+type: node
 latitude: 46.70753
 longitude: -92.45658
 postcode: "55720"
 city: Cloquet
-street: "Washington Avenue"
-housenumber: 701
+street: Washington Avenue
+housenumber: "701"
 phone: ""
 opening_hours: ""
-website: "https://www.woodcitymotors.com/"
+website: https://www.woodcitymotors.com/

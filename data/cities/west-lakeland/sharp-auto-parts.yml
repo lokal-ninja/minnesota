@@ -1,11 +1,11 @@
 id: 1018583601
-type: way
+type: node
 latitude: 44.9899
 longitude: -92.78027
 postcode: "55082"
 city: West Lakeland
-street: "Quant Avenue North"
-housenumber: 2910
+street: Quant Avenue North
+housenumber: "2910"
 phone: ""
 opening_hours: ""
-website: "https://sharpautoparts.com/"
+website: https://sharpautoparts.com/

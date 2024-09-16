@@ -1,11 +1,11 @@
 id: 1080387138
-type: way
+type: node
 latitude: 44.77233
 longitude: -94.15421
 postcode: "55336"
 city: Glencoe
-street: "13th Street East"
-housenumber: 605
-phone: "+1-320-864-6292"
+street: 13th Street East
+housenumber: "605"
+phone: +1-320-864-6292
 opening_hours: ""
-website: "https://www.glencoe-coop.com/"
+website: https://www.glencoe-coop.com/

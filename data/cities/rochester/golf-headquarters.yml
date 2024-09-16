@@ -1,11 +1,11 @@
 id: 164978654
-type: way
+type: node
 latitude: 43.99375
 longitude: -92.46247
 postcode: "55904"
 city: Rochester
-street: "South Broadway Avenue"
-housenumber: 1920
+street: South Broadway Avenue
+housenumber: "1920"
 phone: ""
 opening_hours: ""
-website: "http://www.golfhqmn.com/home.html"
+website: http://www.golfhqmn.com/home.html

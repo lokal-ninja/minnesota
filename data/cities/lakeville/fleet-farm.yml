@@ -1,11 +1,11 @@
 id: 129386050
-type: way
+type: node
 latitude: 44.70141
 longitude: -93.28449
 postcode: "55044"
 city: Lakeville
-street: "Kenrick Avenue"
-housenumber: 17070
-phone: "+1-952-435-3832"
-opening_hours: "Su 08:00-18:00; Mo-Sa 07:00-20:00"
-website: "https://www.fleetfarm.com/visit-stores/lakeville-mn"
+street: Kenrick Avenue
+housenumber: "17070"
+phone: +1-952-435-3832
+opening_hours: Su 08:00-18:00; Mo-Sa 07:00-20:00
+website: https://www.fleetfarm.com/visit-stores/lakeville-mn

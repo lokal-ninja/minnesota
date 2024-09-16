@@ -1,11 +1,11 @@
 id: 346689273
-type: way
+type: node
 latitude: 44.93994
 longitude: -93.27744
 postcode: "55408"
 city: Minneapolis
-street: "Nicollet Avenue"
-housenumber: 3453
-phone: "+1 612 8226828"
-opening_hours: "24/7"
-website: "https://www.speedway.com/locations/MN/Minneapolis/3453-Nicollet-Ave"
+street: Nicollet Avenue
+housenumber: "3453"
+phone: +1 612 8226828
+opening_hours: 24/7
+website: https://www.speedway.com/locations/MN/Minneapolis/3453-Nicollet-Ave

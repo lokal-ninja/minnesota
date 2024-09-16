@@ -1,11 +1,11 @@
 id: 839993769
-type: way
+type: node
 latitude: 45.2273
 longitude: -93.4286
 postcode: "55303"
 city: Ramsey
-street: "Sunfish Lake Boulevard Northwest"
-housenumber: 14131
+street: Sunfish Lake Boulevard Northwest
+housenumber: "14131"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

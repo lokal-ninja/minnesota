@@ -1,11 +1,11 @@
 id: 819870491
-type: way
+type: node
 latitude: 46.47368
 longitude: -93.90179
 postcode: "56444"
 city: Deerwood
-street: "West Front Street"
-housenumber: 23682
-phone: "+1 218-534-3162"
+street: West Front Street
+housenumber: "23682"
+phone: +1 218-534-3162
 opening_hours: ""
-website: "https://www.truevalue.com/deerwood"
+website: https://www.truevalue.com/deerwood

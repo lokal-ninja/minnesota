@@ -1,11 +1,11 @@
 id: 842007159
-type: way
+type: node
 latitude: 47.2932
 longitude: -91.27016
 postcode: "55614"
 city: Silver Bay
-street: "Outer Drive"
-housenumber: 94
+street: Outer Drive
+housenumber: "94"
 phone: ""
 opening_hours: ""
 website: ""

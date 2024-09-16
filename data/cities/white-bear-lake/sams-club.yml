@@ -1,11 +1,11 @@
 id: 126130430
-type: way
+type: node
 latitude: 45.03805
 longitude: -93.02359
 postcode: "55110"
 city: White Bear Lake
-street: "Buerkle Road"
-housenumber: 1850
-phone: "+1 651-779-6535"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/white-bear-lake-mn-sams-club/6309"
+street: Buerkle Road
+housenumber: "1850"
+phone: +1 651-779-6535
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/white-bear-lake-mn-sams-club/6309

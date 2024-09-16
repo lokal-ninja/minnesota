@@ -1,11 +1,11 @@
 id: 630382763
-type: way
+type: node
 latitude: 47.25199
 longitude: -95.21302
 postcode: "56470"
 city: Park Rapids
-street: "North Entrance Drive"
-housenumber: 16879
+street: North Entrance Drive
+housenumber: "16879"
 phone: ""
 opening_hours: ""
-website: "https://rockcreekgeneralstore.com"
+website: https://rockcreekgeneralstore.com

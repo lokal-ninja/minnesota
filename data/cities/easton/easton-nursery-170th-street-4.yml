@@ -1,11 +1,11 @@
 id: 1106651086
-type: way
+type: node
 latitude: 43.73285
 longitude: -93.89039
 postcode: "56025"
 city: Easton
-street: "170th Street"
-housenumber: 48851
+street: 170th Street
+housenumber: "48851"
 phone: ""
 opening_hours: ""
 website: ""

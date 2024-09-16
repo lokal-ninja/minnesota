@@ -1,11 +1,11 @@
 id: 982891684
-type: way
+type: node
 latitude: 46.92261
 longitude: -95.0468
 postcode: "56470"
 city: Park Rapids
-street: "1st Street East"
-housenumber: 807
-phone: "+1-218-732-4274"
+street: 1st Street East
+housenumber: "807"
+phone: +1-218-732-4274
 opening_hours: ""
 website: ""

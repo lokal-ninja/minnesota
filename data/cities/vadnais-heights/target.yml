@@ -1,11 +1,11 @@
 id: 206709350
-type: way
+type: node
 latitude: 45.05313
 longitude: -93.0609
-postcode: "55127-7114"
+postcode: 55127-7114
 city: Vadnais Heights
-street: "County Road East"
-housenumber: 975
-phone: "+1 651-483-9637"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/vadnais-heights/751"
+street: County Road East
+housenumber: "975"
+phone: +1 651-483-9637
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/vadnais-heights/751

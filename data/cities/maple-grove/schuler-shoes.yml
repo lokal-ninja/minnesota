@@ -1,11 +1,11 @@
 id: 761332433
-type: way
+type: node
 latitude: 45.09541
 longitude: -93.42645
 postcode: "55369"
 city: Maple Grove
-street: "Elm Creek Boulevard"
-housenumber: 11400
+street: Elm Creek Boulevard
+housenumber: "11400"
 phone: ""
 opening_hours: ""
 website: ""

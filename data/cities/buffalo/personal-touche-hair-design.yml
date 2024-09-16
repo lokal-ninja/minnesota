@@ -1,11 +1,11 @@
 id: 1117863596
-type: way
+type: node
 latitude: 45.18654
 longitude: -93.87695
 postcode: "55313"
 city: Buffalo
-street: "State Highway 25"
-housenumber: 1211
+street: State Highway 25
+housenumber: "1211"
 phone: ""
 opening_hours: ""
 website: ""

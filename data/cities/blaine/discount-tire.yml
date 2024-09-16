@@ -1,11 +1,11 @@
 id: 608993087
-type: way
+type: node
 latitude: 45.14246
 longitude: -93.23405
 postcode: "55449"
 city: Blaine
-street: "Baltimore Street Northeast"
-housenumber: 9450
+street: Baltimore Street Northeast
+housenumber: "9450"
 phone: ""
 opening_hours: ""
 website: ""

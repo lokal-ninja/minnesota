@@ -4,8 +4,8 @@ latitude: 44.99438
 longitude: -93.14568
 postcode: "55113"
 city: Roseville
-street: "Lexington Avenue North"
-housenumber: 1750
-phone: "+1-651-488-3470"
-opening_hours: "Mo-Th 09:30-19:00; Fr-Sa 09:30-17:00; Su 12:00-16:00"
-website: "http://stores.redwing.com/roseville-mn"
+street: Lexington Avenue North
+housenumber: "1750"
+phone: +1-651-488-3470
+opening_hours: Mo-Th 09:30-19:00; Fr-Sa 09:30-17:00; Su 12:00-16:00
+website: http://stores.redwing.com/roseville-mn

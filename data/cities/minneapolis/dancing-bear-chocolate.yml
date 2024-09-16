@@ -1,11 +1,11 @@
 id: 934728113
-type: way
+type: node
 latitude: 45.03537
 longitude: -93.31406
 postcode: "55412"
 city: Minneapolis
-street: "North Thomas Avenue"
-housenumber: 4367
+street: North Thomas Avenue
+housenumber: "4367"
 phone: ""
 opening_hours: ""
 website: ""

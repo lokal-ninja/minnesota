@@ -1,11 +1,11 @@
 id: 955019155
-type: way
+type: node
 latitude: 44.9269
 longitude: -92.97221
 postcode: "55125"
 city: Woodbury
-street: "Weir Drive"
-housenumber: 1511
+street: Weir Drive
+housenumber: "1511"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 710580953
-type: way
+type: node
 latitude: 44.21634
 longitude: -95.76077
 postcode: "56132"
 city: Garvin
-street: "Sherman Street"
-housenumber: 135
-phone: "+1 (714) 222-1627"
+street: Sherman Street
+housenumber: "135"
+phone: +1 (714) 222-1627
 opening_hours: ""
-website: "https://www.lakesarahstorage.com"
+website: https://www.lakesarahstorage.com

@@ -1,11 +1,11 @@
 id: 109198451
-type: way
+type: node
 latitude: 45.01776
 longitude: -93.48534
 postcode: "55447"
 city: Plymouth
-street: "Vicksburg Lane North"
-housenumber: 3205
-phone: "+1 763-367-9000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/mn-plymouth/1955"
+street: Vicksburg Lane North
+housenumber: "3205"
+phone: +1 763-367-9000
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/mn-plymouth/1955

@@ -1,11 +1,11 @@
 id: 867154875
-type: way
+type: node
 latitude: 45.44425
 longitude: -93.58334
 postcode: "55398"
 city: Zimmerman
-street: "Highway 169"
-housenumber: 26125
+street: Highway 169
+housenumber: "26125"
 phone: ""
 opening_hours: ""
 website: ""

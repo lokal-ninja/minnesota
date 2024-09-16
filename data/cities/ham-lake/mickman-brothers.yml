@@ -4,8 +4,8 @@ latitude: 45.23645
 longitude: -93.23587
 postcode: "55304"
 city: Ham Lake
-street: "HWY 65 NE"
-housenumber: 14630
-phone: "+1-763-413-3000"
+street: HWY 65 NE
+housenumber: "14630"
+phone: +1-763-413-3000
 opening_hours: ""
-website: "https://mickman.com/"
+website: https://mickman.com/

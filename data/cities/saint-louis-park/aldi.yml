@@ -2,10 +2,10 @@ id: 4330096789
 type: node
 latitude: 44.9377
 longitude: -93.39255
-postcode: "55426-3919"
+postcode: 55426-3919
 city: Saint Louis Park
-street: "Minnesota State Highway 7"
-housenumber: 8950
-phone: "+1 833-472-7032"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/mn/st.-louis-park/8950-highway-7"
+street: Minnesota State Highway 7
+housenumber: "8950"
+phone: +1 833-472-7032
+opening_hours: Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00
+website: https://stores.aldi.us/mn/st.-louis-park/8950-highway-7

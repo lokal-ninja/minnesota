@@ -1,11 +1,11 @@
 id: 1221861664
-type: way
+type: node
 latitude: 44.67138
 longitude: -93.63661
 postcode: "55352"
 city: Jordan
-street: "245 Triangle Ln N"
-housenumber: 245
-phone: "(952) 777-7702"
+street: 245 Triangle Ln N
+housenumber: "245"
+phone: (952) 777-7702
 opening_hours: ""
-website: "https://www.qualitymotorsales.us"
+website: https://www.qualitymotorsales.us

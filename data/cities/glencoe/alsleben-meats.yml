@@ -1,11 +1,11 @@
 id: 1084287615
-type: way
+type: node
 latitude: 44.77097
 longitude: -94.15102
 postcode: "55336"
 city: Glencoe
-street: "12th Street East"
-housenumber: 820
-phone: "+1-320-864-6694"
+street: 12th Street East
+housenumber: "820"
+phone: +1-320-864-6694
 opening_hours: ""
 website: ""

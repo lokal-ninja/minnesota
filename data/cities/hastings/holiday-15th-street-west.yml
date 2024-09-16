@@ -1,11 +1,11 @@
 id: 222588085
-type: way
+type: node
 latitude: 44.73078
 longitude: -92.85359
 postcode: "55033"
 city: Hastings
-street: "15th Street West"
-housenumber: 119
+street: 15th Street West
+housenumber: "119"
 phone: ""
 opening_hours: ""
 website: ""

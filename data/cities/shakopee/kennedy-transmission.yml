@@ -1,11 +1,11 @@
 id: 42789258
-type: way
+type: node
 latitude: 44.79937
 longitude: -93.51866
 postcode: "55379"
 city: Shakopee
-street: "1st Avenue East"
-housenumber: 630
+street: 1st Avenue East
+housenumber: "630"
 phone: ""
 opening_hours: ""
-website: "https://kennedytransmission.com/shop-locator/shakopee-mn-auto-repair-maintenance/"
+website: https://kennedytransmission.com/shop-locator/shakopee-mn-auto-repair-maintenance/

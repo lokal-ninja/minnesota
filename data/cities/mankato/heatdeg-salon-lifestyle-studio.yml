@@ -1,11 +1,11 @@
 id: 1117657714
-type: way
+type: node
 latitude: 44.16789
 longitude: -93.96462
 postcode: "56001"
 city: Mankato
-street: "Tullamore Street"
-housenumber: 1591
+street: Tullamore Street
+housenumber: "1591"
 phone: ""
-opening_hours: "Mo-Th 09:00-20:00; Fr 09:00-17:00; Sa 09:00-16:00"
+opening_hours: Mo-Th 09:00-20:00; Fr 09:00-17:00; Sa 09:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1135312552
-type: way
+type: node
 latitude: 44.09098
 longitude: -93.50571
 postcode: "56093"
 city: Waseca
-street: "North State Street"
-housenumber: 1300
+street: North State Street
+housenumber: "1300"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00; Su 09:00-18:00"
+opening_hours: Mo-Sa 07:30-20:00; Su 09:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1110572523
-type: way
+type: node
 latitude: 43.88781
 longitude: -94.1565
 postcode: "56010"
 city: Amboy
-street: "East Maine Street"
-housenumber: 217
+street: East Maine Street
+housenumber: "217"
 phone: ""
 opening_hours: ""
 website: ""

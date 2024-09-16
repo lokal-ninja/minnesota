@@ -1,11 +1,11 @@
 id: 387621253
-type: way
+type: node
 latitude: 45.6652
 longitude: -93.91159
 postcode: "56329"
 city: Foley
-street: "4th Avenue"
-housenumber: 270
-phone: "+1-320-968-7267"
+street: 4th Avenue
+housenumber: "270"
+phone: +1-320-968-7267
 opening_hours: ""
-website: "http://grandchampionmeats.com/index.php"
+website: http://grandchampionmeats.com/index.php

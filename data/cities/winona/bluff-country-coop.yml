@@ -1,11 +1,11 @@
 id: 124007628
-type: way
+type: node
 latitude: 44.05375
 longitude: -91.63877
 postcode: "55987"
 city: Winona
-street: "West 2nd Street"
-housenumber: 121
-phone: "+1-507-452-1815"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://www.bluff.coop/"
+street: West 2nd Street
+housenumber: "121"
+phone: +1-507-452-1815
+opening_hours: Mo-Su 08:00-20:00
+website: https://www.bluff.coop/

@@ -1,11 +1,11 @@
 id: 667957979
-type: way
+type: node
 latitude: 44.05288
 longitude: -92.45441
 postcode: "55906"
 city: Rochester
-street: "North Broadway Avenue"
-housenumber: 2700
-phone: "+1-507-208-7050"
+street: North Broadway Avenue
+housenumber: "2700"
+phone: +1-507-208-7050
 opening_hours: ""
-website: "http://clearwavehearing.com/"
+website: http://clearwavehearing.com/

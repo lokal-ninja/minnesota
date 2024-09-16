@@ -1,11 +1,11 @@
 id: 208093041
-type: way
+type: node
 latitude: 45.06689
 longitude: -93.25214
-postcode: "55421-1240"
+postcode: 55421-1240
 city: Fridley
-street: "53rd Avenue Northeast"
-housenumber: 755
-phone: "+1 763-852-0003"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/fridley/2200"
+street: 53rd Avenue Northeast
+housenumber: "755"
+phone: +1 763-852-0003
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/fridley/2200

@@ -1,11 +1,11 @@
 id: 258335160
-type: way
+type: node
 latitude: 44.54423
 longitude: -93.56233
 postcode: "56071"
 city: New Prague
-street: "County Road 37"
-housenumber: 102
-phone: "+1-952-758-5252"
-opening_hours: "Mo-Su 05:00-23:00"
+street: County Road 37
+housenumber: "102"
+phone: +1-952-758-5252
+opening_hours: Mo-Su 05:00-23:00
 website: ""

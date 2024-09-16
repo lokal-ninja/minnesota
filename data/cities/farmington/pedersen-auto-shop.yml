@@ -1,11 +1,11 @@
 id: 507772434
-type: way
+type: node
 latitude: 44.64267
 longitude: -93.14468
 postcode: "55024"
 city: Farmington
-street: "3rd Street"
-housenumber: 101
-phone: "+1-651-463-2111"
+street: 3rd Street
+housenumber: "101"
+phone: +1-651-463-2111
 opening_hours: ""
-website: "https://www.pedersenautoshop.com/"
+website: https://www.pedersenautoshop.com/

@@ -4,8 +4,8 @@ latitude: 44.95293
 longitude: -93.28784
 postcode: "55405"
 city: Minneapolis
-street: "Lyndale Avenue South"
-housenumber: 2727
+street: Lyndale Avenue South
+housenumber: "2727"
 phone: ""
-opening_hours: "Mo-Sa 11:00-20:00; Su 11:00-19:00"
-website: "https://buffaloexchange.com/"
+opening_hours: Mo-Sa 11:00-20:00; Su 11:00-19:00
+website: https://buffaloexchange.com/

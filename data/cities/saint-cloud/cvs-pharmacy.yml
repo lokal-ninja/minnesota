@@ -1,11 +1,11 @@
 id: 436652167
-type: way
+type: node
 latitude: 45.55259
 longitude: -94.18734
 postcode: "56301"
 city: Saint Cloud
-street: "West Division Street"
-housenumber: 2420
+street: West Division Street
+housenumber: "2420"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/saint-cloud-mn-pharmacies/2420-division-st-saint-cloud-mn-56301/storeid=6507"
+website: https://www.cvs.com/store-locator/saint-cloud-mn-pharmacies/2420-division-st-saint-cloud-mn-56301/storeid=6507

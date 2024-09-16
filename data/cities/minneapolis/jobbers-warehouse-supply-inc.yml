@@ -1,11 +1,11 @@
 id: 240869855
-type: way
+type: node
 latitude: 44.98132
 longitude: -93.29013
 postcode: "55405"
 city: Minneapolis
-street: "3rd Avenue North"
-housenumber: 800
+street: 3rd Avenue North
+housenumber: "800"
 phone: "+16123774520"
 opening_hours: ""
-website: "http://www.enginepartspro.com/"
+website: http://www.enginepartspro.com/

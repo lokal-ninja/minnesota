@@ -1,11 +1,11 @@
 id: 51161634
-type: way
+type: node
 latitude: 45.20777
 longitude: -93.36266
 postcode: "55448"
 city: Coon Rapids
-street: "Riverdale Drive Northwest"
-housenumber: 13020
-phone: "+1 763-421-2622"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/1562/coon-rapids-mn/whats-new"
+street: Riverdale Drive Northwest
+housenumber: "13020"
+phone: +1 763-421-2622
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/1562/coon-rapids-mn/whats-new

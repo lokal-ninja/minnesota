@@ -1,11 +1,11 @@
 id: 344100729
-type: way
+type: node
 latitude: 44.04747
 longitude: -92.51936
-postcode: "55901-3246"
+postcode: 55901-3246
 city: Rochester
-street: "Commerce Drive"
-housenumber: 2215
-phone: "+1 833-472-7077"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/mn/rochester/2215-commerce-drive"
+street: Commerce Drive
+housenumber: "2215"
+phone: +1 833-472-7077
+opening_hours: Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00
+website: https://stores.aldi.us/mn/rochester/2215-commerce-drive

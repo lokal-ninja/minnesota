@@ -1,11 +1,11 @@
 id: 134240889
-type: way
+type: node
 latitude: 44.72412
 longitude: -93.17395
 postcode: "55124"
 city: Apple Valley
-street: "Pilot Knob Road"
-housenumber: 15560
-phone: "+1 952-236-3165"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.target.com/sl/apple-valley-south/2390"
+street: Pilot Knob Road
+housenumber: "15560"
+phone: +1 952-236-3165
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.target.com/sl/apple-valley-south/2390

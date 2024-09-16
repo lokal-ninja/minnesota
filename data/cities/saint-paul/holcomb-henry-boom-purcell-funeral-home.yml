@@ -1,11 +1,11 @@
 id: 153111622
-type: way
+type: node
 latitude: 44.95721
 longitude: -93.16683
 postcode: "55104"
 city: Saint Paul
-street: "Snelling Avenue"
-housenumber: 536
-phone: "+1-651-646-2844"
+street: Snelling Avenue
+housenumber: "536"
+phone: +1-651-646-2844
 opening_hours: ""
-website: "https://www.holcombhenryboom.com/"
+website: https://www.holcombhenryboom.com/

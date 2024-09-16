@@ -1,11 +1,11 @@
 id: 1136601049
-type: way
+type: node
 latitude: 45.07745
 longitude: -93.05513
 postcode: "55127"
 city: White Bear Lake
-street: "Centerville Road"
-housenumber: 4500
+street: Centerville Road
+housenumber: "4500"
 phone: ""
 opening_hours: ""
 website: ""

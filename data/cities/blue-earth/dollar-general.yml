@@ -1,11 +1,11 @@
 id: 1080143237
-type: way
+type: node
 latitude: 43.65051
 longitude: -94.095
 postcode: "56013"
 city: Blue Earth
-street: "Giant Drive"
-housenumber: 1100
+street: Giant Drive
+housenumber: "1100"
 phone: ""
-opening_hours: "08:00-20:00"
-website: "https://www.dollargeneral.com/store-directory/mn/blue-earth/10845"
+opening_hours: 08:00-20:00
+website: https://www.dollargeneral.com/store-directory/mn/blue-earth/10845

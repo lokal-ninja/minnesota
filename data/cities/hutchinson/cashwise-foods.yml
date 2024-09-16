@@ -1,11 +1,11 @@
 id: 1155939214
-type: way
+type: node
 latitude: 44.87749
 longitude: -94.37867
 postcode: "55350"
 city: Hutchinson
-street: "Hwy 15 S"
-housenumber: 1020
-phone: "+1-320-587-7655"
-opening_hours: "06:00-24:00"
-website: "https://www.cashwise.com/"
+street: Hwy 15 S
+housenumber: "1020"
+phone: +1-320-587-7655
+opening_hours: 06:00-24:00
+website: https://www.cashwise.com/

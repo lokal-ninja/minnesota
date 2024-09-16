@@ -1,11 +1,11 @@
 id: 231124914
-type: way
+type: node
 latitude: 44.73063
 longitude: -92.85323
 postcode: "55033"
 city: Hastings
-street: "Vermillion Street"
-housenumber: 1510
+street: Vermillion Street
+housenumber: "1510"
 phone: ""
 opening_hours: ""
 website: ""

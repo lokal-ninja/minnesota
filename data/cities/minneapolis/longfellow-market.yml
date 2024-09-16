@@ -1,11 +1,11 @@
 id: 289418786
-type: way
+type: node
 latitude: 44.94822
 longitude: -93.21725
 postcode: "55406"
 city: Minneapolis
-street: "East Lake Street"
-housenumber: 3815
-phone: "+1-612-353-5078"
-opening_hours: "Mo-Su 07:00-20:00"
-website: "https://longfellowmarket.com/"
+street: East Lake Street
+housenumber: "3815"
+phone: +1-612-353-5078
+opening_hours: Mo-Su 07:00-20:00
+website: https://longfellowmarket.com/

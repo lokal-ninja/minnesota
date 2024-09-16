@@ -1,11 +1,11 @@
 id: 43605727
-type: way
+type: node
 latitude: 44.85833
 longitude: -93.4357
 postcode: "55344"
 city: Eden Prairie
-street: "Prairie Center Drive"
-housenumber: 770
+street: Prairie Center Drive
+housenumber: "770"
 phone: ""
 opening_hours: ""
 website: ""

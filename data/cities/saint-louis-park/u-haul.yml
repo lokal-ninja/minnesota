@@ -1,11 +1,11 @@
 id: 172528998
-type: way
+type: node
 latitude: 44.93529
 longitude: -93.36934
 postcode: "55426"
 city: Saint Louis Park
-street: "Louisiana Avenue South"
-housenumber: 3750
+street: Louisiana Avenue South
+housenumber: "3750"
 phone: ""
 opening_hours: ""
 website: ""

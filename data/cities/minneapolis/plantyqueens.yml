@@ -4,8 +4,8 @@ latitude: 44.9973
 longitude: -93.28024
 postcode: "55411"
 city: Minneapolis
-street: "North 2nd Street"
-housenumber: 1729
+street: North 2nd Street
+housenumber: "1729"
 phone: ""
-opening_hours: "Tu 16:30-19:30; Sa-Su 11:00-17:00"
-website: "https://plantyqueens.com/"
+opening_hours: Tu 16:30-19:30; Sa-Su 11:00-17:00
+website: https://plantyqueens.com/

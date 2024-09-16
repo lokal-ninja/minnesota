@@ -1,11 +1,11 @@
 id: 246344103
-type: way
+type: node
 latitude: 44.43509
 longitude: -95.76896
 postcode: "56258"
 city: Marshall
-street: "Susan Drive"
-housenumber: 1200
-phone: "+1 507-706-6970"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/1200-susan-drive-marshall-56258?number=3458"
+street: Susan Drive
+housenumber: "1200"
+phone: +1 507-706-6970
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/1200-susan-drive-marshall-56258?number=3458

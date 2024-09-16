@@ -1,11 +1,11 @@
 id: 761344819
-type: way
+type: node
 latitude: 45.09441
 longitude: -93.44543
 postcode: "55369"
 city: Maple Grove
-street: "Elm Creek Boulevard North"
-housenumber: 12905
-phone: "+1 763-416-6300"
+street: Elm Creek Boulevard North
+housenumber: "12905"
+phone: +1 763-416-6300
 opening_hours: ""
-website: "https://stores.bestbuy.com/mn/maple-grove/12905-elm-creek-blvd-n-329.html"
+website: https://stores.bestbuy.com/mn/maple-grove/12905-elm-creek-blvd-n-329.html

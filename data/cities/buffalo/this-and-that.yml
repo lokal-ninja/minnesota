@@ -1,11 +1,11 @@
 id: 1117863667
-type: way
+type: node
 latitude: 45.17808
 longitude: -93.87278
 postcode: "55313"
 city: Buffalo
-street: "Soo Lane"
-housenumber: 605
+street: Soo Lane
+housenumber: "605"
 phone: ""
 opening_hours: ""
 website: ""

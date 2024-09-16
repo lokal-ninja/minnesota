@@ -1,11 +1,11 @@
 id: 303572558
-type: way
+type: node
 latitude: 43.89175
 longitude: -92.85481
 postcode: "55940"
 city: Hayfield
-street: "2nd Street NW"
-housenumber: 501
-phone: "+1-507-477-2259"
+street: 2nd Street NW
+housenumber: "501"
+phone: +1-507-477-2259
 opening_hours: ""
-website: "czaplewskifuneralhomes.com"
+website: czaplewskifuneralhomes.com

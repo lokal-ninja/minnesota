@@ -1,11 +1,11 @@
 id: 590393878
-type: way
+type: node
 latitude: 45.15396
 longitude: -93.16431
 postcode: "55014"
 city: Blaine
-street: "Lexington Avenue Northeast"
-housenumber: 10216
-phone: "+1 833-472-7016"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/mn/blaine/10216-lexington-avenue-ne"
+street: Lexington Avenue Northeast
+housenumber: "10216"
+phone: +1 833-472-7016
+opening_hours: Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00
+website: https://stores.aldi.us/mn/blaine/10216-lexington-avenue-ne

@@ -1,11 +1,11 @@
 id: 486838484
-type: way
+type: node
 latitude: 44.91693
 longitude: -93.10148
 postcode: "55118"
 city: West Saint Paul
-street: "Smith Avenue South"
-housenumber: 984
-phone: "+1-651-457-2909"
+street: Smith Avenue South
+housenumber: "984"
+phone: +1-651-457-2909
 opening_hours: ""
 website: ""

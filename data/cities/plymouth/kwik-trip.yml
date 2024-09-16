@@ -1,11 +1,11 @@
 id: 778968816
-type: way
+type: node
 latitude: 44.99729
 longitude: -93.45507
 postcode: "55441"
 city: Plymouth
-street: "Annapolis Lane North"
-housenumber: 1605
+street: Annapolis Lane North
+housenumber: "1605"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=411"
+website: https://www.kwiktrip.com/locator/store?id=411

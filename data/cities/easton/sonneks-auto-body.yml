@@ -1,11 +1,11 @@
 id: 1106637881
-type: way
+type: node
 latitude: 43.76339
 longitude: -93.89385
 postcode: "56025"
 city: Easton
-street: "7th Street"
-housenumber: 31
+street: 7th Street
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

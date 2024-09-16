@@ -1,11 +1,11 @@
 id: 506236060
-type: way
+type: node
 latitude: 44.71487
 longitude: -93.42373
 postcode: "55372"
 city: Prior Lake
-street: "Main Ave SE"
-housenumber: 16173
+street: Main Ave SE
+housenumber: "16173"
 phone: "+13202825644"
 opening_hours: ""
-website: "https://laker-outfitters.square.site/"
+website: https://laker-outfitters.square.site/

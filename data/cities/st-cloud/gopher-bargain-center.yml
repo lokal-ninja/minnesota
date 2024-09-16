@@ -1,11 +1,11 @@
 id: 769989792
-type: way
+type: node
 latitude: 45.57076
 longitude: -94.14959
 postcode: "56304"
 city: St. Cloud
-street: "Lincoln Avenue Northeast"
-housenumber: 229
+street: Lincoln Avenue Northeast
+housenumber: "229"
 phone: ""
 opening_hours: ""
 website: ""

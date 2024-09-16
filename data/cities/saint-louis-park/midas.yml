@@ -1,11 +1,11 @@
 id: 692875250
-type: way
+type: node
 latitude: 44.93726
 longitude: -93.33385
 postcode: "55416"
 city: Saint Louis Park
-street: "Excelsior Boulevard"
-housenumber: 4200
+street: Excelsior Boulevard
+housenumber: "4200"
 phone: "+19526792142"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-14:00; PH closed"
-website: "https://www.midas.com/minneapolis/store.aspx?shopnum=2196&dmanum=576001&utm_source=gmb&utm_medium=local&utm_campaign=websiteCTA&y_source=1_MTE1ODYxNDctNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-14:00; PH closed
+website: https://www.midas.com/minneapolis/store.aspx?shopnum=2196&dmanum=576001&utm_source=gmb&utm_medium=local&utm_campaign=websiteCTA&y_source=1_MTE1ODYxNDctNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl

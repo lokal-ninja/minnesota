@@ -4,8 +4,8 @@ latitude: 45.88508
 longitude: -95.35307
 postcode: "56308"
 city: Alexandria
-street: "6th Avenue East"
-housenumber: 1610
-phone: "+1-320-763-5115"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-17:00"
-website: "https://www.andersonfloristandgreenhouse.com/"
+street: 6th Avenue East
+housenumber: "1610"
+phone: +1-320-763-5115
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-17:00
+website: https://www.andersonfloristandgreenhouse.com/

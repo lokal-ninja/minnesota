@@ -1,11 +1,11 @@
 id: 1152302963
-type: way
+type: node
 latitude: 44.8668
 longitude: -94.37634
 postcode: "55350"
 city: Hutchinson
-street: "State Highway 15"
-housenumber: 1500
+street: State Highway 15
+housenumber: "1500"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/mn/hutchinson/autoparts-1522.html"
+website: https://locations.oreillyauto.com/mn/hutchinson/autoparts-1522.html

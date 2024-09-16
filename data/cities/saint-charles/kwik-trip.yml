@@ -1,11 +1,11 @@
 id: 147615023
-type: way
+type: node
 latitude: 43.9716
 longitude: -92.06407
 postcode: "55972"
 city: Saint Charles
-street: "East 6th Street"
-housenumber: 160
+street: East 6th Street
+housenumber: "160"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=754"
+website: https://www.kwiktrip.com/locator/store?id=754

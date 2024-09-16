@@ -1,11 +1,11 @@
 id: 1005095819
-type: way
+type: node
 latitude: 45.14255
 longitude: -93.12524
 postcode: "55014"
 city: Lino Lakes
-street: "Birch Street"
-housenumber: 325
+street: Birch Street
+housenumber: "325"
 phone: ""
 opening_hours: ""
 website: ""

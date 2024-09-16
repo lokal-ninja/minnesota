@@ -1,11 +1,11 @@
 id: 1310890612
-type: way
+type: node
 latitude: 44.66701
 longitude: -93.63657
 postcode: "55352"
 city: Jordan
-street: "El Dorado Drive"
-housenumber: 100
+street: El Dorado Drive
+housenumber: "100"
 phone: "+19524929276"
 opening_hours: ""
-website: "https://glowhearth.com/"
+website: https://glowhearth.com/

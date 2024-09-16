@@ -1,11 +1,11 @@
 id: 379202029
-type: way
+type: node
 latitude: 46.36384
 longitude: -94.24183
-postcode: "56425-9744"
+postcode: 56425-9744
 city: Baxter
-street: "Dellwood Drive North"
-housenumber: 14546
-phone: "+1 218-828-3535"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/brainerd/659"
+street: Dellwood Drive North
+housenumber: "14546"
+phone: +1 218-828-3535
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/brainerd/659

@@ -1,11 +1,11 @@
 id: 768686714
-type: way
+type: node
 latitude: 44.96036
 longitude: -93.18744
 postcode: "55114"
 city: Saint Paul
-street: "Transfer Road"
-housenumber: 631
-phone: "+1-612-552-5858"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 08:30-17:00; Su 11:00-15:30"
-website: "https://www.cubesmart.com/minnesota-self-storage/saint-paul-self-storage/4006.html"
+street: Transfer Road
+housenumber: "631"
+phone: +1-612-552-5858
+opening_hours: Mo-Fr 09:30-18:00; Sa 08:30-17:00; Su 11:00-15:30
+website: https://www.cubesmart.com/minnesota-self-storage/saint-paul-self-storage/4006.html

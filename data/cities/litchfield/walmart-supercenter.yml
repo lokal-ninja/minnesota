@@ -1,11 +1,11 @@
 id: 631629048
-type: way
+type: node
 latitude: 45.12063
 longitude: -94.49079
 postcode: "55355"
 city: Litchfield
-street: "East Frontage Road"
-housenumber: 2301
-phone: "+1 320-693-1022"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/4374/litchfield-mn/whats-new"
+street: East Frontage Road
+housenumber: "2301"
+phone: +1 320-693-1022
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/4374/litchfield-mn/whats-new

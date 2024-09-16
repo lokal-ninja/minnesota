@@ -1,11 +1,11 @@
 id: 246344101
-type: way
+type: node
 latitude: 44.39917
 longitude: -95.25442
 postcode: "56293"
 city: Wabasso
-street: "MN 68"
-housenumber: 151
-phone: "+1-507-342-5123"
+street: MN 68
+housenumber: "151"
+phone: +1-507-342-5123
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1110572517
-type: way
+type: node
 latitude: 43.88736
 longitude: -94.15675
 postcode: "56010"
 city: Amboy
-street: "2nd Avenue South"
-housenumber: 130
+street: 2nd Avenue South
+housenumber: "130"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
 website: ""

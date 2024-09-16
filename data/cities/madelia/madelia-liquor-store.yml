@@ -4,8 +4,8 @@ latitude: 44.05064
 longitude: -94.41896
 postcode: "56062"
 city: Madelia
-street: "West Main Street"
-housenumber: 116
+street: West Main Street
+housenumber: "116"
 phone: ""
-opening_hours: "Su closed"
-website: "https://www.google.com/search?q"
+opening_hours: Su closed
+website: https://www.google.com/search?q

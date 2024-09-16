@@ -1,11 +1,11 @@
 id: 1117657694
-type: way
+type: node
 latitude: 44.1678
 longitude: -93.9612
 postcode: "56001"
 city: Mankato
-street: "Madison Avenue"
-housenumber: 1676
+street: Madison Avenue
+housenumber: "1676"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:30"
+opening_hours: Mo-Fr 07:30-17:30
 website: ""

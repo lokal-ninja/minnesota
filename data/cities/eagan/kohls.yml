@@ -1,11 +1,11 @@
 id: 92926288
-type: way
+type: node
 latitude: 44.82984
 longitude: -93.16252
 postcode: "55123"
 city: Eagan
-street: "Town Centre Drive"
-housenumber: 1350
-phone: "+1 651-688-8388"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/mn/eagan-79.shtml"
+street: Town Centre Drive
+housenumber: "1350"
+phone: +1 651-688-8388
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/mn/eagan-79.shtml

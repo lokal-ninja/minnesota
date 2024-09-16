@@ -1,11 +1,11 @@
 id: 158177901
-type: way
+type: node
 latitude: 44.02818
 longitude: -92.65013
 postcode: "55920"
 city: Byron
-street: "1st Street Southwest"
-housenumber: 215
+street: 1st Street Southwest
+housenumber: "215"
 phone: ""
 opening_hours: ""
 website: ""

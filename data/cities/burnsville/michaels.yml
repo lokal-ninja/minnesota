@@ -1,11 +1,11 @@
 id: 202194692
-type: way
+type: node
 latitude: 44.75164
 longitude: -93.28677
-postcode: "55337-6216"
+postcode: 55337-6216
 city: Burnsville
-street: "Aldrich Avenue South"
-housenumber: 13901
-phone: "+1 651-894-4119"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/mn/burnsville/8608"
+street: Aldrich Avenue South
+housenumber: "13901"
+phone: +1 651-894-4119
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/mn/burnsville/8608

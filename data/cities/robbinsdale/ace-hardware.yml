@@ -1,11 +1,11 @@
 id: 762930158
-type: way
+type: node
 latitude: 45.03085
 longitude: -93.33837
 postcode: "55422"
 city: Robbinsdale
-street: "West Broadway Avenue"
-housenumber: 4140
-phone: "+1 763-533-2758"
-opening_hours: "Mo-Sa 08:00-19:00; Su 09:00-17:00"
+street: West Broadway Avenue
+housenumber: "4140"
+phone: +1 763-533-2758
+opening_hours: Mo-Sa 08:00-19:00; Su 09:00-17:00
 website: ""

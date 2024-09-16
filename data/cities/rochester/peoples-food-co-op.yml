@@ -4,8 +4,8 @@ latitude: 44.01726
 longitude: -92.4648
 postcode: "55902"
 city: Rochester
-street: "1st Avenue Southwest"
-housenumber: 519
-phone: "507-289-9061"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.pfc.coop/"
+street: 1st Avenue Southwest
+housenumber: "519"
+phone: 507-289-9061
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.pfc.coop/

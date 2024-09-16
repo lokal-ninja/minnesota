@@ -4,8 +4,9 @@ latitude: 46.78257
 longitude: -92.09434
 postcode: "55802"
 city: Duluth
-street: "Canal Park Drive"
-housenumber: 365
+street: Canal Park Drive
+housenumber: "365"
 phone: "+12187223898"
-opening_hours: "Mo-Tu 10:00-19:00; We 10:00-18:00; Th 10:00-19:00; Fr-Sa 10:00-20:00; Su 10:00-18:00"
-website: "https://www.duluthpack.com/"
+opening_hours: Mo-Tu 10:00-19:00; We 10:00-18:00; Th 10:00-19:00; Fr-Sa 10:00-20:00;
+    Su 10:00-18:00
+website: https://www.duluthpack.com/

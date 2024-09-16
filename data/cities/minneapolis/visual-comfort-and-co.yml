@@ -4,8 +4,8 @@ latitude: 44.98455
 longitude: -93.26977
 postcode: "55401"
 city: Minneapolis
-street: "North 2nd Street"
-housenumber: 127
-phone: "+1 612 255 3330"
+street: North 2nd Street
+housenumber: "127"
+phone: +1 612 255 3330
 opening_hours: ""
-website: "https://www.visualcomfort.com/minneapolis/"
+website: https://www.visualcomfort.com/minneapolis/

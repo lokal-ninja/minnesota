@@ -1,11 +1,11 @@
 id: 233832112
-type: way
+type: node
 latitude: 44.09769
 longitude: -93.25587
 postcode: "55060"
 city: Owatonna
-street: "21st Avenue Northwest"
-housenumber: 1280
-phone: "+1 507-446-4900"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/mn-owatonna/2518"
+street: 21st Avenue Northwest
+housenumber: "1280"
+phone: +1 507-446-4900
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/mn-owatonna/2518

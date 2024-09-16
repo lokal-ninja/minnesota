@@ -1,11 +1,11 @@
 id: 88446382
-type: way
+type: node
 latitude: 44.9634
 longitude: -93.29135
 postcode: "55403"
 city: Minneapolis
-street: "Hennepin Avenue South"
-housenumber: 1924
+street: Hennepin Avenue South
+housenumber: "1924"
 phone: ""
-opening_hours: "Mo-Th 12:00-20:00; Fr,Sa 10:00-21:00; Su 11:00-18:00"
+opening_hours: Mo-Th 12:00-20:00; Fr,Sa 10:00-21:00; Su 11:00-18:00
 website: ""

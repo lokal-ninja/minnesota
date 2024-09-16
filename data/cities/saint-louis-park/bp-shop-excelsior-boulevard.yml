@@ -1,11 +1,11 @@
 id: 692875213
-type: way
+type: node
 latitude: 44.93291
 longitude: -93.33996
 postcode: "55416"
 city: Saint Louis Park
-street: "Excelsior Boulevard"
-housenumber: 4701
+street: Excelsior Boulevard
+housenumber: "4701"
 phone: "+19529229724"
 opening_hours: ""
-website: "https://www.excelsiorbp.com/"
+website: https://www.excelsiorbp.com/

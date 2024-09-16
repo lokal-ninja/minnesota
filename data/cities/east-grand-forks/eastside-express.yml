@@ -1,11 +1,11 @@
 id: 687236623
-type: way
+type: node
 latitude: 47.92841
 longitude: -97.01758
 postcode: "56721"
 city: East Grand Forks
-street: "4th Street Northeast"
-housenumber: 122
+street: 4th Street Northeast
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

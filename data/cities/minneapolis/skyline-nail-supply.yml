@@ -4,8 +4,8 @@ latitude: 44.95746
 longitude: -93.27858
 postcode: "55404"
 city: Minneapolis
-street: "West 25th Street"
-housenumber: 12
-phone: "+1-612-871-0667"
+street: West 25th Street
+housenumber: "12"
+phone: +1-612-871-0667
 opening_hours: ""
-website: "https://www.skylinebeautysupply.com/"
+website: https://www.skylinebeautysupply.com/

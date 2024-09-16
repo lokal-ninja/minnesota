@@ -1,11 +1,11 @@
 id: 42744288
-type: way
+type: node
 latitude: 44.03359
 longitude: -91.6156
 postcode: "55987"
 city: Winona
-street: "Frontenac Drive"
-housenumber: 1075
+street: Frontenac Drive
+housenumber: "1075"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3172"
+website: https://www.menards.com/store-details/store.html?store=3172

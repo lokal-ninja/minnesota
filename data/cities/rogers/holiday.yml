@@ -1,11 +1,11 @@
 id: 102923852
-type: way
+type: node
 latitude: 45.19876
 longitude: -93.55168
 postcode: "55374"
 city: Rogers
-street: "South Diamond Lake Road"
-housenumber: 21451
+street: South Diamond Lake Road
+housenumber: "21451"
 phone: ""
 opening_hours: ""
 website: ""

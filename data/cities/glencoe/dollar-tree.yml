@@ -1,11 +1,11 @@
 id: 1017491274
-type: way
+type: node
 latitude: 44.77009
 longitude: -94.13331
 postcode: "55336"
 city: Glencoe
-street: "10th Street East"
-housenumber: 2109
-phone: "+1-952-698-7176"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:00"
-website: "https://www.dollartree.com/locations/mn/glencoe/8091/"
+street: 10th Street East
+housenumber: "2109"
+phone: +1-952-698-7176
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-20:00
+website: https://www.dollartree.com/locations/mn/glencoe/8091/

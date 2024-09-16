@@ -1,11 +1,11 @@
 id: 1085190629
-type: way
+type: node
 latitude: 45.07994
 longitude: -93.0603
 postcode: "55127"
 city: White Bear
-street: "Meadowlands Drive"
-housenumber: 1008
+street: Meadowlands Drive
+housenumber: "1008"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/mn/whitebeartownship/oil-change-010083.html"
+website: https://store.vioc.com/mn/whitebeartownship/oil-change-010083.html

@@ -1,11 +1,11 @@
 id: 1215141010
-type: way
+type: node
 latitude: 44.48555
 longitude: -93.66703
 postcode: "56071"
 city: New Prague
-street: "320th Street"
-housenumber: 20169
-phone: "952-758-2986"
+street: 320th Street
+housenumber: "20169"
+phone: 952-758-2986
 opening_hours: ""
 website: ""

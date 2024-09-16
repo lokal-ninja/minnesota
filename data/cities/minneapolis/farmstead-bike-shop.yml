@@ -1,11 +1,11 @@
 id: 292021286
-type: way
+type: node
 latitude: 44.93027
 longitude: -93.29067
 postcode: "55409"
 city: Minneapolis
-street: "Bryant Avenue South"
-housenumber: 4001
-phone: "+1 612-824-9300"
+street: Bryant Avenue South
+housenumber: "4001"
+phone: +1 612-824-9300
 opening_hours: ""
-website: "https://www.farmsteadbikeshop.com/"
+website: https://www.farmsteadbikeshop.com/

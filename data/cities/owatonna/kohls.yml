@@ -1,11 +1,11 @@
 id: 233833360
-type: way
+type: node
 latitude: 44.09966
 longitude: -93.25416
 postcode: "55060"
 city: Owatonna
-street: "21st Avenue Northwest"
-housenumber: 1450
-phone: "+1 507-444-0153"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/mn/owatonna-1043.shtml"
+street: 21st Avenue Northwest
+housenumber: "1450"
+phone: +1 507-444-0153
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/mn/owatonna-1043.shtml

@@ -1,11 +1,11 @@
 id: 1238131975
-type: way
+type: node
 latitude: 46.70161
 longitude: -92.42414
 postcode: "55720"
 city: Scanlon
-street: "Highway 45"
-housenumber: 1320
+street: Highway 45
+housenumber: "1320"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=234"
+website: https://www.kwiktrip.com/locator/store?id=234

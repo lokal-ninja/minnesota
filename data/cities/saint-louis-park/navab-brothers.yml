@@ -1,11 +1,12 @@
 id: 692875278
-type: way
+type: node
 latitude: 44.93504
 longitude: -93.33564
 postcode: "55416"
 city: Saint Louis Park
-street: "Excelsior Boulevard"
-housenumber: 4409
+street: Excelsior Boulevard
+housenumber: "4409"
 phone: "+19529209597"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su 12:00-16:00; Jul 1-Aug 31 Su 06:00-24:00 closed; PH closed"
-website: "https://navabbrothers.com/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su 12:00-16:00; Jul 1-Aug 31 Su
+    06:00-24:00 closed; PH closed
+website: https://navabbrothers.com/

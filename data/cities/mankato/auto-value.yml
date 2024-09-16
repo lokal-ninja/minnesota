@@ -1,11 +1,11 @@
 id: 1116130908
-type: way
+type: node
 latitude: 44.18634
 longitude: -93.98528
 postcode: "56001"
 city: Mankato
-street: "North Riverfront Drive"
-housenumber: 1930
+street: North Riverfront Drive
+housenumber: "1930"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-14:00"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-14:00
 website: ""

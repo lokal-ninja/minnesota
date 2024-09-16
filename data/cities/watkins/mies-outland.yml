@@ -1,11 +1,11 @@
 id: 1051575229
-type: way
+type: node
 latitude: 45.31071
 longitude: -94.4155
 postcode: "55389"
 city: Watkins
-street: "MN 55"
-housenumber: 720
-phone: "+1-320-764-1000"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-15:00; PH off"
-website: "https://www.miesoutlandwatkins.com/"
+street: MN 55
+housenumber: "720"
+phone: +1-320-764-1000
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-15:00; PH off
+website: https://www.miesoutlandwatkins.com/

@@ -1,11 +1,11 @@
 id: 340758278
-type: way
+type: node
 latitude: 44.10696
 longitude: -92.42905
 postcode: "55906"
 city: Rochester
-street: "75th Street NE"
-housenumber: 2580
-phone: "+1-507-289-0557"
+street: 75th Street NE
+housenumber: "2580"
+phone: +1-507-289-0557
 opening_hours: ""
-website: "https://familytreensy.com/"
+website: https://familytreensy.com/

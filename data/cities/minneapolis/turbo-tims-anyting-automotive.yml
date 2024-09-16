@@ -1,11 +1,11 @@
 id: 937933246
-type: way
+type: node
 latitude: 45.01917
 longitude: -93.24717
 postcode: "55418"
 city: Minneapolis
-street: "Northeast Central Avenue"
-housenumber: 2823
+street: Northeast Central Avenue
+housenumber: "2823"
 phone: ""
 opening_hours: ""
 website: ""

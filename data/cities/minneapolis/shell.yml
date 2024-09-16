@@ -1,11 +1,11 @@
 id: 93142278
-type: way
+type: node
 latitude: 44.94858
 longitude: -93.26587
 postcode: "55407"
 city: Minneapolis
-street: "East Lake Street"
-housenumber: 640
+street: East Lake Street
+housenumber: "640"
 phone: ""
 opening_hours: ""
 website: ""

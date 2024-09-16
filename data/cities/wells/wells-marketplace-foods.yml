@@ -1,11 +1,11 @@
 id: 761570600
-type: way
+type: node
 latitude: 43.74771
 longitude: -93.72329
 postcode: "56097"
 city: Wells
-street: "3rd Street Northeast"
-housenumber: 190
+street: 3rd Street Northeast
+housenumber: "190"
 phone: ""
 opening_hours: ""
 website: ""

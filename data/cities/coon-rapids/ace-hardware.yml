@@ -1,11 +1,11 @@
 id: 102923733
-type: way
+type: node
 latitude: 45.14565
 longitude: -93.28112
-postcode: "55433-5525"
+postcode: 55433-5525
 city: Coon Rapids
-street: "Foley Boulevard Northwest"
-housenumber: 9680
-phone: "+1 763-755-1762"
-opening_hours: "Mo-Sa 08:00-19:00; Su 09:00-17:00"
+street: Foley Boulevard Northwest
+housenumber: "9680"
+phone: +1 763-755-1762
+opening_hours: Mo-Sa 08:00-19:00; Su 09:00-17:00
 website: ""

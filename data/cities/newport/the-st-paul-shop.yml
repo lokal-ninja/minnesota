@@ -1,11 +1,11 @@
 id: 493781011
-type: way
+type: node
 latitude: 44.87957
 longitude: -93.00124
 postcode: "55055"
 city: Newport
-street: "20th Street"
-housenumber: 727
+street: 20th Street
+housenumber: "727"
 phone: ""
 opening_hours: ""
 website: ""

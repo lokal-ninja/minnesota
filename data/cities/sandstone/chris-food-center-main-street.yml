@@ -1,11 +1,11 @@
 id: 419002706
-type: way
+type: node
 latitude: 46.12517
 longitude: -92.86964
 postcode: "29403"
 city: Sandstone
-street: "Main Street"
-housenumber: 320
+street: Main Street
+housenumber: "320"
 phone: ""
 opening_hours: ""
 website: ""

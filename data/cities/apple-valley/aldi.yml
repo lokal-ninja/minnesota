@@ -2,10 +2,10 @@ id: 8244899138
 type: node
 latitude: 44.72852
 longitude: -93.21973
-postcode: "55124-7184"
+postcode: 55124-7184
 city: Apple Valley
-street: "153rd Street West"
-housenumber: 7589
-phone: "+1 833-472-7041"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/mn/apple-valley/7589-153rd-street-w"
+street: 153rd Street West
+housenumber: "7589"
+phone: +1 833-472-7041
+opening_hours: Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00
+website: https://stores.aldi.us/mn/apple-valley/7589-153rd-street-w

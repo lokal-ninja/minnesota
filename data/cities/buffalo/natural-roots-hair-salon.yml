@@ -1,11 +1,11 @@
 id: 1178643790
-type: way
+type: node
 latitude: 45.17236
 longitude: -93.87539
 postcode: "55313"
 city: Buffalo
-street: "Division Street East"
-housenumber: 25
+street: Division Street East
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

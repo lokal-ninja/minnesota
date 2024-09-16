@@ -1,11 +1,11 @@
 id: 41673494
-type: way
+type: node
 latitude: 44.85989
 longitude: -93.3124
 postcode: "55431"
 city: Bloomington
-street: "West 79th Street;West 80th Street"
-housenumber: 2600
+street: West 79th Street;West 80th Street
+housenumber: "2600"
 phone: ""
 opening_hours: ""
 website: ""

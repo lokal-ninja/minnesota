@@ -1,11 +1,11 @@
 id: 263896550
-type: way
+type: node
 latitude: 44.87056
 longitude: -93.32856
 postcode: "55435"
 city: Edina
-street: "France Avenue South"
-housenumber: 3821
+street: France Avenue South
+housenumber: "3821"
 phone: ""
 opening_hours: ""
 website: ""

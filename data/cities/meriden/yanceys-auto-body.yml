@@ -1,11 +1,11 @@
 id: 1112330637
-type: way
+type: node
 latitude: 44.07332
 longitude: -93.3806
 postcode: "56093"
 city: Meriden
-street: "Southwest 13th Street"
-housenumber: 8897
+street: Southwest 13th Street
+housenumber: "8897"
 phone: ""
 opening_hours: ""
 website: ""

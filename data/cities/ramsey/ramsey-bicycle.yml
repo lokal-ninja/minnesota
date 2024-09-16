@@ -1,11 +1,11 @@
 id: 700234324
-type: way
+type: node
 latitude: 45.2245
 longitude: -93.44048
 postcode: "55303"
 city: Ramsey
-street: "US-10"
-housenumber: 6825
+street: US-10
+housenumber: "6825"
 phone: ""
 opening_hours: ""
 website: ""

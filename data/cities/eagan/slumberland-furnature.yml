@@ -1,11 +1,11 @@
 id: 350242402
-type: way
+type: node
 latitude: 44.83792
 longitude: -93.15695
 postcode: "55121"
 city: Eagan
-street: "Northwood Parkway"
-housenumber: 1257
+street: Northwood Parkway
+housenumber: "1257"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1200088066
-type: way
+type: node
 latitude: 44.97205
 longitude: -93.3694
 postcode: "55426"
 city: Golden Valley
-street: "Wayzata Boulevard"
-housenumber: 6946
+street: Wayzata Boulevard
+housenumber: "6946"
 phone: "+17635428409"
 opening_hours: ""
-website: "http://www.transmissionshopinc.com/"
+website: http://www.transmissionshopinc.com/

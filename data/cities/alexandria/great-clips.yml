@@ -4,8 +4,8 @@ latitude: 45.84812
 longitude: -95.38599
 postcode: "56308"
 city: Alexandria
-street: "South State Highway 29"
-housenumber: 4617 #102
-phone: "+1-320-763-4076"
+street: South State Highway 29
+housenumber: '4617 #102'
+phone: +1-320-763-4076
 opening_hours: ""
-website: "https://www.greatclips.com/"
+website: https://www.greatclips.com/

@@ -2,10 +2,10 @@ id: 1345343888
 type: node
 latitude: 43.63214
 longitude: -95.59935
-postcode: "56187-1665"
+postcode: 56187-1665
 city: Worthington
-street: "Oxford Street"
-housenumber: 1131
-phone: "+1 507-376-4555"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 10:00-17:00"
+street: Oxford Street
+housenumber: "1131"
+phone: +1 507-376-4555
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 10:00-17:00
 website: ""

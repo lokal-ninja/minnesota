@@ -4,8 +4,8 @@ latitude: 45.01881
 longitude: -93.23688
 postcode: "55418"
 city: Minneapolis
-street: "Northeast Johnson Street"
-housenumber: 2803
-phone: "+1-612-385-1406"
+street: Northeast Johnson Street
+housenumber: "2803"
+phone: +1-612-385-1406
 opening_hours: ""
-website: "https://www.tulobeauty.com/"
+website: https://www.tulobeauty.com/

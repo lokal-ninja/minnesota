@@ -1,11 +1,11 @@
 id: 530377678
-type: way
+type: node
 latitude: 44.56457
 longitude: -92.53732
 postcode: "55066"
 city: Red Wing
-street: "Main Street"
-housenumber: 
+street: Main Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

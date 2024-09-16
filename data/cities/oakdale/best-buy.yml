@@ -1,11 +1,11 @@
 id: 107385216
-type: way
+type: node
 latitude: 44.94987
 longitude: -92.93764
 postcode: "55128"
 city: Oakdale
-street: "3rd Street North"
-housenumber: 8301
-phone: "+1 651-739-1899"
+street: 3rd Street North
+housenumber: "8301"
+phone: +1 651-739-1899
 opening_hours: ""
-website: "https://stores.bestbuy.com/mn/oakdale/8301-3rd-st-n-15.html"
+website: https://stores.bestbuy.com/mn/oakdale/8301-3rd-st-n-15.html

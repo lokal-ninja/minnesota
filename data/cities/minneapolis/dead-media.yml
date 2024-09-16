@@ -4,8 +4,8 @@ latitude: 44.95755
 longitude: -93.22289
 postcode: "55406"
 city: Minneapolis
-street: "East 25th Street"
-housenumber: 3330
+street: East 25th Street
+housenumber: "3330"
 phone: ""
 opening_hours: ""
-website: "http://dead-media.org"
+website: http://dead-media.org

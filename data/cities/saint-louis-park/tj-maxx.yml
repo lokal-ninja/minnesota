@@ -1,11 +1,11 @@
 id: 435852902
-type: way
+type: node
 latitude: 44.93738
 longitude: -93.38496
 postcode: "55426"
 city: Saint Louis Park
-street: "Minnesota State Highway 7"
-housenumber: 8322
+street: Minnesota State Highway 7
+housenumber: "8322"
 phone: "+19522381039"
 opening_hours: ""
-website: "https://tjmaxx.tjx.com/store/index.jsp"
+website: https://tjmaxx.tjx.com/store/index.jsp

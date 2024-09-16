@@ -1,11 +1,11 @@
 id: 1242388157
-type: way
+type: node
 latitude: 47.41919
 longitude: -92.92521
 postcode: "55746"
 city: Hibbing
-street: "Brooklyn Drive"
-housenumber: 
+street: Brooklyn Drive
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

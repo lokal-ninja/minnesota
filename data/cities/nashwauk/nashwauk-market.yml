@@ -1,11 +1,11 @@
 id: 1203000929
-type: way
+type: node
 latitude: 47.37857
 longitude: -93.16706
 postcode: "55769"
 city: Nashwauk
-street: "2nd Street"
-housenumber: 202
+street: 2nd Street
+housenumber: "202"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00"
+opening_hours: Mo-Sa 09:00-18:00
 website: ""

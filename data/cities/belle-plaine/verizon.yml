@@ -1,11 +1,11 @@
 id: 457756067
-type: way
+type: node
 latitude: 44.62227
 longitude: -93.74539
 postcode: "56011"
 city: Belle Plaine
-street: "East Enterprise Drive"
-housenumber: 1062
-phone: "+1-952-873-2013"
+street: East Enterprise Drive
+housenumber: "1062"
+phone: +1-952-873-2013
 opening_hours: ""
-website: "https://locations.tccrocks.com/mn/belle-plaine/1062-enterprise-dr-e.html"
+website: https://locations.tccrocks.com/mn/belle-plaine/1062-enterprise-dr-e.html

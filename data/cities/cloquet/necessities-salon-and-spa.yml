@@ -4,8 +4,8 @@ latitude: 46.72125
 longitude: -92.45005
 postcode: "55720"
 city: Cloquet
-street: "13th Street"
-housenumber: 8
-phone: "+1-218-879-5959"
+street: 13th Street
+housenumber: "8"
+phone: +1-218-879-5959
 opening_hours: ""
-website: "https://necessitiessalon.net/"
+website: https://necessitiessalon.net/

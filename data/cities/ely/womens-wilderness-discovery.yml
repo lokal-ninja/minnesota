@@ -1,11 +1,11 @@
 id: 1263804324
-type: way
+type: node
 latitude: 47.90334
 longitude: -91.85994
 postcode: "55731"
 city: Ely
-street: "East Sheridan Street"
-housenumber: 429
+street: East Sheridan Street
+housenumber: "429"
 phone: ""
 opening_hours: ""
-website: "https://womenswildernessdiscovery.com/contact/"
+website: https://womenswildernessdiscovery.com/contact/

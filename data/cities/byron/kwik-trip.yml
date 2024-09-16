@@ -1,11 +1,11 @@
 id: 146321754
-type: way
+type: node
 latitude: 44.02959
 longitude: -92.64735
 postcode: "55920"
 city: Byron
-street: "2nd Avenue Northwest"
-housenumber: 16
+street: 2nd Avenue Northwest
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=622"
+website: https://www.kwiktrip.com/locator/store?id=622

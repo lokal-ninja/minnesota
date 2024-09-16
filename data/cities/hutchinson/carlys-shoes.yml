@@ -1,11 +1,11 @@
 id: 1245425667
-type: way
+type: node
 latitude: 44.89286
 longitude: -94.36945
 postcode: "55350"
 city: Hutchinson
-street: "Main Street North"
-housenumber: 24
+street: Main Street North
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

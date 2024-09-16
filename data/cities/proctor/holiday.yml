@@ -1,11 +1,11 @@
 id: 264339180
-type: way
+type: node
 latitude: 46.72527
 longitude: -92.22014
 postcode: "55810"
 city: Proctor
-street: "West Skyline Parkway"
-housenumber: 9314
-phone: "+1-218-628-8000"
-opening_hours: "24/7"
-website: "https://holidaystationstores.com/Locations/Detail?storeNumber=85"
+street: West Skyline Parkway
+housenumber: "9314"
+phone: +1-218-628-8000
+opening_hours: 24/7
+website: https://holidaystationstores.com/Locations/Detail?storeNumber=85

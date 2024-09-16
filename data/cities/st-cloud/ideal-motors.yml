@@ -1,11 +1,11 @@
 id: 770029140
-type: way
+type: node
 latitude: 45.57021
 longitude: -94.13021
 postcode: "56304"
 city: St. Cloud
-street: "Highway 23 East"
-housenumber: 1600
+street: Highway 23 East
+housenumber: "1600"
 phone: ""
 opening_hours: ""
 website: ""

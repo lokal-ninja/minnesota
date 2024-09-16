@@ -1,11 +1,11 @@
 id: 1110410007
-type: way
+type: node
 latitude: 44.93249
 longitude: -93.08067
 postcode: "55107"
 city: Saint Paul
-street: "Robert Street South"
-housenumber: 448
+street: Robert Street South
+housenumber: "448"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1157010036
-type: way
+type: node
 latitude: 44.11778
 longitude: -93.6984
 postcode: "56048"
 city: Janesville
-street: "East 2nd Street"
-housenumber: 706
+street: East 2nd Street
+housenumber: "706"
 phone: ""
 opening_hours: ""
 website: ""

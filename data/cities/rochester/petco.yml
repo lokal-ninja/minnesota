@@ -2,10 +2,10 @@ id: 1575153472
 type: node
 latitude: 44.07642
 longitude: -92.51492
-postcode: "55901-0123"
+postcode: 55901-0123
 city: Rochester
-street: "55th Street Northwest"
-housenumber: 3430
-phone: "+1 507-288-1526"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/mn/rochester/pet-supplies-rochester-mn-1679.html"
+street: 55th Street Northwest
+housenumber: "3430"
+phone: +1 507-288-1526
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/mn/rochester/pet-supplies-rochester-mn-1679.html

@@ -1,11 +1,11 @@
 id: 951583378
-type: way
+type: node
 latitude: 44.94643
 longitude: -93.15829
 postcode: "55104"
 city: Saint Paul
-street: "Selby Avenue"
-housenumber: 1400
+street: Selby Avenue
+housenumber: "1400"
 phone: ""
 opening_hours: ""
-website: "https://www.fivestarstorage.biz"
+website: https://www.fivestarstorage.biz

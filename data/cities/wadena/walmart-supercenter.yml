@@ -1,11 +1,11 @@
 id: 271735419
-type: way
+type: node
 latitude: 46.45255
 longitude: -95.12783
 postcode: "56482"
 city: Wadena
-street: "Juniper Street Northwest"
-housenumber: 100
-phone: "+1 218-631-1068"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/4246/wadena-mn/whats-new"
+street: Juniper Street Northwest
+housenumber: "100"
+phone: +1 218-631-1068
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/4246/wadena-mn/whats-new

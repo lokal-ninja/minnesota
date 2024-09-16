@@ -1,11 +1,11 @@
 id: 984761597
-type: way
+type: node
 latitude: 44.97332
 longitude: -93.30877
 postcode: "55405"
 city: Minneapolis
-street: "Cedar Lake Road South"
-housenumber: 403
+street: Cedar Lake Road South
+housenumber: "403"
 phone: "+16125237673"
-opening_hours: "We-Sa 11:00-17:00"
+opening_hours: We-Sa 11:00-17:00
 website: ""

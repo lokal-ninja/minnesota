@@ -1,11 +1,11 @@
 id: 387625483
-type: way
+type: node
 latitude: 46.98633
 longitude: -94.21299
 postcode: "56655"
 city: Longville
-street: "County Road 5"
-housenumber: 1443
-phone: "+1-218-363-2031"
+street: County Road 5
+housenumber: "1443"
+phone: +1-218-363-2031
 opening_hours: ""
-website: "https://fullstringerbaitandtackle.com/"
+website: https://fullstringerbaitandtackle.com/

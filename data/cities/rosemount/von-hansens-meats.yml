@@ -1,11 +1,11 @@
 id: 504332711
-type: way
+type: node
 latitude: 44.73122
 longitude: -93.14073
 postcode: "55068"
 city: Rosemount
-street: "Claret Avenue"
-housenumber: 15010
+street: Claret Avenue
+housenumber: "15010"
 phone: ""
 opening_hours: ""
 website: ""

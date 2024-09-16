@@ -1,11 +1,11 @@
 id: 852529161
-type: way
+type: node
 latitude: 47.66267
 longitude: -92.19682
 postcode: "55732"
 city: Embarrass
-street: "Salo Road"
-housenumber: 4839
-phone: "+1 218 984 3503"
-opening_hours: "Th-Sa 10:00-16:00"
+street: Salo Road
+housenumber: "4839"
+phone: +1 218 984 3503
+opening_hours: Th-Sa 10:00-16:00
 website: ""

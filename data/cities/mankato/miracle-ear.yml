@@ -4,8 +4,8 @@ latitude: 44.16791
 longitude: -93.96
 postcode: "56001"
 city: Mankato
-street: "Star Street"
-housenumber: 111
+street: Star Street
+housenumber: "111"
 phone: ""
-opening_hours: "Mo,We-Fr 08:00-17:00; Tu 09:00-17:00"
+opening_hours: Mo,We-Fr 08:00-17:00; Tu 09:00-17:00
 website: ""

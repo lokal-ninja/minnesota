@@ -1,11 +1,11 @@
 id: 547164415
-type: way
+type: node
 latitude: 44.93747
 longitude: -93.29137
 postcode: "55408"
 city: Minneapolis
-street: "West 36th Street"
-housenumber: 911
-phone: "+1-612-315-2894"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://knowmadadventures.com/"
+street: West 36th Street
+housenumber: "911"
+phone: +1-612-315-2894
+opening_hours: Mo-Fr 09:00-17:00
+website: https://knowmadadventures.com/

@@ -1,11 +1,11 @@
 id: 202864465
-type: way
+type: node
 latitude: 44.91171
 longitude: -93.22273
 postcode: "55417"
 city: Minneapolis
-street: "34th Avenue South"
-housenumber: 
+street: 34th Avenue South
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

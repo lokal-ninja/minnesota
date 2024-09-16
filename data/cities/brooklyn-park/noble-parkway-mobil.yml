@@ -1,11 +1,11 @@
 id: 543014356
-type: way
+type: node
 latitude: 45.12747
 longitude: -93.3346
 postcode: "55443"
 city: brooklyn park
-street: "Noble Parkway"
-housenumber: 9500
-phone: "+1 763 3152886"
+street: Noble Parkway
+housenumber: "9500"
+phone: +1 763 3152886
 opening_hours: ""
-website: "www.nobleparkwaymobil.com"
+website: www.nobleparkwaymobil.com

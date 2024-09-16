@@ -1,11 +1,11 @@
 id: 56541620
-type: way
+type: node
 latitude: 44.95309
 longitude: -93.16021
 postcode: "55104"
 city: Saint Paul
-street: "University Avenue"
-housenumber: 1440
-phone: "+1-651-646-1003"
-opening_hours: "24/7"
-website: "https://www.cub.com/stores/view-store.1614.html"
+street: University Avenue
+housenumber: "1440"
+phone: +1-651-646-1003
+opening_hours: 24/7
+website: https://www.cub.com/stores/view-store.1614.html

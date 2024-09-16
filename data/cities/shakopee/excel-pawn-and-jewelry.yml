@@ -4,8 +4,8 @@ latitude: 44.79765
 longitude: -93.53194
 postcode: "55379"
 city: Shakopee
-street: "1st Avenue West"
-housenumber: 450
-phone: "+1-952-445-1876"
-opening_hours: "Mo-We 10:00-19:00; Th-Fr 10:00-20:00; Sa 09:30-19:00; Su 11:00-17:00"
-website: "https://www.excelpawn.com/"
+street: 1st Avenue West
+housenumber: "450"
+phone: +1-952-445-1876
+opening_hours: Mo-We 10:00-19:00; Th-Fr 10:00-20:00; Sa 09:30-19:00; Su 11:00-17:00
+website: https://www.excelpawn.com/

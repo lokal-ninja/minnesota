@@ -1,11 +1,11 @@
 id: 556516039
-type: way
+type: node
 latitude: 45.20814
 longitude: -93.55153
 postcode: "55374"
 city: Rogers
-street: "Main Street"
-housenumber: 14080
+street: Main Street
+housenumber: "14080"
 phone: ""
 opening_hours: ""
 website: ""

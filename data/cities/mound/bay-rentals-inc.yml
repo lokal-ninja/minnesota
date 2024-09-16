@@ -1,11 +1,11 @@
 id: 1309190839
-type: way
+type: node
 latitude: 44.93048
 longitude: -93.66914
 postcode: "55364"
 city: Mound
-street: "Commerce Boulevard"
-housenumber: 2630
+street: Commerce Boulevard
+housenumber: "2630"
 phone: "+19524740366"
 opening_hours: ""
-website: "https://www.bayrentalsmn.com/"
+website: https://www.bayrentalsmn.com/

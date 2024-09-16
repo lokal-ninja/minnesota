@@ -1,11 +1,11 @@
 id: 164124546
-type: way
+type: node
 latitude: 45.0571
 longitude: -93.14474
-postcode: "55126-2916"
+postcode: 55126-2916
 city: Shoreview
-street: "Lexington Avenue North"
-housenumber: 3800
-phone: "+1 651-486-0048"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/shoreview/619"
+street: Lexington Avenue North
+housenumber: "3800"
+phone: +1 651-486-0048
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/shoreview/619

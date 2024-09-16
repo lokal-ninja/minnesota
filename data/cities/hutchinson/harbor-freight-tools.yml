@@ -1,11 +1,11 @@
 id: 1152302956
-type: way
+type: node
 latitude: 44.86914
 longitude: -94.37805
-postcode: "55350-3801"
+postcode: 55350-3801
 city: Hutchinson
-street: "State Highway 15"
-housenumber: 1350
-phone: "+1 320-464-4041"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/1350-highway-15-s-suite-100-hutchinson-55350?number=3325"
+street: State Highway 15
+housenumber: "1350"
+phone: +1 320-464-4041
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/1350-highway-15-s-suite-100-hutchinson-55350?number=3325

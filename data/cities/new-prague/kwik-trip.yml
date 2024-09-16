@@ -1,11 +1,11 @@
 id: 1042373255
-type: way
+type: node
 latitude: 44.5444
 longitude: -93.58596
 postcode: "56071"
 city: New Prague
-street: "4th Avenue Northwest"
-housenumber: 100
+street: 4th Avenue Northwest
+housenumber: "100"
 phone: "+19527583390"
-opening_hours: "24/7"
-website: "https://www.kwiktrip.com/locator/store?id=926"
+opening_hours: 24/7
+website: https://www.kwiktrip.com/locator/store?id=926

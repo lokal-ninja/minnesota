@@ -1,11 +1,11 @@
 id: 829487496
-type: way
+type: node
 latitude: 47.90282
 longitude: -91.83874
 postcode: "55731"
 city: Ely
-street: "East Sheridan Street"
-housenumber: 1842
+street: East Sheridan Street
+housenumber: "1842"
 phone: ""
 opening_hours: ""
 website: ""

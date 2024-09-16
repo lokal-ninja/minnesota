@@ -1,11 +1,11 @@
 id: 386882078
-type: way
+type: node
 latitude: 47.10036
 longitude: -94.58507
 postcode: "56484"
 city: Walker
-street: "Michigan Avenue"
-housenumber: 617
+street: Michigan Avenue
+housenumber: "617"
 phone: ""
 opening_hours: ""
 website: ""

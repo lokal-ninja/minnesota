@@ -1,11 +1,11 @@
 id: 260492259
-type: way
+type: node
 latitude: 44.73089
 longitude: -93.20827
 postcode: "55124"
 city: Apple Valley
-street: "Galaxie Avenue"
-housenumber: 15051
+street: Galaxie Avenue
+housenumber: "15051"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/apple-valley-mn-pharmacies/15051-galaxie-ave-apple-valley-mn-55124/storeid=663"
+website: https://www.cvs.com/store-locator/apple-valley-mn-pharmacies/15051-galaxie-ave-apple-valley-mn-55124/storeid=663

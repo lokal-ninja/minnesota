@@ -1,11 +1,11 @@
 id: 186981258
-type: way
+type: node
 latitude: 44.75126
 longitude: -93.2907
 postcode: "55337"
 city: Burnsville
-street: "Aldrich Avenue South"
-housenumber: 13900
-phone: "+1 952-890-2450"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/mn/burnsville-49.shtml"
+street: Aldrich Avenue South
+housenumber: "13900"
+phone: +1 952-890-2450
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/mn/burnsville-49.shtml

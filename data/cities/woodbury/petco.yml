@@ -1,11 +1,11 @@
 id: 954040907
-type: way
+type: node
 latitude: 44.92623
 longitude: -92.96406
 postcode: "55125"
 city: Woodbury
-street: "Valley Creek Plaza"
-housenumber: 7040
-phone: "+1 651-739-9122"
-opening_hours: "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/mn/woodbury/pet-supplies-woodbury-mn-1650.html"
+street: Valley Creek Plaza
+housenumber: "7040"
+phone: +1 651-739-9122
+opening_hours: Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/mn/woodbury/pet-supplies-woodbury-mn-1650.html

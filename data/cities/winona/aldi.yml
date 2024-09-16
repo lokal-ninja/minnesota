@@ -2,10 +2,10 @@ id: 8912654195
 type: node
 latitude: 44.0467
 longitude: -91.67711
-postcode: "55987-2512"
+postcode: 55987-2512
 city: Winona
-street: "Service Drive"
-housenumber: 1443
-phone: "+1 833-472-7119"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/mn/winona/1443-service-drive"
+street: Service Drive
+housenumber: "1443"
+phone: +1 833-472-7119
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/mn/winona/1443-service-drive

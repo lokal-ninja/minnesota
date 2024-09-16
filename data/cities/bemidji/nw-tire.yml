@@ -1,11 +1,11 @@
 id: 387030468
-type: way
+type: node
 latitude: 47.4577
 longitude: -94.8633
 postcode: "56601"
 city: Bemidji
-street: "Paul Bunyan Drive Southeast"
-housenumber: 402
-phone: "+1-218-751-3361"
+street: Paul Bunyan Drive Southeast
+housenumber: "402"
+phone: +1-218-751-3361
 opening_hours: ""
-website: "https://www.nwtire.com/"
+website: https://www.nwtire.com/

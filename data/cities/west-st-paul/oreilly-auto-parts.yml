@@ -1,11 +1,11 @@
 id: 380002220
-type: way
+type: node
 latitude: 44.91141
 longitude: -93.08128
 postcode: "55118"
 city: West St Paul
-street: "Robert Street South"
-housenumber: 1155
+street: Robert Street South
+housenumber: "1155"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/mn/westsaintpaul/autoparts-1542.html"
+website: https://locations.oreillyauto.com/mn/westsaintpaul/autoparts-1542.html

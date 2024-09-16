@@ -1,11 +1,11 @@
 id: 674325278
-type: way
+type: node
 latitude: 44.93851
 longitude: -93.34818
 postcode: "55416"
 city: Saint Louis Park
-street: "MN-100"
-housenumber: 3575
-phone: "+1 952 920 8121"
+street: MN-100
+housenumber: "3575"
+phone: +1 952 920 8121
 opening_hours: ""
-website: "https://www.goodwill.org/"
+website: https://www.goodwill.org/

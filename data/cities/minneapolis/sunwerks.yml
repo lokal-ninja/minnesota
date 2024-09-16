@@ -4,8 +4,8 @@ latitude: 44.94699
 longitude: -93.32246
 postcode: "55416"
 city: Minneapolis
-street: "Excelsior Boulevard"
-housenumber: 3070
+street: Excelsior Boulevard
+housenumber: "3070"
 phone: "+16122856000"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-19:00; Su 10:00-19:00; PH closed"
-website: "https://sunwerks.com/"
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-19:00; Su 10:00-19:00; PH closed
+website: https://sunwerks.com/

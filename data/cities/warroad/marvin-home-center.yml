@@ -1,11 +1,11 @@
 id: 265291560
-type: way
+type: node
 latitude: 48.90667
 longitude: -95.31896
 postcode: "56763"
 city: Warroad
-street: "State Avenue"
-housenumber: 104
-phone: "+1 218-386-2570"
-opening_hours: "Mo-Sa 08:00-18:00; Su 10:00-18:00"
+street: State Avenue
+housenumber: "104"
+phone: +1 218-386-2570
+opening_hours: Mo-Sa 08:00-18:00; Su 10:00-18:00
 website: ""

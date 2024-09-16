@@ -1,11 +1,11 @@
 id: 60942987
-type: way
+type: node
 latitude: 46.82462
 longitude: -92.18698
 postcode: "55811"
 city: Hermantown
-street: "Miller Trunk Highway"
-housenumber: 4809
+street: Miller Trunk Highway
+housenumber: "4809"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3054"
+website: https://www.menards.com/store-details/store.html?store=3054

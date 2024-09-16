@@ -1,11 +1,11 @@
 id: 166541956
-type: way
+type: node
 latitude: 44.92241
 longitude: -93.32793
 postcode: "55410"
 city: Minneapolis
-street: "West 44th Street"
-housenumber: 3723
+street: West 44th Street
+housenumber: "3723"
 phone: "6129262654"
-opening_hours: "Mo-Sa 09:00-19:00; Su 09:00-18:00"
-website: "https://sunnyside-gardens.com/trill/"
+opening_hours: Mo-Sa 09:00-19:00; Su 09:00-18:00
+website: https://sunnyside-gardens.com/trill/

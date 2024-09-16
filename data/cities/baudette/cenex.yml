@@ -1,11 +1,11 @@
 id: 1008797775
-type: way
+type: node
 latitude: 48.71272
 longitude: -94.61353
 postcode: "56623"
 city: Baudette
-street: "Main Street West"
-housenumber: 903
+street: Main Street West
+housenumber: "903"
 phone: ""
 opening_hours: ""
 website: ""

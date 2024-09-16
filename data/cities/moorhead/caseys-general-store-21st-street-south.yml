@@ -1,11 +1,11 @@
 id: 215823162
-type: way
+type: node
 latitude: 46.87218
 longitude: -96.74765
 postcode: "56560"
 city: Moorhead
-street: "21st Street South"
-housenumber: 203
+street: 21st Street South
+housenumber: "203"
 phone: ""
 opening_hours: ""
 website: ""

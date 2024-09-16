@@ -1,11 +1,11 @@
 id: 613971287
-type: way
+type: node
 latitude: 45.10084
 longitude: -93.44816
 postcode: "55369"
 city: Maple Grove
-street: "Wedgewood Lane"
-housenumber: 8080
+street: Wedgewood Lane
+housenumber: "8080"
 phone: "+17634204919"
-opening_hours: "Mo-Th 09:00-22:00;Fr 09:00-23:00;Sa 08:00-23:00;Su 09:00-21:00"
-website: "https://www.kohls.com/stores/mn/maplegrove-241.shtml"
+opening_hours: Mo-Th 09:00-22:00;Fr 09:00-23:00;Sa 08:00-23:00;Su 09:00-21:00
+website: https://www.kohls.com/stores/mn/maplegrove-241.shtml

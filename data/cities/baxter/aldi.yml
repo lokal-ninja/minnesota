@@ -1,11 +1,11 @@
 id: 963521018
-type: way
+type: node
 latitude: 46.36422
 longitude: -94.24285
-postcode: "56425-7944"
+postcode: 56425-7944
 city: Baxter
-street: "Dellwood Drive North"
-housenumber: 14620
-phone: "+1 833-472-7007"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/mn/baxter/14620-dellwood-drive-n"
+street: Dellwood Drive North
+housenumber: "14620"
+phone: +1 833-472-7007
+opening_hours: Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00
+website: https://stores.aldi.us/mn/baxter/14620-dellwood-drive-n

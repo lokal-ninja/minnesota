@@ -1,11 +1,11 @@
 id: 709037731
-type: way
+type: node
 latitude: 44.43465
 longitude: -95.77324
 postcode: "56258"
 city: Marshall
-street: "East Main Street"
-housenumber: 1100
+street: East Main Street
+housenumber: "1100"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 800891819
-type: way
+type: node
 latitude: 44.05223
 longitude: -91.63793
 postcode: "55987"
 city: Winona
-street: "Main Street"
-housenumber: 164
-phone: "+1-507-452-2222"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 08:00-12:00"
-website: "https://hangerstohems.com/winona_location.html"
+street: Main Street
+housenumber: "164"
+phone: +1-507-452-2222
+opening_hours: Mo-Fr 07:30-17:30; Sa 08:00-12:00
+website: https://hangerstohems.com/winona_location.html

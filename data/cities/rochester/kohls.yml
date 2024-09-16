@@ -4,8 +4,8 @@ latitude: 43.98453
 longitude: -92.45944
 postcode: "55904"
 city: Rochester
-street: "25th Street Southeast"
-housenumber: 20
-phone: "+1 507-529-7700"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/mn/rochester-360.shtml"
+street: 25th Street Southeast
+housenumber: "20"
+phone: +1 507-529-7700
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/mn/rochester-360.shtml

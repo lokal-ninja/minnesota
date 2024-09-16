@@ -1,11 +1,11 @@
 id: 88538773
-type: way
+type: node
 latitude: 44.94177
 longitude: -93.29862
 postcode: "55408"
 city: Minneapolis
-street: "Hennepin Avenue South"
-housenumber: 3338
+street: Hennepin Avenue South
+housenumber: "3338"
 phone: ""
 opening_hours: ""
-website: "https://www.salonlaterre.com/"
+website: https://www.salonlaterre.com/

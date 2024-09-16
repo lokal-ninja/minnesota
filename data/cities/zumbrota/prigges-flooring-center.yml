@@ -1,11 +1,11 @@
 id: 155246322
-type: way
+type: node
 latitude: 44.28375
 longitude: -92.66833
 postcode: "55992"
 city: Zumbrota
-street: "Main Street"
-housenumber: 1559
+street: Main Street
+housenumber: "1559"
 phone: ""
 opening_hours: ""
 website: ""

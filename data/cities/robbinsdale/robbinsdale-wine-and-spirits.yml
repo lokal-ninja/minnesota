@@ -1,11 +1,11 @@
 id: 762950319
-type: way
+type: node
 latitude: 45.01912
 longitude: -93.32747
 postcode: "55422"
 city: Robbinsdale
-street: "Bottineau Boulevard"
-housenumber: 3501
+street: Bottineau Boulevard
+housenumber: "3501"
 phone: ""
 opening_hours: ""
 website: ""

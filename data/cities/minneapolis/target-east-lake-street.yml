@@ -1,11 +1,11 @@
 id: 44414329
-type: way
+type: node
 latitude: 44.9498
 longitude: -93.23795
 postcode: "55406"
 city: Minneapolis
-street: "East Lake Street"
-housenumber: 2500
-phone: "+1 612-721-5701"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/east-lake-street-and-hwy-55/52"
+street: East Lake Street
+housenumber: "2500"
+phone: +1 612-721-5701
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/east-lake-street-and-hwy-55/52

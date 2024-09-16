@@ -1,11 +1,11 @@
 id: 144869502
-type: way
+type: node
 latitude: 43.99841
 longitude: -92.24547
 postcode: "55934"
 city: Eyota
-street: "Highway 14 SE"
-housenumber: 11634
-phone: "+1-507-545-0100"
+street: Highway 14 SE
+housenumber: "11634"
+phone: +1-507-545-0100
 opening_hours: ""
-website: "http://www.dahltrucks.com/"
+website: http://www.dahltrucks.com/

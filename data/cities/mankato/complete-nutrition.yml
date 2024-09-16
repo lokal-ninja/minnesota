@@ -1,11 +1,11 @@
 id: 1110385979
-type: way
+type: node
 latitude: 44.16873
 longitude: -93.95205
 postcode: "56001"
 city: Mankato
-street: "Sioux Road"
-housenumber: 121
+street: Sioux Road
+housenumber: "121"
 phone: ""
-opening_hours: "Mo-Fr 12:00-18:00; Sa-Su 12:00-17:00"
+opening_hours: Mo-Fr 12:00-18:00; Sa-Su 12:00-17:00
 website: ""

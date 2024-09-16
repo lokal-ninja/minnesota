@@ -1,11 +1,11 @@
 id: 1202856412
-type: way
+type: node
 latitude: 47.36989
 longitude: -93.17135
 postcode: "55769"
 city: Nashwauk
-street: "1st Street"
-housenumber: 830
-phone: "+1-218-885-2021"
+street: 1st Street
+housenumber: "830"
+phone: +1-218-885-2021
 opening_hours: ""
 website: ""

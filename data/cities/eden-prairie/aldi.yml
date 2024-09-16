@@ -1,11 +1,11 @@
 id: 524515003
-type: way
+type: node
 latitude: 44.84786
 longitude: -93.43941
-postcode: "55344-7662"
+postcode: 55344-7662
 city: Eden Prairie
-street: "Columbine Road"
-housenumber: 8595
-phone: "+1 833-472-7009"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/mn/eden-prairie/8595-columbine-road"
+street: Columbine Road
+housenumber: "8595"
+phone: +1 833-472-7009
+opening_hours: Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00
+website: https://stores.aldi.us/mn/eden-prairie/8595-columbine-road

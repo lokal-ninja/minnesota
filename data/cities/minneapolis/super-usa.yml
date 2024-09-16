@@ -1,11 +1,11 @@
 id: 65728478
-type: way
+type: node
 latitude: 44.93409
 longitude: -93.22321
 postcode: "55406"
 city: Minneapolis
-street: "Minnehaha Avenue"
-housenumber: 3801
+street: Minnehaha Avenue
+housenumber: "3801"
 phone: ""
 opening_hours: ""
 website: ""

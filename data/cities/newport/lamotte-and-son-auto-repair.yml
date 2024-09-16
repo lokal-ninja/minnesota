@@ -1,11 +1,11 @@
 id: 493780978
-type: way
+type: node
 latitude: 44.88086
 longitude: -93.00654
 postcode: "55055"
 city: Newport
-street: "2nd Avenue"
-housenumber: 2163
+street: 2nd Avenue
+housenumber: "2163"
 phone: ""
 opening_hours: ""
 website: ""

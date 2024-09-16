@@ -1,11 +1,11 @@
 id: 42850388
-type: way
+type: node
 latitude: 44.86018
 longitude: -93.52996
 postcode: "55317"
 city: Chanhassen
-street: "West 79th Street"
-housenumber: 335
+street: West 79th Street
+housenumber: "335"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/mn/chanhassen/oil-change-010042.html"
+website: https://store.vioc.com/mn/chanhassen/oil-change-010042.html

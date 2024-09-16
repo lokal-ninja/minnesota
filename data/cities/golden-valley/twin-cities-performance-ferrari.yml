@@ -1,11 +1,11 @@
 id: 52459505
-type: way
+type: node
 latitude: 44.97261
 longitude: -93.39684
 postcode: "55426"
 city: Golden Valley
-street: "Wayzata Boulevard"
-housenumber: 9191
+street: Wayzata Boulevard
+housenumber: "9191"
 phone: "+17633301080"
 opening_hours: ""
-website: "https://minneapolis.ferraridealers.com/en_us/cars?utm_source=gmb&utm_medium=organic"
+website: https://minneapolis.ferraridealers.com/en_us/cars?utm_source=gmb&utm_medium=organic

@@ -1,11 +1,11 @@
 id: 993166653
-type: way
+type: node
 latitude: 43.92946
 longitude: -93.95573
 postcode: "56065"
 city: Mapleton
-street: "2nd Avenue Northeast"
-housenumber: 
+street: 2nd Avenue Northeast
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 6878601254
 type: node
 latitude: 48.84693
 longitude: -95.78018
-postcode: "56751-1906"
+postcode: 56751-1906
 city: Roseau
-street: "3rd Street Northwest"
-housenumber: 1114
-phone: "+1 218-463-2175"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 09:00-17:00"
+street: 3rd Street Northwest
+housenumber: "1114"
+phone: +1 218-463-2175
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 09:00-17:00
 website: ""

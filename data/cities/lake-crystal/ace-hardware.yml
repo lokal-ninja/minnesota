@@ -2,10 +2,10 @@ id: 10699212345
 type: node
 latitude: 44.10676
 longitude: -94.21831
-postcode: "56055-2432"
+postcode: 56055-2432
 city: Lake Crystal
-street: "South Main Street"
-housenumber: 106
-phone: "+1 507-726-2829"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su 10:00-14:00"
+street: South Main Street
+housenumber: "106"
+phone: +1 507-726-2829
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su 10:00-14:00
 website: ""

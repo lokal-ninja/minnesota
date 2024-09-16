@@ -1,11 +1,11 @@
 id: 161379227
-type: way
+type: node
 latitude: 44.9481
 longitude: -93.23683
 postcode: "55406"
 city: Minneapolis
-street: "East Lake Street"
-housenumber: 2401
-phone: "+1 612 866 5840"
+street: East Lake Street
+housenumber: "2401"
+phone: +1 612 866 5840
 opening_hours: ""
-website: "https://www.theliftgarage.org/"
+website: https://www.theliftgarage.org/

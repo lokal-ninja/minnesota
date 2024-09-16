@@ -1,11 +1,11 @@
 id: 507772702
-type: way
+type: node
 latitude: 44.63947
 longitude: -93.14479
 postcode: "55024"
 city: Farmington
-street: "3rd Street"
-housenumber: 341
-phone: "+1-651-463-8696"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-18:00"
-website: "https://www.townsportsmn.com"
+street: 3rd Street
+housenumber: "341"
+phone: +1-651-463-8696
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-18:00
+website: https://www.townsportsmn.com

@@ -1,11 +1,11 @@
 id: 514513205
-type: way
+type: node
 latitude: 44.62968
 longitude: -93.13597
 postcode: "55024"
 city: Farmington
-street: "Chippendale Avenue"
-housenumber: 22080
-phone: "+1-651-463-8867"
+street: Chippendale Avenue
+housenumber: "22080"
+phone: +1-651-463-8867
 opening_hours: ""
-website: "http://autobodyexcellence.com"
+website: http://autobodyexcellence.com

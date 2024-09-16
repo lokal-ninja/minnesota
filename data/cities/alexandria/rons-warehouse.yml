@@ -4,8 +4,8 @@ latitude: 45.88841
 longitude: -95.35736
 postcode: "56308"
 city: Alexandria
-street: "3rd Avenue East"
-housenumber: 1408
-phone: "+1-320-763-5555"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-17:30; Su closed"
-website: "https://www.ronswarehouse.com/"
+street: 3rd Avenue East
+housenumber: "1408"
+phone: +1-320-763-5555
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-17:30; Su closed
+website: https://www.ronswarehouse.com/

@@ -1,11 +1,11 @@
 id: 95951338
-type: way
+type: node
 latitude: 44.95346
 longitude: -93.1567
 postcode: "55104"
 city: Saint Paul
-street: "University Avenue"
-housenumber: 1300
-phone: "+1-651-642-1146"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.target.com/sl/st-paul-midway/2229"
+street: University Avenue
+housenumber: "1300"
+phone: +1-651-642-1146
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.target.com/sl/st-paul-midway/2229

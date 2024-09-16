@@ -1,11 +1,11 @@
 id: 954078994
-type: way
+type: node
 latitude: 44.92534
 longitude: -92.95852
 postcode: "55125"
 city: Woodbury
-street: "Queens Drive"
-housenumber: 1615
+street: Queens Drive
+housenumber: "1615"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1615+queens+dr-woodbury-mn-55125/id=10188"
+website: https://www.walgreens.com/locator/walgreens-1615+queens+dr-woodbury-mn-55125/id=10188

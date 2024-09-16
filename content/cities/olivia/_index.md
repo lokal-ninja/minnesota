@@ -1,6 +1,6 @@
 ---
 title: Olivia
 url: /olivia/
-latitude: 44.776
-longitude: -94.989
+latitude: 44.777
+longitude: -94.992
 ---

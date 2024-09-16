@@ -1,11 +1,11 @@
 id: 967135532
-type: way
+type: node
 latitude: 44.93265
 longitude: -93.00421
 postcode: "55119"
 city: Maplewood
-street: "McKnight Road South"
-housenumber: 280
+street: McKnight Road South
+housenumber: "280"
 phone: ""
 opening_hours: ""
 website: ""

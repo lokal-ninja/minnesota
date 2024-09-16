@@ -1,11 +1,11 @@
 id: 1190287660
-type: way
+type: node
 latitude: 45.1682
 longitude: -93.85731
 postcode: "55313"
 city: Buffalo
-street: "3rd Street South"
-housenumber: 1004
+street: 3rd Street South
+housenumber: "1004"
 phone: ""
 opening_hours: ""
 website: ""

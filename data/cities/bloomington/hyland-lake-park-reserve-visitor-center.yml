@@ -1,11 +1,11 @@
 id: 89124562
-type: way
+type: node
 latitude: 44.82491
 longitude: -93.3718
 postcode: "55438"
 city: Bloomington
-street: "East Bush Lake Road"
-housenumber: 10145
+street: East Bush Lake Road
+housenumber: "10145"
 phone: ""
 opening_hours: ""
 website: ""

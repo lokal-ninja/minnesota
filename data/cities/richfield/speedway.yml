@@ -1,11 +1,11 @@
 id: 304731715
-type: way
+type: node
 latitude: 44.88329
 longitude: -93.31715
 postcode: "55423"
 city: Richfield
-street: "West 66th Street"
-housenumber: 2913
+street: West 66th Street
+housenumber: "2913"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/MN/Richfield/2913-W-66th-St"
+website: https://www.speedway.com/locations/MN/Richfield/2913-W-66th-St

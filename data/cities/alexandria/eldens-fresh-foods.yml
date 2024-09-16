@@ -4,8 +4,8 @@ latitude: 45.89016
 longitude: -95.36786
 postcode: "56308"
 city: Alexandria
-street: "3rd Avenue East"
-housenumber: 707
-phone: "+1-320-763-3446"
-opening_hours: "24/7"
-website: "https://www.eldens.com"
+street: 3rd Avenue East
+housenumber: "707"
+phone: +1-320-763-3446
+opening_hours: 24/7
+website: https://www.eldens.com

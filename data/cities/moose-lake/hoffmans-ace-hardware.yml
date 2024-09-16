@@ -1,11 +1,11 @@
 id: 1236457746
-type: way
+type: node
 latitude: 46.44841
 longitude: -92.76824
 postcode: "55767"
 city: Moose Lake
-street: "Arrowhead Lane"
-housenumber: 40
-phone: "+1 218-485-4211"
-opening_hours: "Mo-Sa 08:00-17:00; Su 10:00-14:00"
+street: Arrowhead Lane
+housenumber: "40"
+phone: +1 218-485-4211
+opening_hours: Mo-Sa 08:00-17:00; Su 10:00-14:00
 website: ""

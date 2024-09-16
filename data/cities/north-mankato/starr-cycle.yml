@@ -1,11 +1,11 @@
 id: 1116106559
-type: way
+type: node
 latitude: 44.1807
 longitude: -94.00793
 postcode: "56003"
 city: North Mankato
-street: "Pierce Avenue"
-housenumber: 200
+street: Pierce Avenue
+housenumber: "200"
 phone: ""
-opening_hours: "Tu-We,Fr 09:00-17:30; Th 09:00-19:00; Sa 09:00-15:00"
+opening_hours: Tu-We,Fr 09:00-17:30; Th 09:00-19:00; Sa 09:00-15:00
 website: ""

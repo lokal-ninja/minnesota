@@ -1,11 +1,11 @@
 id: 316003609
-type: way
+type: node
 latitude: 44.97305
 longitude: -93.26349
 postcode: "55415"
 city: Minneapolis
-street: "South 7th Street"
-housenumber: 619
-phone: "+1 612 333 1339"
+street: South 7th Street
+housenumber: "619"
+phone: +1 612 333 1339
 opening_hours: ""
-website: "https://lehmansgarage.com/"
+website: https://lehmansgarage.com/

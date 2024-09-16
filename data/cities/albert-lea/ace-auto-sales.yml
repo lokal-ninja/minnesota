@@ -1,11 +1,11 @@
 id: 1084140385
-type: way
+type: node
 latitude: 43.68129
 longitude: -93.35999
 postcode: "56007"
 city: Albert Lea
-street: "Bridge Avenue"
-housenumber: 2517
+street: Bridge Avenue
+housenumber: "2517"
 phone: ""
 opening_hours: ""
-website: "https://www.aceautosalesmn.com/"
+website: https://www.aceautosalesmn.com/

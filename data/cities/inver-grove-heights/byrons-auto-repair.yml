@@ -1,11 +1,11 @@
 id: 531053777
-type: way
+type: node
 latitude: 44.8591
 longitude: -93.02035
 postcode: "55076"
 city: Inver Grove Heights
-street: "Concord Boulevard"
-housenumber: 6250
+street: Concord Boulevard
+housenumber: "6250"
 phone: ""
 opening_hours: ""
 website: ""

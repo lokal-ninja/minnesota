@@ -1,11 +1,11 @@
 id: 354604822
-type: way
+type: node
 latitude: 44.42751
 longitude: -93.20031
 postcode: "55019"
 city: Dundas
-street: "Schilling Drive South"
-housenumber: 100
+street: Schilling Drive South
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3177"
+website: https://www.menards.com/store-details/store.html?store=3177

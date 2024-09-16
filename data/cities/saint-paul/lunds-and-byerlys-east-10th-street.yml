@@ -4,8 +4,8 @@ latitude: 44.95141
 longitude: -93.09506
 postcode: "55101"
 city: Saint Paul
-street: "East 10th Street"
-housenumber: 115
-phone: "+1 651 999 1600"
-opening_hours: "06:00-22:00"
-website: "https://lundsandbyerlys.com/our-stores/locations/downtown-st-paul/"
+street: East 10th Street
+housenumber: "115"
+phone: +1 651 999 1600
+opening_hours: 06:00-22:00
+website: https://lundsandbyerlys.com/our-stores/locations/downtown-st-paul/

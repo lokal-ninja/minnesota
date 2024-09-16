@@ -1,11 +1,11 @@
 id: 544878740
-type: way
+type: node
 latitude: 44.33583
 longitude: -93.94934
 postcode: "56082"
 city: Saint Peter
-street: "Old Minnesota Avenue"
-housenumber: 969
+street: Old Minnesota Avenue
+housenumber: "969"
 phone: ""
 opening_hours: ""
 website: ""

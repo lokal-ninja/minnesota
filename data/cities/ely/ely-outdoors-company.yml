@@ -1,11 +1,11 @@
 id: 1263804325
-type: way
+type: node
 latitude: 47.90303
 longitude: -91.85876
 postcode: "55731"
 city: Ely
-street: "East Sheridan Street"
-housenumber: 528
-phone: "+1-218-365-4844"
+street: East Sheridan Street
+housenumber: "528"
+phone: +1-218-365-4844
 opening_hours: ""
-website: "https://www.paddlethebwca.com/"
+website: https://www.paddlethebwca.com/

@@ -1,11 +1,11 @@
 id: 1116120086
-type: way
+type: node
 latitude: 44.1828
 longitude: -94.01344
 postcode: "56003"
 city: North Mankato
-street: "Center Street"
-housenumber: 1120
+street: Center Street
+housenumber: "1120"
 phone: ""
 opening_hours: ""
 website: ""

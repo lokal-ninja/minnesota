@@ -1,11 +1,11 @@
 id: 1098400835
-type: way
+type: node
 latitude: 47.00919
 longitude: -91.71128
 postcode: "55616"
 city: Two Harbors
-street: "Scenic Drive"
-housenumber: 893
-phone: "+1-218-228-0443"
-opening_hours: "Mo-Th 09:00-20:00, Fr 09:00-18:00, Sa 09:00-17:00"
-website: "https://www.sonju.com"
+street: Scenic Drive
+housenumber: "893"
+phone: +1-218-228-0443
+opening_hours: Mo-Th 09:00-20:00, Fr 09:00-18:00, Sa 09:00-17:00
+website: https://www.sonju.com

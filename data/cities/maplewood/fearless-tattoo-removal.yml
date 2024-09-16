@@ -4,8 +4,9 @@ latitude: 45.00071
 longitude: -93.08843
 postcode: "55117"
 city: Maplewood
-street: "Sloan Pl Ste 70"
-housenumber: 1973
-phone: "612-387-8022"
-opening_hours: "Monday to Friday: 9:00 am to 8:00 pm | Saturday: 9:00 am to 6:00 pm | Sunday: closed"
-website: "https://www.fearlesstattooremoval.com/"
+street: Sloan Pl Ste 70
+housenumber: "1973"
+phone: 612-387-8022
+opening_hours: 'Monday to Friday: 9:00 am to 8:00 pm | Saturday: 9:00 am to 6:00 pm
+    | Sunday: closed'
+website: https://www.fearlesstattooremoval.com/

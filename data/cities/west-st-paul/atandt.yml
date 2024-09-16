@@ -1,11 +1,11 @@
 id: 527084220
-type: way
+type: node
 latitude: 44.88628
 longitude: -93.08002
 postcode: "55118"
 city: West St Paul
-street: "Robert Street South"
-housenumber: 1980
+street: Robert Street South
+housenumber: "1980"
 phone: ""
 opening_hours: ""
 website: ""

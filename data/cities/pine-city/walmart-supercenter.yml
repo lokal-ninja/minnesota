@@ -1,11 +1,11 @@
 id: 629210003
-type: way
+type: node
 latitude: 45.81684
 longitude: -92.97742
 postcode: "55063"
 city: Pine City
-street: "11th Street Southwest"
-housenumber: 950
-phone: "+1 320-629-5845"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2367/pine-city-mn/whats-new"
+street: 11th Street Southwest
+housenumber: "950"
+phone: +1 320-629-5845
+opening_hours: 24/7
+website: https://www.walmart.com/store/2367/pine-city-mn/whats-new

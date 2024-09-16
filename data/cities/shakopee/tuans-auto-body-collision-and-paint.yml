@@ -1,11 +1,11 @@
 id: 309238326
-type: way
+type: node
 latitude: 44.80146
 longitude: -93.5146
 postcode: "55379"
 city: Shakopee
-street: "Bluff Avenue East"
-housenumber: 981
-phone: "+1-612-701-9249"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 10:00-16:00"
-website: "https://tuansautobody.com/"
+street: Bluff Avenue East
+housenumber: "981"
+phone: +1-612-701-9249
+opening_hours: Mo-Fr 08:00-18:00; Sa 10:00-16:00
+website: https://tuansautobody.com/

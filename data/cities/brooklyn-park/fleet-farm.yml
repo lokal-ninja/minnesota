@@ -1,11 +1,11 @@
 id: 62153018
-type: way
+type: node
 latitude: 45.10639
 longitude: -93.38856
 postcode: "55445"
 city: Brooklyn Park
-street: "Lakeland Avenue North"
-housenumber: 8400
+street: Lakeland Avenue North
+housenumber: "8400"
 phone: ""
 opening_hours: ""
 website: ""

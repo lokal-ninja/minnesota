@@ -4,8 +4,8 @@ latitude: 44.92353
 longitude: -93.3222
 postcode: "55410"
 city: Minneapolis
-street: "West 44th Street"
-housenumber: 3322
+street: West 44th Street
+housenumber: "3322"
 phone: ""
-opening_hours: ""
-website: "https://www.dunriteautomotive.net/"
+opening_hours: Mo-Fr 07:00-17:00
+website: https://www.dunriteautomotive.net/

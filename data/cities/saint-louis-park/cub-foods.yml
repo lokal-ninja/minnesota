@@ -1,11 +1,11 @@
 id: 167009790
-type: way
+type: node
 latitude: 44.96862
 longitude: -93.34846
 postcode: "55416"
 city: Saint Louis Park
-street: "Park Place Boulevard"
-housenumber: 5370
+street: Park Place Boulevard
+housenumber: "5370"
 phone: ""
 opening_hours: ""
 website: ""

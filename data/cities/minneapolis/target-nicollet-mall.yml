@@ -1,11 +1,11 @@
 id: 44684855
-type: way
+type: node
 latitude: 44.97544
 longitude: -93.27523
-postcode: "55403-2530"
+postcode: 55403-2530
 city: Minneapolis
-street: "Nicollet Mall"
-housenumber: 900
-phone: "+1 612-338-0085"
-opening_hours: "Mo-Sa 08:00-18:00; Su 09:00-18:00"
-website: "https://www.target.com/sl/mpls-nicollet-mall/1375"
+street: Nicollet Mall
+housenumber: "900"
+phone: +1 612-338-0085
+opening_hours: Mo-Sa 08:00-18:00; Su 09:00-18:00
+website: https://www.target.com/sl/mpls-nicollet-mall/1375

@@ -1,11 +1,11 @@
 id: 689402020
-type: way
+type: node
 latitude: 45.08502
 longitude: -93.00695
 postcode: "55110"
 city: White Bear Lake
-street: "4th Street"
-housenumber: 2218
-phone: "+1-651-429-7171"
+street: 4th Street
+housenumber: "2218"
+phone: +1-651-429-7171
 opening_hours: ""
 website: ""

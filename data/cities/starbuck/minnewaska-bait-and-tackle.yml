@@ -1,11 +1,11 @@
 id: 828252316
-type: way
+type: node
 latitude: 45.60945
 longitude: -95.53149
 postcode: "56381"
 city: Starbuck
-street: "North Main Street"
-housenumber: 202
+street: North Main Street
+housenumber: "202"
 phone: ""
 opening_hours: ""
 website: ""

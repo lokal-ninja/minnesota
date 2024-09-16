@@ -4,8 +4,8 @@ latitude: 45.55114
 longitude: -94.22252
 postcode: "56387"
 city: South
-street: "2nd Street"
-housenumber: 401
-phone: "+1 320-252-3262"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/st-cloud/mn/waite-park/56387/2811"
+street: 2nd Street
+housenumber: "401"
+phone: +1 320-252-3262
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/st-cloud/mn/waite-park/56387/2811

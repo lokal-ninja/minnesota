@@ -2,10 +2,10 @@ id: 4345272651
 type: node
 latitude: 45.55263
 longitude: -94.21203
-postcode: "56301-3706"
+postcode: 56301-3706
 city: St. Cloud
-street: "West Division Street"
-housenumber: 4150
-phone: "+1 320-255-0486"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/mn/st.-cloud/9456"
+street: West Division Street
+housenumber: "4150"
+phone: +1 320-255-0486
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/mn/st.-cloud/9456

@@ -1,11 +1,11 @@
 id: 965105150
-type: way
+type: node
 latitude: 45.13063
 longitude: -93.27219
-postcode: "55433-6019"
+postcode: 55433-6019
 city: Coon Rapids
-street: "Springbrook Drive"
-housenumber: 8800
-phone: "+1 833-472-7070"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/mn/coon-rapids/8800-springbrook-drive"
+street: Springbrook Drive
+housenumber: "8800"
+phone: +1 833-472-7070
+opening_hours: Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00
+website: https://stores.aldi.us/mn/coon-rapids/8800-springbrook-drive

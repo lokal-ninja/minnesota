@@ -1,11 +1,11 @@
 id: 528003922
-type: way
+type: node
 latitude: 44.71738
 longitude: -93.28443
 postcode: "55044"
 city: Lakeville
-street: "Buck Hill Road"
-housenumber: 16055
+street: Buck Hill Road
+housenumber: "16055"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:30"
+opening_hours: Mo-Fr 07:30-17:30
 website: ""

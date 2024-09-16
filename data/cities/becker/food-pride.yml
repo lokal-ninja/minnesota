@@ -1,11 +1,11 @@
 id: 712409918
-type: way
+type: node
 latitude: 45.39742
 longitude: -93.882
 postcode: "55308"
 city: Becker
-street: "1st Street"
-housenumber: 13499
-phone: "+1 763 262 2500"
+street: 1st Street
+housenumber: "13499"
+phone: +1 763 262 2500
 opening_hours: ""
 website: ""

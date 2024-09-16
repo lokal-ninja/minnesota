@@ -1,11 +1,11 @@
 id: 580198913
-type: way
+type: node
 latitude: 47.46063
 longitude: -92.53798
 postcode: ""
 city: Eveleth
-street: "Fayal Road"
-housenumber: 433
-phone: "+1-218-744-2871"
+street: Fayal Road
+housenumber: "433"
+phone: +1-218-744-2871
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 337191683
-type: way
+type: node
 latitude: 44.96669
 longitude: -92.95685
 postcode: "55128"
 city: Oakdale
-street: "Helmo Avenue North"
-housenumber: 1188
-phone: "651-730-5000"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://www.homfurniture.com/location/oakdale"
+street: Helmo Avenue North
+housenumber: "1188"
+phone: 651-730-5000
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: https://www.homfurniture.com/location/oakdale

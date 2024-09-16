@@ -1,11 +1,11 @@
 id: 370369140
-type: way
+type: node
 latitude: 43.99806
 longitude: -92.24492
 postcode: "55934"
 city: Eyota
-street: "Sandstone Drive NW"
-housenumber: 248
-phone: "+1-507-545-2500"
-opening_hours: "Mo-Fr 08:00-16:00; Sa 08:00-12:00"
-website: "https://www.treefrogtreasures.com/"
+street: Sandstone Drive NW
+housenumber: "248"
+phone: +1-507-545-2500
+opening_hours: Mo-Fr 08:00-16:00; Sa 08:00-12:00
+website: https://www.treefrogtreasures.com/

@@ -1,11 +1,11 @@
 id: 1190235871
-type: way
+type: node
 latitude: 45.15803
 longitude: -93.8483
 postcode: "55313"
 city: Buffalo
-street: "County Road 134 Northeast"
-housenumber: 1400
+street: County Road 134 Northeast
+housenumber: "1400"
 phone: ""
 opening_hours: ""
 website: ""

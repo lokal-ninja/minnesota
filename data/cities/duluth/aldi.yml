@@ -1,11 +1,11 @@
 id: 963519101
-type: way
+type: node
 latitude: 46.80593
 longitude: -92.1666
-postcode: "55811-3839"
+postcode: 55811-3839
 city: Duluth
-street: "Mall Drive"
-housenumber: 1724
-phone: "+1 833-472-7097"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/mn/duluth/1724-mall-drive"
+street: Mall Drive
+housenumber: "1724"
+phone: +1 833-472-7097
+opening_hours: Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00
+website: https://stores.aldi.us/mn/duluth/1724-mall-drive

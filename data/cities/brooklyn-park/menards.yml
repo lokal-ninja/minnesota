@@ -1,11 +1,11 @@
 id: 759167188
-type: way
+type: node
 latitude: 45.09756
 longitude: -93.38412
 postcode: "55445"
 city: Brooklyn Park
-street: "Lakeland North Avenue"
-housenumber: 7800
+street: Lakeland North Avenue
+housenumber: "7800"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3333"
+website: https://www.menards.com/store-details/store.html?store=3333

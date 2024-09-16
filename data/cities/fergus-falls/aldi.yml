@@ -1,11 +1,11 @@
 id: 963528804
-type: way
+type: node
 latitude: 46.2866
 longitude: -96.10477
-postcode: "56537-1016"
+postcode: 56537-1016
 city: Fergus Falls
-street: "West Lincoln Avenue"
-housenumber: 1802
-phone: "+1 833-472-7051"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/mn/fergus-falls/1802-w-lincoln-avenue"
+street: West Lincoln Avenue
+housenumber: "1802"
+phone: +1 833-472-7051
+opening_hours: Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00
+website: https://stores.aldi.us/mn/fergus-falls/1802-w-lincoln-avenue

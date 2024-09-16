@@ -1,11 +1,11 @@
 id: 427241642
-type: way
+type: node
 latitude: 45.29862
 longitude: -93.54911
 postcode: "55330"
 city: Elk River
-street: "Zane St, Northwest"
-housenumber: 18011
-phone: "+1 763-274-0543"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/elk-river/mn/elk-river/55330/2821"
+street: Zane St, Northwest
+housenumber: "18011"
+phone: +1 763-274-0543
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/elk-river/mn/elk-river/55330/2821

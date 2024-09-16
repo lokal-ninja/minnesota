@@ -4,8 +4,8 @@ latitude: 45.11911
 longitude: -93.40083
 postcode: "55369"
 city: Osseo
-street: "1st Avenue Northeast"
-housenumber: 233
-phone: "+1 763 600 6957"
-opening_hours: "by appointment"
-website: "https://www.jaideewellness.com/"
+street: 1st Avenue Northeast
+housenumber: "233"
+phone: +1 763 600 6957
+opening_hours: '"by appointment"'
+website: https://www.jaideewellness.com/

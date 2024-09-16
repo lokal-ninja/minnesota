@@ -1,11 +1,11 @@
 id: 320468975
-type: way
+type: node
 latitude: 44.78964
 longitude: -93.20701
 postcode: "55122"
 city: Eagan
-street: "Cliff Road"
-housenumber: 1992
-phone: "+1-651-452-8292"
+street: Cliff Road
+housenumber: "1992"
+phone: +1-651-452-8292
 opening_hours: ""
 website: ""

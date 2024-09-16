@@ -1,11 +1,11 @@
 id: 1002163251
-type: way
+type: node
 latitude: 44.94711
 longitude: -92.77047
 postcode: "55043"
 city: Lakeland Shores
-street: "Saint Croix Trail South"
-housenumber: 145
+street: Saint Croix Trail South
+housenumber: "145"
 phone: ""
 opening_hours: ""
-website: "https://www.shoresautomn.com/"
+website: https://www.shoresautomn.com/

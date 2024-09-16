@@ -1,11 +1,11 @@
 id: 1110572541
-type: way
+type: node
 latitude: 43.88894
 longitude: -94.1582
 postcode: "56010"
 city: Amboy
-street: "1st Avenue North"
-housenumber: 140
+street: 1st Avenue North
+housenumber: "140"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

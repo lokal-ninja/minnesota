@@ -1,11 +1,11 @@
 id: 762299265
-type: way
+type: node
 latitude: 45.10955
 longitude: -93.39402
 postcode: "55445"
 city: Brooklyn Park
-street: "Aspen Lane North"
-housenumber: 8565
+street: Aspen Lane North
+housenumber: "8565"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/mn/brooklynpark/oil-change-010073.html"
+website: https://store.vioc.com/mn/brooklynpark/oil-change-010073.html

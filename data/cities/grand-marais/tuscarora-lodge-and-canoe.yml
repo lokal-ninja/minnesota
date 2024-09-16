@@ -1,11 +1,11 @@
 id: 816315508
-type: way
+type: node
 latitude: 48.07348
 longitude: -90.82996
 postcode: "55604"
 city: Grand Marais
-street: "Round Lake Road"
-housenumber: 193
+street: Round Lake Road
+housenumber: "193"
 phone: ""
 opening_hours: ""
-website: "https://tuscaroracanoe.com/gettinghere/"
+website: https://tuscaroracanoe.com/gettinghere/

@@ -1,11 +1,11 @@
 id: 1068333002
-type: way
+type: node
 latitude: 44.1902
 longitude: -94.0128
 postcode: "56001"
 city: Mankato
-street: "West Lind Court"
-housenumber: 195
+street: West Lind Court
+housenumber: "195"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

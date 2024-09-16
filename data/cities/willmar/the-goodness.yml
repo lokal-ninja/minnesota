@@ -1,11 +1,11 @@
 id: 487178491
-type: way
+type: node
 latitude: 45.12145
 longitude: -95.04751
 postcode: "56201"
 city: Willmar
-street: "Litchfield Avenue Southwest"
-housenumber: 333
-phone: "+1 320 262 3766"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-17:00"
-website: "https://www.downtowngoodness.com/"
+street: Litchfield Avenue Southwest
+housenumber: "333"
+phone: +1 320 262 3766
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-17:00
+website: https://www.downtowngoodness.com/

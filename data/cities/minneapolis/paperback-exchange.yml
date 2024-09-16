@@ -4,8 +4,8 @@ latitude: 44.91224
 longitude: -93.30846
 postcode: "55419"
 city: Minneapolis
-street: "West 50th Street"
-housenumber: 2227
+street: West 50th Street
+housenumber: "2227"
 phone: ""
 opening_hours: ""
-website: "http://cargocollective.com/paperbackexchange"
+website: http://cargocollective.com/paperbackexchange

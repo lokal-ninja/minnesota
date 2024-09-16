@@ -1,11 +1,11 @@
 id: 288322268
-type: way
+type: node
 latitude: 45.09995
 longitude: -93.44672
 postcode: "55369"
 city: Maple Grove
-street: "Wedgewood Lane"
-housenumber: 8032
+street: Wedgewood Lane
+housenumber: "8032"
 phone: "+17632596020"
-opening_hours: "Mo-Fr 07:00-21:00;Sa 09:00-18:00;Su 11:00-18:00"
-website: "https://www.tileshop.com/store-locator/maple-grove.do"
+opening_hours: Mo-Fr 07:00-21:00;Sa 09:00-18:00;Su 11:00-18:00
+website: https://www.tileshop.com/store-locator/maple-grove.do

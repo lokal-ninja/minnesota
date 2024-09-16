@@ -1,11 +1,11 @@
 id: 533507272
-type: way
+type: node
 latitude: 44.8332
 longitude: -93.15527
 postcode: "55123"
 city: Eagan
-street: "Town Centre Drive"
-housenumber: 1235
-phone: "+1 651-365-0540"
+street: Town Centre Drive
+housenumber: "1235"
+phone: +1 651-365-0540
 opening_hours: ""
-website: "https://stores.bestbuy.com/mn/eagan/1235-town-centre-dr-1055.html"
+website: https://stores.bestbuy.com/mn/eagan/1235-town-centre-dr-1055.html

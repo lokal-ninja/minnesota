@@ -1,11 +1,11 @@
 id: 294905816
-type: way
+type: node
 latitude: 47.75428
 longitude: -90.32618
 postcode: "55604"
 city: Grand Marais
-street: "East Highway 61"
-housenumber: 531
+street: East Highway 61
+housenumber: "531"
 phone: ""
 opening_hours: ""
 website: ""

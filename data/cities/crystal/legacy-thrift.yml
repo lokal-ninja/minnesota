@@ -1,11 +1,11 @@
 id: 1170959650
-type: way
+type: node
 latitude: 45.02031
 longitude: -93.33946
 postcode: ""
 city: Crystal
-street: "36th Avenue North"
-housenumber: 4713
+street: 36th Avenue North
+housenumber: "4713"
 phone: "+17635221786"
 opening_hours: ""
 website: ""

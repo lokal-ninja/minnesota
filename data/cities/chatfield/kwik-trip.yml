@@ -1,11 +1,11 @@
 id: 691031593
-type: way
+type: node
 latitude: 43.85072
 longitude: -92.19356
 postcode: ""
 city: Chatfield
-street: "Highway 30 W"
-housenumber: 150
-phone: "+1-507-867-3415"
-opening_hours: "24/7"
-website: "https://www.kwiktrip.com/locator/store?id=608"
+street: Highway 30 W
+housenumber: "150"
+phone: +1-507-867-3415
+opening_hours: 24/7
+website: https://www.kwiktrip.com/locator/store?id=608

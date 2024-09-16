@@ -1,11 +1,11 @@
 id: 272332734
-type: way
+type: node
 latitude: 44.75727
 longitude: -93.30466
-postcode: "55337-4236"
+postcode: 55337-4236
 city: Burnsville
-street: "Burnsville Parkway West"
-housenumber: 2000
+street: Burnsville Parkway West
+housenumber: "2000"
 phone: ""
 opening_hours: ""
-website: "https://www.facebook.com/CrossTownLiquor"
+website: https://www.facebook.com/CrossTownLiquor

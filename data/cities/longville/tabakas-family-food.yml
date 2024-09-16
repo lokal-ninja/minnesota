@@ -1,11 +1,11 @@
 id: 387625486
-type: way
+type: node
 latitude: 46.98591
 longitude: -94.21194
 postcode: "56655"
 city: Longville
-street: "State Highway 84 Northeast"
-housenumber: 5007
-phone: "+1-218-363-2303"
+street: State Highway 84 Northeast
+housenumber: "5007"
+phone: +1-218-363-2303
 opening_hours: ""
 website: ""

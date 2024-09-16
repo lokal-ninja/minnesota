@@ -1,11 +1,11 @@
 id: 419121351
-type: way
+type: node
 latitude: 44.9442
 longitude: -93.34279
 postcode: "55416"
 city: Saint Louis Park
-street: "Highway 7"
-housenumber: 4925
+street: Highway 7
+housenumber: "4925"
 phone: ""
 opening_hours: ""
 website: ""

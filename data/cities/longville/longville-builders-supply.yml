@@ -1,11 +1,11 @@
 id: 966216652
-type: way
+type: node
 latitude: 46.98587
 longitude: -94.21025
 postcode: "56655"
 city: Longville
-street: "Reservation Avenue"
-housenumber: 186
-phone: "+1-218-363-2716"
+street: Reservation Avenue
+housenumber: "186"
+phone: +1-218-363-2716
 opening_hours: ""
-website: "https://www.acehardware.com/store-details/06959"
+website: https://www.acehardware.com/store-details/06959

@@ -1,11 +1,11 @@
 id: 986756514
-type: way
+type: node
 latitude: 44.9789
 longitude: -93.29738
 postcode: "55405"
 city: Minneapolis
-street: "2nd Avenue North"
-housenumber: 1305
+street: 2nd Avenue North
+housenumber: "1305"
 phone: "+19524916837"
 opening_hours: ""
-website: "http://www.kostorage.com/"
+website: http://www.kostorage.com/

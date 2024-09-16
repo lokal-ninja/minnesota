@@ -1,11 +1,11 @@
 id: 607969780
-type: way
+type: node
 latitude: 44.97731
 longitude: -93.10753
 postcode: "55117"
 city: St Paul
-street: "North Albemarle Street"
-housenumber: 1199
-phone: "+1-651-487-2887"
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-19:00"
-website: "https://flawlesspresentation.com"
+street: North Albemarle Street
+housenumber: "1199"
+phone: +1-651-487-2887
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-19:00
+website: https://flawlesspresentation.com

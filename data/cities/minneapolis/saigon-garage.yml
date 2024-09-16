@@ -1,11 +1,11 @@
 id: 355864309
-type: way
+type: node
 latitude: 44.94869
 longitude: -93.22747
 postcode: "55406"
 city: Minneapolis
-street: "East Lake Street"
-housenumber: 3028
-phone: "+1 612 721 7087"
+street: East Lake Street
+housenumber: "3028"
+phone: +1 612 721 7087
 opening_hours: ""
 website: ""

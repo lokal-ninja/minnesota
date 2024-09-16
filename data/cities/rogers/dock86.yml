@@ -1,11 +1,11 @@
 id: 765797351
-type: way
+type: node
 latitude: 45.20568
 longitude: -93.54797
 postcode: "55374"
 city: Rogers
-street: "Rogers Drive"
-housenumber: 13800
+street: Rogers Drive
+housenumber: "13800"
 phone: ""
 opening_hours: ""
 website: ""

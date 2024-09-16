@@ -1,11 +1,11 @@
 id: 1116106605
-type: way
+type: node
 latitude: 44.18428
 longitude: -94.00945
 postcode: "56001"
 city: Mankato
-street: "North River Drive"
-housenumber: 1150
+street: North River Drive
+housenumber: "1150"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

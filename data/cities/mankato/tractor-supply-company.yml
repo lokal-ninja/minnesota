@@ -1,11 +1,11 @@
 id: 969844927
-type: way
+type: node
 latitude: 44.18229
 longitude: -93.95399
 postcode: "56001"
 city: Mankato
-street: "North Victory Drive"
-housenumber: 1771
-phone: "+1 507-625-6151"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: North Victory Drive
+housenumber: "1771"
+phone: +1 507-625-6151
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

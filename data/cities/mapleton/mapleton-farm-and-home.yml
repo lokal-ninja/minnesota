@@ -1,11 +1,11 @@
 id: 762106340
-type: way
+type: node
 latitude: 43.92925
 longitude: -93.95616
 postcode: "56065"
 city: Mapleton
-street: "Main Street Northeast"
-housenumber: 216
+street: Main Street Northeast
+housenumber: "216"
 phone: ""
 opening_hours: ""
 website: ""

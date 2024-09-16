@@ -1,11 +1,11 @@
 id: 1117863710
-type: way
+type: node
 latitude: 45.17207
 longitude: -93.8605
 postcode: "55313"
 city: Buffalo
-street: "1st Street Northeast"
-housenumber: 938
+street: 1st Street Northeast
+housenumber: "938"
 phone: ""
 opening_hours: ""
 website: ""

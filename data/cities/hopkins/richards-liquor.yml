@@ -1,11 +1,11 @@
 id: 919821937
-type: way
+type: node
 latitude: 44.92558
 longitude: -93.41296
 postcode: "55343"
 city: Hopkins
-street: "10th Avenue North"
-housenumber: 22
+street: 10th Avenue North
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 772186056
-type: way
+type: node
 latitude: 45.29383
 longitude: -93.76749
 postcode: "55362"
 city: Monticello
-street: "Hart Boulevard"
-housenumber: 9855
+street: Hart Boulevard
+housenumber: "9855"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=177"
+website: https://www.kwiktrip.com/locator/store?id=177

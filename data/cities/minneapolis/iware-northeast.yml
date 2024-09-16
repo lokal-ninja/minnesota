@@ -4,8 +4,8 @@ latitude: 45.00101
 longitude: -93.26256
 postcode: "55413"
 city: Minneapolis
-street: "13th Ave NE"
-housenumber: 339
-phone: "+1-612-617-1070"
-opening_hours: "by appointment"
-website: "https://iwarenortheast.com/"
+street: 13th Ave NE
+housenumber: "339"
+phone: +1-612-617-1070
+opening_hours: '"by appointment"'
+website: https://iwarenortheast.com/

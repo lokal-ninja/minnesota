@@ -1,11 +1,11 @@
 id: 631649357
-type: way
+type: node
 latitude: 44.42938
 longitude: -95.76271
 postcode: "56258"
 city: Marshall
-street: "Boyer Drive"
-housenumber: 1500
+street: Boyer Drive
+housenumber: "1500"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3270"
+website: https://www.menards.com/store-details/store.html?store=3270

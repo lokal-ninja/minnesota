@@ -1,11 +1,11 @@
 id: 142871589
-type: way
+type: node
 latitude: 44.05884
 longitude: -92.45537
 postcode: "55906"
 city: Rochester
-street: "37th Street NE"
-housenumber: 500
+street: 37th Street NE
+housenumber: "500"
 phone: ""
 opening_hours: ""
 website: ""

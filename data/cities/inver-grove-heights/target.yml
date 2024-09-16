@@ -1,11 +1,11 @@
 id: 529039309
-type: way
+type: node
 latitude: 44.83681
 longitude: -93.08643
 postcode: "55077"
 city: Inver Grove Heights
-street: "Amana Trail"
-housenumber: 7841
-phone: "+1 651-234-2949"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/inver-grove-heights/2519"
+street: Amana Trail
+housenumber: "7841"
+phone: +1 651-234-2949
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/inver-grove-heights/2519

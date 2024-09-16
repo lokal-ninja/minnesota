@@ -1,11 +1,11 @@
 id: 1116120117
-type: way
+type: node
 latitude: 44.18795
 longitude: -94.0159
 postcode: "56001"
 city: Mankato
-street: "West Lind Street"
-housenumber: 105
+street: West Lind Street
+housenumber: "105"
 phone: ""
-opening_hours: "Tu-We,Fr 09:00-16:00; Th 09:00-18:00; Sa 09:00-15:00"
+opening_hours: Tu-We,Fr 09:00-16:00; Th 09:00-18:00; Sa 09:00-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 493367111
-type: way
+type: node
 latitude: 44.86244
 longitude: -92.99995
 postcode: "55055"
 city: Newport
-street: "7th Avenue"
-housenumber: 695
-phone: "+1 651 459 0329"
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-12:00"
-website: "https://kissautobody.com/"
+street: 7th Avenue
+housenumber: "695"
+phone: +1 651 459 0329
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-12:00
+website: https://kissautobody.com/

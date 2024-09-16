@@ -1,11 +1,11 @@
 id: 42789261
-type: way
+type: node
 latitude: 44.7989
 longitude: -93.52154
 postcode: "55379"
 city: Shakopee
-street: "1st Avenue East"
-housenumber: 444
+street: 1st Avenue East
+housenumber: "444"
 phone: ""
 opening_hours: ""
-website: "https://www.holidaystationstores.com"
+website: https://www.holidaystationstores.com

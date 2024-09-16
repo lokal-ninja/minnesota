@@ -1,11 +1,11 @@
 id: 293574757
-type: way
+type: node
 latitude: 46.72123
 longitude: -92.46111
 postcode: "55720"
 city: Cloquet
-street: "2nd Street"
-housenumber: 12
-phone: "+1-218-879-2163"
+street: 2nd Street
+housenumber: "12"
+phone: +1-218-879-2163
 opening_hours: ""
 website: ""

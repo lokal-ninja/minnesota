@@ -1,11 +1,11 @@
 id: 280560459
-type: way
+type: node
 latitude: 46.35374
 longitude: -94.24066
 postcode: "56425"
 city: Baxter
-street: "Excelsior Road"
-housenumber: 7565
-phone: "+1 218-828-4740"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/mn/baxter-743.shtml"
+street: Excelsior Road
+housenumber: "7565"
+phone: +1 218-828-4740
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/mn/baxter-743.shtml

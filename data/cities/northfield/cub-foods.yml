@@ -1,11 +1,11 @@
 id: 295287478
-type: way
+type: node
 latitude: 44.4327
 longitude: -93.18659
 postcode: "55057"
 city: Northfield
-street: "Highway 3 S"
-housenumber: 2423
-phone: "+1 507 645 6887"
+street: Highway 3 S
+housenumber: "2423"
+phone: +1 507 645 6887
 opening_hours: ""
 website: ""

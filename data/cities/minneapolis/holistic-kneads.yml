@@ -4,8 +4,8 @@ latitude: 44.93729
 longitude: -93.29062
 postcode: "55408"
 city: Minneapolis
-street: "Bryant Avenue South"
-housenumber: 3609
-phone: "+1-612-827-9557"
-opening_hours: "by appointment only"
-website: "https://www.holistickneads.net/"
+street: Bryant Avenue South
+housenumber: "3609"
+phone: +1-612-827-9557
+opening_hours: '"by appointment only"'
+website: https://www.holistickneads.net/

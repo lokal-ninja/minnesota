@@ -1,11 +1,11 @@
 id: 1190455246
-type: way
+type: node
 latitude: 45.16582
 longitude: -93.85516
 postcode: "55313"
 city: Buffalo
-street: "Brighton Avenue South"
-housenumber: 310
+street: Brighton Avenue South
+housenumber: "310"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1059743194
-type: way
+type: node
 latitude: 47.06324
 longitude: -91.6102
 postcode: "55616"
 city: Two Harbors
-street: "MN-61"
-housenumber: 1825
+street: MN-61
+housenumber: "1825"
 phone: ""
 opening_hours: ""
 website: ""

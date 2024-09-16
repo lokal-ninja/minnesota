@@ -1,11 +1,11 @@
 id: 79236611
-type: way
+type: node
 latitude: 44.94036
 longitude: -93.13772
 postcode: "55105"
 city: Saint Paul
-street: "Grand Avenue"
-housenumber: 891
-phone: "+1 651 2248320"
+street: Grand Avenue
+housenumber: "891"
+phone: +1 651 2248320
 opening_hours: ""
-website: "https://www.redballoonbookshop.com/"
+website: https://www.redballoonbookshop.com/

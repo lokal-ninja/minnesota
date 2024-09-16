@@ -1,11 +1,11 @@
 id: 1087016803
-type: way
+type: node
 latitude: 45.08004
 longitude: -93.04973
 postcode: "55110"
 city: White Bear Lake
-street: "Gun Club Road"
-housenumber: 1225
+street: Gun Club Road
+housenumber: "1225"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 589730137
-type: way
+type: node
 latitude: 43.86286
 longitude: -92.48813
 postcode: "55976"
 city: Stewartville
-street: "North Main Street"
-housenumber: 924
-phone: "+1-507-533-6504"
-opening_hours: "Mo-Sa 07:30-17:30; Su closed"
-website: "https://stewartville-auto-sales-body-shop.business.site/"
+street: North Main Street
+housenumber: "924"
+phone: +1-507-533-6504
+opening_hours: Mo-Sa 07:30-17:30; Su closed
+website: https://stewartville-auto-sales-body-shop.business.site/

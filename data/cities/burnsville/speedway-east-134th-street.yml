@@ -1,11 +1,11 @@
 id: 208896917
-type: way
+type: node
 latitude: 44.76227
 longitude: -93.24938
 postcode: "55337"
 city: Burnsville
-street: "East 134th Street"
-housenumber: 1884
+street: East 134th Street
+housenumber: "1884"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/MN/Burnsville/1884-E-134th-Street"
+website: https://www.speedway.com/locations/MN/Burnsville/1884-E-134th-Street

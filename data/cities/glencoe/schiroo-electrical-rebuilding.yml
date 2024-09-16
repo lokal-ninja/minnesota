@@ -1,11 +1,11 @@
 id: 1082179313
-type: way
+type: node
 latitude: 44.77136
 longitude: -94.15242
 postcode: "55336"
 city: Glencoe
-street: "Hennepin Avenue North"
-housenumber: 1215
-phone: "+1-320-864-6200"
+street: Hennepin Avenue North
+housenumber: "1215"
+phone: +1-320-864-6200
 opening_hours: ""
-website: "https://www.schiroo.com/"
+website: https://www.schiroo.com/

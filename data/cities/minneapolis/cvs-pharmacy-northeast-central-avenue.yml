@@ -1,11 +1,11 @@
 id: 934745817
-type: way
+type: node
 latitude: 45.03532
 longitude: -93.24707
 postcode: "55418"
 city: Minneapolis
-street: "Northeast Central Avenue"
-housenumber: 3665
+street: Northeast Central Avenue
+housenumber: "3665"
 phone: ""
-opening_hours: "Mo-Fr 09:00-22:00"
-website: "https://www.cvs.com/store-locator/minneapolis-mn-pharmacies/3655-central-ave-minneapolis-mn-55418/storeid=5996"
+opening_hours: Mo-Fr 09:00-22:00
+website: https://www.cvs.com/store-locator/minneapolis-mn-pharmacies/3655-central-ave-minneapolis-mn-55418/storeid=5996

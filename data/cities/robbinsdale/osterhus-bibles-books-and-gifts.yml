@@ -1,11 +1,11 @@
 id: 1222315561
-type: way
+type: node
 latitude: 45.03847
 longitude: -93.34702
 postcode: "55422"
 city: Robbinsdale
-street: "West Broadway Avenue"
-housenumber: 4500
+street: West Broadway Avenue
+housenumber: "4500"
 phone: "+17635379311"
 opening_hours: ""
-website: "https://www.osterhuspub.com/"
+website: https://www.osterhuspub.com/

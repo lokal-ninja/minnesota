@@ -1,11 +1,11 @@
 id: 631674339
-type: way
+type: node
 latitude: 43.68144
 longitude: -94.44564
 postcode: "56031"
 city: Fairmont
-street: "Goemann Road"
-housenumber: 1250
-phone: "+1 507-235-2500"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/3806/fairmont-mn/whats-new"
+street: Goemann Road
+housenumber: "1250"
+phone: +1 507-235-2500
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/3806/fairmont-mn/whats-new

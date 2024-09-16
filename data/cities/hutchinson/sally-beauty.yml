@@ -1,11 +1,11 @@
 id: 1152302899
-type: way
+type: node
 latitude: 44.86822
 longitude: -94.37623
 postcode: "55350"
 city: Hutchinson
-street: "State Highway 15"
-housenumber: 1380
+street: State Highway 15
+housenumber: "1380"
 phone: ""
 opening_hours: ""
 website: ""

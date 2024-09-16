@@ -1,11 +1,11 @@
 id: 125011380
-type: way
+type: node
 latitude: 44.0767
 longitude: -92.51281
 postcode: "55901"
 city: Rochester
-street: "Northwest 55th Street"
-housenumber: 3410
-phone: "+1 507-281-8355"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/rochester-mn-sams-club/6427"
+street: Northwest 55th Street
+housenumber: "3410"
+phone: +1 507-281-8355
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/rochester-mn-sams-club/6427

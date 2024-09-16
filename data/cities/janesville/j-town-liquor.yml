@@ -1,11 +1,11 @@
 id: 1157010050
-type: way
+type: node
 latitude: 44.11602
 longitude: -93.69939
 postcode: "56048"
 city: Janesville
-street: "East 1st Street"
-housenumber: 601
+street: East 1st Street
+housenumber: "601"
 phone: ""
 opening_hours: ""
 website: ""

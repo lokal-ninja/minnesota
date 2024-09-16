@@ -4,8 +4,8 @@ latitude: 45.1778
 longitude: -93.87235
 postcode: "55313"
 city: Buffalo
-street: "5th Street Northeast"
-housenumber: 205
+street: 5th Street Northeast
+housenumber: "205"
 phone: ""
 opening_hours: ""
 website: ""

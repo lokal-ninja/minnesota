@@ -1,11 +1,11 @@
 id: 233576405
-type: way
+type: node
 latitude: 44.97086
 longitude: -93.36788
 postcode: "55426"
 city: Saint Louis Park
-street: "Wayzata Boulevard"
-housenumber: 6919
-phone: "+1-952-546-1611"
+street: Wayzata Boulevard
+housenumber: "6919"
+phone: +1-952-546-1611
 opening_hours: ""
-website: "https://www.andybrownpoolservice.com/"
+website: https://www.andybrownpoolservice.com/

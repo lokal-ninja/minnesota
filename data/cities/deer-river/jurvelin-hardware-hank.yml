@@ -1,11 +1,11 @@
 id: 706509662
-type: way
+type: node
 latitude: 47.33264
 longitude: -93.79276
-postcode: "56636-8735"
+postcode: 56636-8735
 city: Deer River
-street: "Main Avenue East"
-housenumber: 108
-phone: "+1 218-246-8628"
-opening_hours: "Mo-Sa 08:30-17:00"
+street: Main Avenue East
+housenumber: "108"
+phone: +1 218-246-8628
+opening_hours: Mo-Sa 08:30-17:00
 website: ""

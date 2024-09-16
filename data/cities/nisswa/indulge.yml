@@ -1,11 +1,11 @@
 id: 582430460
-type: way
+type: node
 latitude: 46.5201
 longitude: -94.28894
 postcode: "56468"
 city: Nisswa
-street: "Main Street"
-housenumber: 25445
+street: Main Street
+housenumber: "25445"
 phone: ""
 opening_hours: ""
 website: ""

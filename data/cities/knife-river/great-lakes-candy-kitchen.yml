@@ -1,11 +1,11 @@
 id: 1060456186
-type: way
+type: node
 latitude: 46.95005
 longitude: -91.78214
 postcode: ""
 city: Knife River
-street: "Scenic Northshore Drive"
-housenumber: 223
-phone: "+1 218 834 2121"
+street: Scenic Northshore Drive
+housenumber: "223"
+phone: +1 218 834 2121
 opening_hours: ""
-website: "http://greatlakescandy.com"
+website: http://greatlakescandy.com

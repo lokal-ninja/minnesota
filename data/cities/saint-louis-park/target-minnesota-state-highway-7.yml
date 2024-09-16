@@ -1,11 +1,11 @@
 id: 43300382
-type: way
+type: node
 latitude: 44.93661
 longitude: -93.39249
 postcode: "55426"
 city: Saint Louis Park
-street: "Minnesota State Highway 7"
-housenumber: 8900
-phone: "+1 952-935-6941"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/knollwood/2189"
+street: Minnesota State Highway 7
+housenumber: "8900"
+phone: +1 952-935-6941
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/knollwood/2189

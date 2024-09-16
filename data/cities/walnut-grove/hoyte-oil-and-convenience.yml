@@ -1,11 +1,11 @@
 id: 1125989895
-type: way
+type: node
 latitude: 44.22532
 longitude: -95.47012
 postcode: "56180"
 city: Walnut Grove
-street: "6th Street"
-housenumber: 241
-phone: "507-859-2552"
+street: 6th Street
+housenumber: "241"
+phone: 507-859-2552
 opening_hours: ""
 website: ""

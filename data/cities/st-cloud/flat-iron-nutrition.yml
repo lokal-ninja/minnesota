@@ -1,11 +1,11 @@
 id: 222406260
-type: way
+type: node
 latitude: 45.56179
 longitude: -94.16318
 postcode: "56304"
 city: St. Cloud
-street: "2nd Street North"
-housenumber: 202
+street: 2nd Street North
+housenumber: "202"
 phone: ""
 opening_hours: ""
 website: ""

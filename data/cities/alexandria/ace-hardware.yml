@@ -2,10 +2,10 @@ id: 10575153745
 type: node
 latitude: 45.88799
 longitude: -95.37809
-postcode: "56308-1421"
+postcode: 56308-1421
 city: Alexandria
-street: "Broadway Street"
-housenumber: 406
-phone: "+1 320-763-5200"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-17:00; Su 09:00-14:00"
+street: Broadway Street
+housenumber: "406"
+phone: +1 320-763-5200
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-17:00; Su 09:00-14:00
 website: ""

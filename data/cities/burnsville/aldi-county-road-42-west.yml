@@ -1,11 +1,11 @@
 id: 965101117
-type: way
+type: node
 latitude: 44.74794
 longitude: -93.29522
-postcode: "55337-4431"
+postcode: 55337-4431
 city: Burnsville
-street: "County Road 42 West"
-housenumber: 1294
-phone: "+1 833-472-7042"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/mn/burnsville/1294-county-road-42-w"
+street: County Road 42 West
+housenumber: "1294"
+phone: +1 833-472-7042
+opening_hours: Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00
+website: https://stores.aldi.us/mn/burnsville/1294-county-road-42-w

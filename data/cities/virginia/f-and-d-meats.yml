@@ -1,11 +1,11 @@
 id: 442997961
-type: way
+type: node
 latitude: 47.51567
 longitude: -92.55113
 postcode: "55792"
 city: Virginia
-street: "8th Street South"
-housenumber: 1108
-phone: "+1 218-749-1330"
+street: 8th Street South
+housenumber: "1108"
+phone: +1 218-749-1330
 opening_hours: ""
-website: "https://fdmeats.com/"
+website: https://fdmeats.com/

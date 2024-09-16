@@ -4,8 +4,8 @@ latitude: 44.96062
 longitude: -93.27757
 postcode: "55404"
 city: Minneapolis
-street: "Nicollet Avenue South"
-housenumber: 2201
-phone: "+1-612-872-6688"
-opening_hours: "Mo 10:30-18:00; Tu-Th 10:00-19:00; Fr,Sa 10:00-20:00"
-website: "https://www.hairisii.com"
+street: Nicollet Avenue South
+housenumber: "2201"
+phone: +1-612-872-6688
+opening_hours: Mo 10:30-18:00; Tu-Th 10:00-19:00; Fr,Sa 10:00-20:00
+website: https://www.hairisii.com

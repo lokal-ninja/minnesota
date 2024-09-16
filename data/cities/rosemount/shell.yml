@@ -1,11 +1,11 @@
 id: 522442097
-type: way
+type: node
 latitude: 44.70791
 longitude: -93.21685
 postcode: "55068"
 city: Rosemount
-street: "167th Street West"
-housenumber: 7468
-phone: "+1-952-432-4944"
+street: 167th Street West
+housenumber: "7468"
+phone: +1-952-432-4944
 opening_hours: ""
 website: ""

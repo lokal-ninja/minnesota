@@ -4,8 +4,8 @@ latitude: 44.93333
 longitude: -93.34066
 postcode: "55416"
 city: Saint Louis Park
-street: "Excelsior Boulevard"
-housenumber: 4712
+street: Excelsior Boulevard
+housenumber: "4712"
 phone: ""
-opening_hours: "open By appointment only"
-website: "https://www.pinotspalette.com/"
+opening_hours: open "By appointment only"
+website: https://www.pinotspalette.com/

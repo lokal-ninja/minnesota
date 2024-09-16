@@ -1,11 +1,11 @@
 id: 83692572
-type: way
+type: node
 latitude: 44.88678
 longitude: -93.24866
 postcode: "55423"
 city: Richfield
-street: "Richfield Parkway"
-housenumber: 6301
-phone: "+1 612-243-2400"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/richfield-mn/mn/richfield/55423/2845"
+street: Richfield Parkway
+housenumber: "6301"
+phone: +1 612-243-2400
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/richfield-mn/mn/richfield/55423/2845

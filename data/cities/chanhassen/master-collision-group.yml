@@ -1,11 +1,11 @@
 id: 42850386
-type: way
+type: node
 latitude: 44.86033
 longitude: -93.52928
 postcode: "55317"
 city: Chanhassen
-street: "West 79th Street"
-housenumber: 227
+street: West 79th Street
+housenumber: "227"
 phone: ""
 opening_hours: ""
 website: ""

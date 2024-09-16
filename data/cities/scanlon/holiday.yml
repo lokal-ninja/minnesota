@@ -1,11 +1,11 @@
 id: 860883225
-type: way
+type: node
 latitude: 46.70247
 longitude: -92.42579
 postcode: "55720"
 city: Scanlon
-street: "County Highway 45 South"
-housenumber: 1309
+street: County Highway 45 South
+housenumber: "1309"
 phone: ""
 opening_hours: ""
 website: ""

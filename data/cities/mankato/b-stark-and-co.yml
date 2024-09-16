@@ -1,11 +1,11 @@
 id: 1117657648
-type: way
+type: node
 latitude: 44.16936
 longitude: -93.9619
 postcode: "56001"
 city: Mankato
-street: "Adams Street"
-housenumber: 1621
+street: Adams Street
+housenumber: "1621"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

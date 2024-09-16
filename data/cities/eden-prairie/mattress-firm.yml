@@ -1,11 +1,11 @@
 id: 44994116
-type: way
+type: node
 latitude: 44.85499
 longitude: -93.41989
 postcode: "55344"
 city: Eden Prairie
-street: "Prairie Center Drive"
-housenumber: 335
-phone: "+1 952-995-0303"
+street: Prairie Center Drive
+housenumber: "335"
+phone: +1 952-995-0303
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/mn/eden-prairie/080015/"
+website: https://www.mattressfirm.com/en-us/stores/mn/eden-prairie/080015/

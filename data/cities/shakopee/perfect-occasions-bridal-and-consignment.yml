@@ -1,11 +1,11 @@
 id: 788972586
-type: way
+type: node
 latitude: 44.79866
 longitude: -93.52515
 postcode: "55379"
 city: Shakopee
-street: "Lewis Street South"
-housenumber: 101
+street: Lewis Street South
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

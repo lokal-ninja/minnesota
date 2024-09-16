@@ -1,11 +1,11 @@
 id: 1177414394
-type: way
+type: node
 latitude: 44.77389
 longitude: -93.64478
 postcode: "55315"
 city: Carver
-street: "Monroe Drive"
-housenumber: 1700
+street: Monroe Drive
+housenumber: "1700"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=1095"
+website: https://www.kwiktrip.com/locator/store?id=1095

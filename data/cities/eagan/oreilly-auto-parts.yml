@@ -1,11 +1,11 @@
 id: 320468981
-type: way
+type: node
 latitude: 44.78964
 longitude: -93.20679
 postcode: "55122"
 city: Eagan
-street: "Cliff Road"
-housenumber: 1988
+street: Cliff Road
+housenumber: "1988"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/mn/eagan/autoparts-3247.html"
+website: https://locations.oreillyauto.com/mn/eagan/autoparts-3247.html

@@ -1,11 +1,11 @@
 id: 954069380
-type: way
+type: node
 latitude: 44.92752
 longitude: -92.9565
 postcode: "55125"
 city: Woodbury
-street: "Queens Drive"
-housenumber: 1475
+street: Queens Drive
+housenumber: "1475"
 phone: ""
 opening_hours: ""
 website: ""

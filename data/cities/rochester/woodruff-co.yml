@@ -1,11 +1,11 @@
 id: 165358683
-type: way
+type: node
 latitude: 44.00119
 longitude: -92.45802
 postcode: "55904"
 city: Rochester
-street: "3rd Avenue Southeast"
-housenumber: 1524
+street: 3rd Avenue Southeast
+housenumber: "1524"
 phone: ""
 opening_hours: ""
 website: ""

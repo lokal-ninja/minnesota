@@ -1,11 +1,11 @@
 id: 810785049
-type: way
+type: node
 latitude: 48.44258
 longitude: -93.04925
 postcode: "56669"
 city: Kabetogama
-street: "Gamma Road"
-housenumber: 9903
-phone: "+1-218-875-3313"
-opening_hours: "May-Oct"
+street: Gamma Road
+housenumber: "9903"
+phone: +1-218-875-3313
+opening_hours: May-Oct
 website: ""

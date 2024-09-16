@@ -1,11 +1,11 @@
 id: 1299351004
-type: way
+type: node
 latitude: 45.0372
 longitude: -92.8258
 postcode: "55082"
 city: Stillwater
-street: "West Frontage Road"
-housenumber: 1320
+street: West Frontage Road
+housenumber: "1320"
 phone: ""
 opening_hours: ""
 website: ""

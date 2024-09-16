@@ -1,11 +1,11 @@
 id: 119006335
-type: way
+type: node
 latitude: 44.96306
 longitude: -93.27513
 postcode: "55404"
 city: Minneapolis
-street: "East Franklin Avenue"
-housenumber: 126
-phone: "+1-612-871-1234"
-opening_hours: "24/7"
-website: "https://www.hodroffepsteinmemorialchapels.com"
+street: East Franklin Avenue
+housenumber: "126"
+phone: +1-612-871-1234
+opening_hours: 24/7
+website: https://www.hodroffepsteinmemorialchapels.com

@@ -1,11 +1,11 @@
 id: 1014126307
-type: way
+type: node
 latitude: 44.95436
 longitude: -92.77184
 postcode: "55043"
 city: Lakeland
-street: "Saint Croix Trail North"
-housenumber: 404
-phone: "+1 651 255 2500"
-opening_hours: "Mo 10:00-14:00"
-website: "http://bonsaimotors.com/"
+street: Saint Croix Trail North
+housenumber: "404"
+phone: +1 651 255 2500
+opening_hours: Mo 10:00-14:00
+website: http://bonsaimotors.com/

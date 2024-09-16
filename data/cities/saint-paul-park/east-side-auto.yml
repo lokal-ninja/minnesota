@@ -1,11 +1,11 @@
 id: 603184413
-type: way
+type: node
 latitude: 44.844
 longitude: -93.00306
 postcode: "55071"
 city: Saint Paul Park
-street: "Main Street"
-housenumber: 805
+street: Main Street
+housenumber: "805"
 phone: ""
 opening_hours: ""
-website: "https://www.eastside-auto.com/"
+website: https://www.eastside-auto.com/

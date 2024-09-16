@@ -4,8 +4,8 @@ latitude: 44.73525
 longitude: -93.21457
 postcode: "55124"
 city: Apple Valley
-street: "147th Street West"
-housenumber: 7373
-phone: "651-424-1746"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-20:00"
-website: "https://www.signaturehomeservices.org/"
+street: 147th Street West
+housenumber: "7373"
+phone: 651-424-1746
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-20:00
+website: https://www.signaturehomeservices.org/

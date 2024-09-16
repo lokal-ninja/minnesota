@@ -1,11 +1,12 @@
 id: 528466472
-type: way
+type: node
 latitude: 44.6583
 longitude: -93.2533
 postcode: "55044"
 city: Lakeville
-street: "Icenic Trail"
-housenumber: 20137
-phone: "(952)-469-6695"
-opening_hours: "Mo 09:00-17:00; Tu 12:00-17:00; We 12:00-17:00; Th 12:00-17:00; Fr 09:00-15:00"
-website: "http://www.threadsandinks.com/"
+street: Icenic Trail
+housenumber: "20137"
+phone: (952)-469-6695
+opening_hours: Mo 09:00-17:00; Tu 12:00-17:00; We 12:00-17:00; Th 12:00-17:00; Fr
+    09:00-15:00
+website: http://www.threadsandinks.com/

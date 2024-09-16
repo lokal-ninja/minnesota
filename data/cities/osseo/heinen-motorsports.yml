@@ -1,11 +1,11 @@
 id: 762299309
-type: way
+type: node
 latitude: 45.11749
 longitude: -93.4036
 postcode: "55369"
 city: Osseo
-street: "1st Avenue Northwest"
-housenumber: 21
+street: 1st Avenue Northwest
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

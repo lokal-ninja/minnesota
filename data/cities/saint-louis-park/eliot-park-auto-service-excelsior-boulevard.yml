@@ -1,11 +1,11 @@
 id: 914286359
-type: way
+type: node
 latitude: 44.93019
 longitude: -93.35116
 postcode: "55416"
 city: Saint Louis Park
-street: "Excelsior Boulevard"
-housenumber: 5608
+street: Excelsior Boulevard
+housenumber: "5608"
 phone: "+19525444097"
 opening_hours: ""
-website: "https://eliotparkauto.com/services/"
+website: https://eliotparkauto.com/services/

@@ -1,11 +1,11 @@
 id: 931245846
-type: way
+type: node
 latitude: 44.89628
 longitude: -94.35233
 postcode: "55350"
 city: Hutchinson
-street: "Highway 7 East"
-housenumber: 525
+street: Highway 7 East
+housenumber: "525"
 phone: ""
 opening_hours: ""
 website: ""

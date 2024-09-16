@@ -1,11 +1,11 @@
 id: 766028941
-type: way
+type: node
 latitude: 45.19046
 longitude: -93.55187
 postcode: "55374"
 city: Rogers
-street: "County Road 81"
-housenumber: 21301
+street: County Road 81
+housenumber: "21301"
 phone: ""
 opening_hours: ""
 website: ""

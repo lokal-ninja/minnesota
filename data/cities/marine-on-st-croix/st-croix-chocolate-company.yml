@@ -1,11 +1,11 @@
 id: 1229275372
-type: way
+type: node
 latitude: 45.19762
 longitude: -92.76986
 postcode: "55047"
 city: Marine on St. Croix
-street: "Parker Street"
-housenumber: 261
-phone: "(651) 433-1400"
+street: Parker Street
+housenumber: "261"
+phone: (651) 433-1400
 opening_hours: ""
-website: "https://stcroixchocolateco.com/"
+website: https://stcroixchocolateco.com/

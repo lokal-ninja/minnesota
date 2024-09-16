@@ -1,11 +1,11 @@
 id: 544866375
-type: way
+type: node
 latitude: 44.32642
 longitude: -93.95621
 postcode: "56082"
 city: Saint Peter
-street: "North Minnesota Avenue"
-housenumber: 100
+street: North Minnesota Avenue
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

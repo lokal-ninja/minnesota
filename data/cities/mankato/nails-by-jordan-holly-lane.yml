@@ -1,11 +1,11 @@
 id: 1117657759
-type: way
+type: node
 latitude: 44.1661
 longitude: -93.9684
 postcode: "56001"
 city: Mankato
-street: "Holly Lane"
-housenumber: 500
+street: Holly Lane
+housenumber: "500"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 12:00-17:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 12:00-17:00
 website: ""

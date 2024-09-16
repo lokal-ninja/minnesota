@@ -1,11 +1,11 @@
 id: 1043303486
-type: way
+type: node
 latitude: 44.95233
 longitude: -92.86157
 postcode: ""
 city: Lake Elmo
-street: "Manning Avenue North"
-housenumber: 215
+street: Manning Avenue North
+housenumber: "215"
 phone: ""
 opening_hours: ""
 website: ""

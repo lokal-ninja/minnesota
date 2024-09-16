@@ -1,11 +1,11 @@
 id: 858731753
-type: way
+type: node
 latitude: 43.66387
 longitude: -93.58181
 postcode: "56009"
 city: Alden
-street: "North Star Road"
-housenumber: 125
+street: North Star Road
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

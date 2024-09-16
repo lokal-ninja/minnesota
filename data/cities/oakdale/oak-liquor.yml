@@ -1,11 +1,11 @@
 id: 1180104009
-type: way
+type: node
 latitude: 44.97531
 longitude: -92.9841
 postcode: "55128"
 city: Oakdale
-street: "Geneva Avenue North"
-housenumber: 1801
-phone: "+1-651-739-9739"
+street: Geneva Avenue North
+housenumber: "1801"
+phone: +1-651-739-9739
 opening_hours: ""
-website: "https://oak-liquor.business.site/"
+website: https://oak-liquor.business.site/

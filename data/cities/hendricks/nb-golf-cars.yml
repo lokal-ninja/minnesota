@@ -1,11 +1,11 @@
 id: 490616110
-type: way
+type: node
 latitude: 44.50336
 longitude: -96.42195
 postcode: "56136"
 city: Hendricks
-street: "Railroad Street"
-housenumber: 303
+street: Railroad Street
+housenumber: "303"
 phone: ""
 opening_hours: ""
-website: "http://nbgolfcars.com/"
+website: http://nbgolfcars.com/

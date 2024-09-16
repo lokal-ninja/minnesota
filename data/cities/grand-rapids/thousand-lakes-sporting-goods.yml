@@ -1,11 +1,11 @@
 id: 347688873
-type: way
+type: node
 latitude: 47.23625
 longitude: -93.53435
 postcode: "55744"
 city: Grand Rapids
-street: "Northeast 4th Street"
-housenumber: 331
+street: Northeast 4th Street
+housenumber: "331"
 phone: ""
 opening_hours: ""
-website: "https://thousandlakessports.com/"
+website: https://thousandlakessports.com/

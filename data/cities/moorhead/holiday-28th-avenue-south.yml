@@ -1,11 +1,11 @@
 id: 599979285
-type: way
+type: node
 latitude: 46.84987
 longitude: -96.72083
 postcode: "56560"
 city: Moorhead
-street: "28th Avenue South"
-housenumber: 3475
+street: 28th Avenue South
+housenumber: "3475"
 phone: ""
 opening_hours: ""
 website: ""

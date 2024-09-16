@@ -1,11 +1,11 @@
 id: 102923861
-type: way
+type: node
 latitude: 45.07996
 longitude: -93.05526
 postcode: "55127"
 city: White Bear Lake
-street: "County Highway 96"
-housenumber: 1075
+street: County Highway 96
+housenumber: "1075"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1075+highway+96+e-white+bear+lake-mn-55127/id=3187"
+website: https://www.walgreens.com/locator/walgreens-1075+highway+96+e-white+bear+lake-mn-55127/id=3187

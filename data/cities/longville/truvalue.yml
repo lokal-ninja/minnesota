@@ -1,11 +1,11 @@
 id: 387626787
-type: way
+type: node
 latitude: 46.992
 longitude: -94.21059
 postcode: "56655"
 city: Longville
-street: "Highway 84"
-housenumber: 5159
-phone: "+1 218-363-2124"
+street: Highway 84
+housenumber: "5159"
+phone: +1 218-363-2124
 opening_hours: ""
-website: "https://truevalue.com"
+website: https://truevalue.com

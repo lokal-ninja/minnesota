@@ -1,11 +1,11 @@
 id: 43287415
-type: way
+type: node
 latitude: 44.93755
 longitude: -93.34763
 postcode: "55416"
 city: Saint Louis Park
-street: "MN-100"
-housenumber: 3601
-phone: "+1 952 926 8855"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.target.com/sl/st-louis-park/260"
+street: MN-100
+housenumber: "3601"
+phone: +1 952 926 8855
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.target.com/sl/st-louis-park/260

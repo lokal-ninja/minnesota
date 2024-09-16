@@ -1,11 +1,11 @@
 id: 257220931
-type: way
+type: node
 latitude: 44.65093
 longitude: -93.29707
 postcode: "55044"
 city: Lakeville
-street: "Keokuk Avenue"
-housenumber: 20710
-phone: "+1 612-354-5927"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/5992/lakeville-mn/whats-new"
+street: Keokuk Avenue
+housenumber: "20710"
+phone: +1 612-354-5927
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/5992/lakeville-mn/whats-new

@@ -1,11 +1,11 @@
 id: 778216729
-type: way
+type: node
 latitude: 46.34705
 longitude: -94.2484
 postcode: "56425"
 city: Baxter
-street: "Elmwood Drive"
-housenumber: 13499
-phone: "+1 218-297-0480"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/mn/baxter/1319/"
+street: Elmwood Drive
+housenumber: "13499"
+phone: +1 218-297-0480
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/mn/baxter/1319/

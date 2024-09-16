@@ -1,11 +1,11 @@
 id: 954040905
-type: way
+type: node
 latitude: 44.92863
 longitude: -92.96197
 postcode: "55125"
 city: Woodbury
-street: "Valley Creek Plaza"
-housenumber: 7100
-phone: "+1 651-731-8456"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/mn/woodbury-55.shtml"
+street: Valley Creek Plaza
+housenumber: "7100"
+phone: +1 651-731-8456
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/mn/woodbury-55.shtml

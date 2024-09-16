@@ -1,11 +1,11 @@
 id: 1176700918
-type: way
+type: node
 latitude: 45.17242
 longitude: -93.87649
 postcode: "55313"
 city: Buffalo
-street: "Central Avenue"
-housenumber: 9
+street: Central Avenue
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

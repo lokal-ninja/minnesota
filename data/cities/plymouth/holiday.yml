@@ -1,11 +1,11 @@
 id: 91362688
-type: way
+type: node
 latitude: 45.03449
 longitude: -93.408
 postcode: "55442"
 city: Plymouth
-street: "Rockford Road"
-housenumber: 10100
+street: Rockford Road
+housenumber: "10100"
 phone: ""
 opening_hours: ""
 website: ""

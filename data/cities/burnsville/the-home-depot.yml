@@ -1,11 +1,11 @@
 id: 201694956
-type: way
+type: node
 latitude: 44.74899
 longitude: -93.28256
 postcode: "55337"
 city: Burnsville
-street: "Nicollet Boulevard West"
-housenumber: 155
-phone: "+1 952-898-6960"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/burnsville/mn/burnsville/55337/2809"
+street: Nicollet Boulevard West
+housenumber: "155"
+phone: +1 952-898-6960
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/burnsville/mn/burnsville/55337/2809

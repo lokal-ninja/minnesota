@@ -1,11 +1,11 @@
 id: 508768714
-type: way
+type: node
 latitude: 44.63102
 longitude: -93.13756
 postcode: "55024"
 city: Farmington
-street: "8th Street"
-housenumber: 1024
-phone: "+1-866-473-1728"
+street: 8th Street
+housenumber: "1024"
+phone: +1-866-473-1728
 opening_hours: ""
-website: "http://kkautoranch.com"
+website: http://kkautoranch.com

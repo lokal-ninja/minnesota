@@ -1,11 +1,11 @@
 id: 137068662
-type: way
+type: node
 latitude: 44.95482
 longitude: -93.18169
 postcode: "55104"
 city: Saint Paul
-street: "North Prior Avenue"
-housenumber: 444
-phone: "+1-651-645-1443"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 09:00-13:00"
-website: "https://www.merriamparkrepair.com/"
+street: North Prior Avenue
+housenumber: "444"
+phone: +1-651-645-1443
+opening_hours: Mo-Fr 08:00-17:30; Sa 09:00-13:00
+website: https://www.merriamparkrepair.com/

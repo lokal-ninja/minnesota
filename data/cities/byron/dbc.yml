@@ -1,11 +1,11 @@
 id: 608232939
-type: way
+type: node
 latitude: 44.03062
 longitude: -92.60718
 postcode: "55920"
 city: Byron
-street: "County Road 3 NW"
-housenumber: 714
-phone: "+1 507 775 9977"
-opening_hours: "Mo-Fr 07:30-17:00; Sa by appointment"
-website: "https://dbcroch.com/"
+street: County Road 3 NW
+housenumber: "714"
+phone: +1 507 775 9977
+opening_hours: Mo-Fr 07:30-17:00; Sa "by appointment"
+website: https://dbcroch.com/

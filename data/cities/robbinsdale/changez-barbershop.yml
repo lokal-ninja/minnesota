@@ -1,11 +1,11 @@
 id: 1225734290
-type: way
+type: node
 latitude: 45.02358
 longitude: -93.33049
 postcode: "55422"
 city: Robbinsdale
-street: "West Broadway Avenue"
-housenumber: 3747
+street: West Broadway Avenue
+housenumber: "3747"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 572950229
-type: way
+type: node
 latitude: 45.23584
 longitude: -93.03066
 postcode: ""
 city: Forest Lake
-street: "West Freeway Drive"
-housenumber: 14640
-phone: "(833) 435-6976"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su off"
-website: "https://www.ganderrv.com/dealer/forest-lake-minnesota"
+street: West Freeway Drive
+housenumber: "14640"
+phone: (833) 435-6976
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su off
+website: https://www.ganderrv.com/dealer/forest-lake-minnesota

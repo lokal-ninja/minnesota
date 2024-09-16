@@ -1,11 +1,11 @@
 id: 488585993
-type: way
+type: node
 latitude: 44.88971
 longitude: -93.2485
 postcode: "55423"
 city: Richfield
-street: "Cedar Avenue South"
-housenumber: 6244
+street: Cedar Avenue South
+housenumber: "6244"
 phone: ""
 opening_hours: ""
 website: ""

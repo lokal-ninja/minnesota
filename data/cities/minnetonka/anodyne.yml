@@ -1,11 +1,11 @@
 id: 461722706
-type: way
+type: node
 latitude: 44.89524
 longitude: -93.40648
 postcode: "55343"
 city: Minnetonka
-street: "Blue Circle Drive"
-housenumber: 6024
+street: Blue Circle Drive
+housenumber: "6024"
 phone: ""
 opening_hours: ""
-website: "https://www.anodynerehab.com/"
+website: https://www.anodynerehab.com/

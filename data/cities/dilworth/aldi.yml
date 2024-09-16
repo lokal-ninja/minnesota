@@ -1,11 +1,11 @@
 id: 599480725
-type: way
+type: node
 latitude: 46.88492
 longitude: -96.72501
-postcode: "56529-1807"
+postcode: 56529-1807
 city: Dilworth
-street: "34th Street North"
-housenumber: 833
-phone: "+1 833-472-7002"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/mn/dilworth/833-34th-street-n"
+street: 34th Street North
+housenumber: "833"
+phone: +1 833-472-7002
+opening_hours: Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00
+website: https://stores.aldi.us/mn/dilworth/833-34th-street-n

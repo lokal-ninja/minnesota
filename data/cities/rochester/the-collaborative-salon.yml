@@ -4,8 +4,8 @@ latitude: 44.02232
 longitude: -92.4999
 postcode: "55902"
 city: Rochester
-street: "23rd Avenue SW"
-housenumber: 121
+street: 23rd Avenue SW
+housenumber: "121"
 phone: ""
-opening_hours: "Tu-Sa by appointment"
+opening_hours: Tu-Sa "by appointment"
 website: ""

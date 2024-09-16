@@ -4,8 +4,8 @@ latitude: 45.09641
 longitude: -95.04415
 postcode: "56201"
 city: Willmar
-street: "28th Avenue SW"
-housenumber: 120
-phone: "+1-320-214-7520"
+street: 28th Avenue SW
+housenumber: "120"
+phone: +1-320-214-7520
 opening_hours: ""
-website: "http://www.southsidestoragemn.com/default.html"
+website: http://www.southsidestoragemn.com/default.html

@@ -1,11 +1,11 @@
 id: 126102163
-type: way
+type: node
 latitude: 45.05821
 longitude: -93.31187
 postcode: "55430"
 city: Brooklyn Center
-street: "County Road 10"
-housenumber: 2501
+street: County Road 10
+housenumber: "2501"
 phone: ""
 opening_hours: ""
 website: ""

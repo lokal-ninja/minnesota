@@ -1,11 +1,11 @@
 id: 293761762
-type: way
+type: node
 latitude: 47.74954
 longitude: -90.33471
 postcode: "55604"
 city: Grand Marais
-street: "West Wisconsin Street"
-housenumber: 105
+street: West Wisconsin Street
+housenumber: "105"
 phone: ""
 opening_hours: ""
-website: "https://www.joynesbenfranklin.com/"
+website: https://www.joynesbenfranklin.com/

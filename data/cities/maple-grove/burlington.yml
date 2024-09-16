@@ -1,11 +1,11 @@
 id: 761505345
-type: way
+type: node
 latitude: 45.09625
 longitude: -93.43925
 postcode: "55369"
 city: Maple Grove
-street: "Elm Creek Boulevard North"
-housenumber: 12530
-phone: "+1 651-364-3457"
-opening_hours: "Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-23:00"
-website: "https://stores.burlington.com/mn/maple-grove/1198"
+street: Elm Creek Boulevard North
+housenumber: "12530"
+phone: +1 651-364-3457
+opening_hours: Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-23:00
+website: https://stores.burlington.com/mn/maple-grove/1198

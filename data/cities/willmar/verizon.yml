@@ -1,11 +1,11 @@
 id: 332620850
-type: way
+type: node
 latitude: 45.10652
 longitude: -95.04228
 postcode: "56201"
 city: Willmar
-street: "1st Street South"
-housenumber: 1605
-phone: "+1-320-231-1234"
+street: 1st Street South
+housenumber: "1605"
+phone: +1-320-231-1234
 opening_hours: ""
-website: "https://www.verizonwireless.com"
+website: https://www.verizonwireless.com

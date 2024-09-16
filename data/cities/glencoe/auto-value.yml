@@ -1,11 +1,11 @@
 id: 1084453442
-type: way
+type: node
 latitude: 44.77179
 longitude: -94.15223
 postcode: "55336"
 city: Glencoe
-street: "Hennepin Avenue North"
-housenumber: 1225
-phone: "+1-320-864-3174"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 08:00-12:00"
-website: "https://locations.autovalue.com/mn/glencoe/260132/"
+street: Hennepin Avenue North
+housenumber: "1225"
+phone: +1-320-864-3174
+opening_hours: Mo-Fr 07:30-17:30; Sa 08:00-12:00
+website: https://locations.autovalue.com/mn/glencoe/260132/

@@ -1,11 +1,11 @@
 id: 996496013
-type: way
+type: node
 latitude: 45.00764
 longitude: -93.23679
 postcode: "55418"
 city: Minneapolis
-street: "Northeast Johnson Street"
-housenumber: 1847
+street: Northeast Johnson Street
+housenumber: "1847"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/MN/Minneapolis/1847-Johnson-St-NE"
+website: https://www.speedway.com/locations/MN/Minneapolis/1847-Johnson-St-NE

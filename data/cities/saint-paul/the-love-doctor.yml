@@ -4,8 +4,8 @@ latitude: 44.95588
 longitude: -93.16829
 postcode: "55104"
 city: Saint Paul
-street: "University Avenue"
-housenumber: 1607
-phone: "+1-651-649-5683"
-opening_hours: "Mo-We 10:00-22:00; Th-Sa 10:00-00:00; Su 12:00-20:00"
-website: "https://www.thelovedoctorstore.com/"
+street: University Avenue
+housenumber: "1607"
+phone: +1-651-649-5683
+opening_hours: Mo-We 10:00-22:00; Th-Sa 10:00-00:00; Su 12:00-20:00
+website: https://www.thelovedoctorstore.com/

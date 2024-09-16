@@ -1,11 +1,11 @@
 id: 138900062
-type: way
+type: node
 latitude: 43.85332
 longitude: -92.48804
 postcode: "55976"
 city: Stewartville
-street: "South Main Street"
-housenumber: 302
+street: South Main Street
+housenumber: "302"
 phone: ""
 opening_hours: ""
 website: ""
