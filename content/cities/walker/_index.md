@@ -1,6 +1,6 @@
 ---
 title: Walker
 url: /walker/
-latitude: 47.1
-longitude: -94.585
+latitude: 47.102
+longitude: -94.582
 ---
