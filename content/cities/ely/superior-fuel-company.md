@@ -1,5 +1,0 @@
----
-title: "Superior Fuel Company"
-url: /ely/superior-fuel-company/
-shop: gas
----
