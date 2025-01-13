@@ -1,5 +1,5 @@
 ---
 title: "Casey's General Store"
-url: /dilworth/caseys-general-store-center-avenue-west/
+url: /dilworth/caseys-general-store-center-avenue-east/
 shop: convenience
 ---
