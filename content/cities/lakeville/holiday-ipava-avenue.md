@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
-url: /rochester/holiday-2nd-street-sw/
+url: /lakeville/holiday-ipava-avenue/
 shop: convenience
 ---
