@@ -1,6 +1,6 @@
 ---
 title: Finland
 url: /finland/
-latitude: 47.411
-longitude: -91.246
+latitude: 47.395
+longitude: -91.249
 ---
