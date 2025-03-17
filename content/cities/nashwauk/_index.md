@@ -1,6 +1,6 @@
 ---
 title: Nashwauk
 url: /nashwauk/
-latitude: 47.37
-longitude: -93.171
+latitude: 47.379
+longitude: -93.169
 ---
