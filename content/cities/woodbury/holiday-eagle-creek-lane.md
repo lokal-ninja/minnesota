@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
-url: /lakeville/holiday-kenrick-avenue/
+url: /woodbury/holiday-eagle-creek-lane/
 shop: convenience
 ---

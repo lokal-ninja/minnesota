@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
-url: /woodbury/holiday-woodlane-drive/
+url: /lakeville/holiday-ipava-avenue/
 shop: convenience
 ---
