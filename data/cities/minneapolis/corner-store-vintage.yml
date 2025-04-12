@@ -7,5 +7,5 @@ city: Minneapolis
 street: West Lake Street
 housenumber: "900"
 phone: +1-612-823-1270
-opening_hours: 12:00-17:00; Sa 11:00-18:00
+opening_hours: Tu-Fr,Su 12:00-17:00; Sa 11:00-18:00
 website: ""
