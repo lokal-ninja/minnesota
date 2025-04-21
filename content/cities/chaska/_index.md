@@ -1,6 +1,6 @@
 ---
 title: Chaska
 url: /chaska/
-latitude: 44.832
-longitude: -93.601
+latitude: 44.792
+longitude: -93.6
 ---

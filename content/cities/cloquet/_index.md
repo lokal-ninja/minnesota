@@ -1,6 +1,6 @@
 ---
 title: Cloquet
 url: /cloquet/
-latitude: 46.704
-longitude: -92.458
+latitude: 46.711
+longitude: -92.463
 ---
