@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
-url: /moorhead/holiday-30th-avenue-south/
+url: /saint-paul/holiday-old-hudson-road/
 shop: convenience
 ---
