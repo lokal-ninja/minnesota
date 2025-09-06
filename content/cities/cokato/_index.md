@@ -1,6 +1,6 @@
 ---
 title: Cokato
 url: /cokato/
-latitude: 45.079
-longitude: -94.194
+latitude: 45.08
+longitude: -94.192
 ---
