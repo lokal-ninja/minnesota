@@ -1,6 +1,6 @@
 ---
 title: Saint Michael
 url: /saint-michael/
-latitude: 45.218
-longitude: -93.599
+latitude: 45.195
+longitude: -93.664
 ---
