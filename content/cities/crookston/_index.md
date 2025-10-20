@@ -1,6 +1,6 @@
 ---
 title: Crookston
 url: /crookston/
-latitude: 47.786
-longitude: -96.61
+latitude: 47.774
+longitude: -96.609
 ---
