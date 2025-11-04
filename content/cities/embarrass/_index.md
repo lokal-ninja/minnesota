@@ -1,6 +1,6 @@
 ---
 title: Embarrass
 url: /embarrass/
-latitude: 47.663
-longitude: -92.197
+latitude: 47.659
+longitude: -92.202
 ---
