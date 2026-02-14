@@ -1,6 +1,6 @@
 ---
 title: Becker
 url: /becker/
-latitude: 45.384
-longitude: -93.862
+latitude: 45.39
+longitude: -93.87
 ---
