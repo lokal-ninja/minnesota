@@ -1,6 +1,6 @@
 ---
 title: Blackduck
 url: /blackduck/
-latitude: 47.73
-longitude: -94.548
+latitude: 47.731
+longitude: -94.549
 ---

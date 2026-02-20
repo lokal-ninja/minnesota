@@ -1,6 +1,6 @@
 ---
 title: Proctor
 url: /proctor/
-latitude: 46.725
-longitude: -92.22
+latitude: 46.744
+longitude: -92.224
 ---
