@@ -1,6 +1,6 @@
 ---
 title: Hermantown
 url: /hermantown/
-latitude: 46.85
-longitude: -92.271
+latitude: 46.809
+longitude: -92.176
 ---
