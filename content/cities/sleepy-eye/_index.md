@@ -1,6 +1,6 @@
 ---
 title: Sleepy Eye
 url: /sleepy-eye/
-latitude: 44.297
-longitude: -94.729
+latitude: 44.31
+longitude: -94.725
 ---
