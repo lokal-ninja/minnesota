@@ -1,6 +1,6 @@
 ---
 title: Cambridge
 url: /cambridge/
-latitude: 45.572
-longitude: -93.203
+latitude: 45.574
+longitude: -93.221
 ---
