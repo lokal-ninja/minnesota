@@ -1,6 +1,6 @@
 ---
 title: Oronoco
 url: /oronoco/
-latitude: 44.15
-longitude: -92.528
+latitude: 44.145
+longitude: -92.533
 ---

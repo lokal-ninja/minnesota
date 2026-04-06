@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /duluth/speedway-88th-avenue-west/
+url: /duluth/speedway-woodland-avenue/
 shop: convenience
 ---
