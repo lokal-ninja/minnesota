@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
-url: /oak-park-heights/goodwill/
+url: /stillwater/goodwill/
 shop: charity
 ---
