@@ -1,6 +1,6 @@
 ---
 title: Nisswa
 url: /nisswa/
-latitude: 46.519
-longitude: -94.288
+latitude: 46.521
+longitude: -94.29
 ---
