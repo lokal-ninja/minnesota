@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /mankato/atandt-holly-lane/
+url: /mankato/atandt-madison-avenue/
 shop: mobile phone
 ---

@@ -1,6 +1,6 @@
 ---
 title: Burnsville
 url: /burnsville/
-latitude: 44.739
-longitude: -93.261
+latitude: 44.747
+longitude: -93.293
 ---
