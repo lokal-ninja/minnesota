@@ -1,6 +1,6 @@
 ---
 title: Glencoe
 url: /glencoe/
-latitude: 44.77
-longitude: -94.152
+latitude: 44.771
+longitude: -94.151
 ---
