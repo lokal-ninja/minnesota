@@ -1,5 +1,5 @@
 ---
 title: "Ashama Auto Repair"
-url: /st-paul/ashama-auto-repair/
+url: /saint-paul/ashama-auto-repair/
 shop: car repair
 ---

@@ -1,6 +1,6 @@
 ---
 title: Shoreview
 url: /shoreview/
-latitude: 45.058
-longitude: -93.146
+latitude: 45.057
+longitude: -93.145
 ---
