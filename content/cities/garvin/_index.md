@@ -1,6 +1,6 @@
 ---
 title: Garvin
 url: /garvin/
-latitude: 44.216
-longitude: -95.762
+latitude: 44.214
+longitude: -95.758
 ---
