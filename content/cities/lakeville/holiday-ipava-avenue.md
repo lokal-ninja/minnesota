@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
-url: /lakeville/holiday-kenrick-avenue/
+url: /lakeville/holiday-ipava-avenue/
 shop: convenience
 ---
