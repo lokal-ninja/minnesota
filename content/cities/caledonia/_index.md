@@ -1,6 +1,6 @@
 ---
 title: Caledonia
 url: /caledonia/
-latitude: 43.641
-longitude: -91.502
+latitude: 43.634
+longitude: -91.496
 ---

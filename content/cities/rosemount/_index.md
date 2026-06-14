@@ -1,6 +1,6 @@
 ---
 title: Rosemount
 url: /rosemount/
-latitude: 44.731
-longitude: -93.136
+latitude: 44.737
+longitude: -93.127
 ---
