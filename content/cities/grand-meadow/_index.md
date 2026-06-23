@@ -1,6 +1,6 @@
 ---
 title: Grand Meadow
 url: /grand-meadow/
-latitude: 43.707
-longitude: -92.574
+latitude: 43.71
+longitude: -92.589
 ---

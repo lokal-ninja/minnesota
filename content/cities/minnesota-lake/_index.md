@@ -1,6 +1,6 @@
 ---
 title: Minnesota Lake
 url: /minnesota-lake/
-latitude: 43.843
-longitude: -93.832
+latitude: 43.84
+longitude: -93.829
 ---
