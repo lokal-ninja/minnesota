@@ -1,6 +1,6 @@
 ---
 title: Sauk Centre
 url: /sauk-centre/
-latitude: 45.721
-longitude: -94.948
+latitude: 45.699
+longitude: -94.92
 ---

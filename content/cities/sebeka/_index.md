@@ -1,6 +1,6 @@
 ---
 title: Sebeka
 url: /sebeka/
-latitude: 46.624
-longitude: -95.094
+latitude: 46.63
+longitude: -95.09
 ---

@@ -1,11 +1,11 @@
-id: 13108076011
+id: 13108076010
 type: node
-latitude: 44.96157
-longitude: -93.16675
+latitude: 44.96159
+longitude: -93.16684
 postcode: "55104"
 city: Saint Paul
-street: Snelling Avenue
-housenumber: "678"
+street: Snelling Avenue;Snelling Avenue North
+housenumber: 678;680
 phone: +1-651-703-4879
 opening_hours: 09:00-20:00
 website: https://www.mamasgmarket.com/
