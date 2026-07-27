@@ -7,5 +7,5 @@ city: Rochester
 street: Northern Hills Drive Northeast
 housenumber: "511"
 phone: +1-507-287-1410
-opening_hours: Mo-Fr 08:00-13:00,14:00-17
+opening_hours: Mo-Fr 08:00-13:00;14:00-17:00
 website: https://gamehavenbsa.org/resources/for-families/scout-shop/

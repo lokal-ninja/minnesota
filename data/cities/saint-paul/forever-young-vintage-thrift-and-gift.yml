@@ -7,6 +7,5 @@ city: Saint Paul
 street: 7th Street East
 housenumber: "30"
 phone: "+16514409079"
-opening_hours: Saturday 12–5 PM  Sunday Closed  Monday Closed  Tuesday 12–5 PM
-     Wednesday 12–5 PM  Thursday Closed  Friday 12–5 PM
+opening_hours: Tu,We,Fr,Sa 12:00-17:00; Su,Mo,Th closed
 website: ""
