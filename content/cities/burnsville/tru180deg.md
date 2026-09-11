@@ -1,5 +1,5 @@
 ---
 title: "Tru180°"
 url: /burnsville/tru180deg/
-shop: shop
+shop: furniture
 ---

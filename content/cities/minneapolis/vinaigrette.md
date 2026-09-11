@@ -1,5 +1,5 @@
 ---
 title: "Vinaigrette"
 url: /minneapolis/vinaigrette/
-shop: supermarket
+shop: deli
 ---

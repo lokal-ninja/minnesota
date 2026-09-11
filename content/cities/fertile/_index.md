@@ -1,6 +1,6 @@
 ---
 title: Fertile
 url: /fertile/
-latitude: 47.542
-longitude: -96.28
+latitude: 47.534
+longitude: -96.281
 ---

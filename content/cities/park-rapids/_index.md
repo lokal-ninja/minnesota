@@ -1,6 +1,6 @@
 ---
 title: Park Rapids
 url: /park-rapids/
-latitude: 47.252
-longitude: -95.213
+latitude: 46.925
+longitude: -95.035
 ---

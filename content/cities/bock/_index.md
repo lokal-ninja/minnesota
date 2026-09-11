@@ -1,6 +1,6 @@
 ---
 title: Bock
 url: /bock/
-latitude: 45.786
+latitude: 45.787
 longitude: -93.553
 ---
