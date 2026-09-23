@@ -7,5 +7,5 @@ city: Minneapolis
 street: Nicollet Mall
 housenumber: "651"
 phone: ""
-opening_hours: Tu-Fr 10:00-15:00; Mo,Sa,Su by appointment
+opening_hours: Tu-Fr 10:00-15:00; Mo,Sa,Su "by appointment"
 website: https://silber.diamonds/
