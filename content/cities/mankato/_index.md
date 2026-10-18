@@ -1,6 +1,6 @@
 ---
 title: Mankato
 url: /mankato/
-latitude: 44.16
-longitude: -94.015
+latitude: 44.162
+longitude: -94.008
 ---
