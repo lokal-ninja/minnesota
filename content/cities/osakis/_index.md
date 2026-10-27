@@ -1,6 +1,6 @@
 ---
 title: Osakis
 url: /osakis/
-latitude: 45.864
-longitude: -95.139
+latitude: 45.868
+longitude: -95.158
 ---
