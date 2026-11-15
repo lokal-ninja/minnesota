@@ -1,6 +1,6 @@
 ---
-title: St. Paul
+title: St Paul
 url: /st-paul/
-latitude: 44.918
-longitude: -93.141
+latitude: 44.956
+longitude: -93.171
 ---

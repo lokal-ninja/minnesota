@@ -1,5 +1,5 @@
 ---
 title: "Midwest Indoor Storage"
-url: /fairbault/midwest-indoor-storage/
+url: /new-ulm/midwest-indoor-storage/
 shop: storage rental
 ---
