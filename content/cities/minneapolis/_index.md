@@ -1,6 +1,6 @@
 ---
 title: Minneapolis
 url: /minneapolis/
-latitude: 44.929
-longitude: -93.253
+latitude: 45.005
+longitude: -93.23
 ---
